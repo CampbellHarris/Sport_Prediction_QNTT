@@ -1,0 +1,360 @@
+13:35
+New York Yankees
+1
+–
+3
+Baltimore Orioles
+1.77
+2.12
+15
+12:10
+Detroit Tigers
+5
+–
+2
+Minnesota Twins
+1.96
+1.89
+14
+21:10
+Los Angeles Dodgers
+6
+–
+4
+Colorado Rockies
+1.37
+3.22
+15
+21:07
+Los Angeles Angels
+3
+–
+2
+Texas Rangers
+1.73
+2.17
+15
+20:40
+San Diego Padres
+5
+–
+2
+Chicago White Sox
+1.86
+2.01
+15
+19:20
+Atlanta Braves
+4
+–
+2
+New York Mets
+2.00
+1.86
+15
+19:20
+Houston Astros
+2
+–
+1
+Tampa Bay Rays
+1.66
+2.30
+15
+19:15
+St.Louis Cardinals
+13
+–
+3
+Pittsburgh Pirates
+1.44
+2.91
+15
+19:10
+Milwaukee Brewers
+3
+–
+4
+Miami Marlins
+1.55
+2.54
+15
+19:05
+Washington Nationals
+2
+–
+8
+Philadelphia Phillies
+2.67
+1.50
+14
+18:10
+Cleveland Guardians
+1
+–
+7
+Kansas City Royals
+1.55
+2.55
+15
+18:10
+Detroit Tigers
+3
+–
+2
+Minnesota Twins
+2.11
+1.77
+15
+16:10
+Seattle Mariners
+5
+–
+1
+Oakland Athletics
+1.43
+2.96
+15
+16:05
+San Francisco Giants
+4
+–
+8
+Arizona Diamondbacks
+1.82
+2.05
+15
+15:07
+Toronto Blue Jays
+10
+–
+0
+Boston Red Sox
+1.62
+2.37
+15
+14:20
+Chicago Cubs
+2
+–
+1
+Cincinnati Reds
+1.73
+2.17
+15
+13:05
+New York Yankees
+8
+–
+0
+Baltimore Orioles
+1.42
+3.02
+14
+13:05
+Washington Nationals
+13
+–
+4
+Philadelphia Phillies
+2.67
+1.51
+13
+22:15
+San Francisco Giants
+10
+–
+4
+Arizona Diamondbacks
+1.75
+2.14
+15
+22:10
+Los Angeles Dodgers
+10
+–
+1
+Colorado Rockies
+1.25
+4.23
+15
+13:35
+New York Yankees
+1
+–
+3
+Baltimore Orioles
+1.77
+2.12
+15
+12:10
+Detroit Tigers
+5
+–
+2
+Minnesota Twins
+1.96
+1.89
+14
+21:10
+Los Angeles Dodgers
+6
+–
+4
+Colorado Rockies
+1.37
+3.22
+15
+21:07
+Los Angeles Angels
+3
+–
+2
+Texas Rangers
+1.73
+2.17
+15
+20:40
+San Diego Padres
+5
+–
+2
+Chicago White Sox
+1.86
+2.01
+15
+19:20
+Atlanta Braves
+4
+–
+2
+New York Mets
+2.00
+1.86
+15
+19:20
+Houston Astros
+2
+–
+1
+Tampa Bay Rays
+1.66
+2.30
+15
+19:15
+St.Louis Cardinals
+13
+–
+3
+Pittsburgh Pirates
+1.44
+2.91
+15
+19:10
+Milwaukee Brewers
+3
+–
+4
+Miami Marlins
+1.55
+2.54
+15
+19:05
+Washington Nationals
+2
+–
+8
+Philadelphia Phillies
+2.67
+1.50
+14
+18:10
+Cleveland Guardians
+1
+–
+7
+Kansas City Royals
+1.55
+2.55
+15
+18:10
+Detroit Tigers
+3
+–
+2
+Minnesota Twins
+2.11
+1.77
+15
+16:10
+Seattle Mariners
+5
+–
+1
+Oakland Athletics
+1.43
+2.96
+15
+16:05
+San Francisco Giants
+4
+–
+8
+Arizona Diamondbacks
+1.82
+2.05
+15
+15:07
+Toronto Blue Jays
+10
+–
+0
+Boston Red Sox
+1.62
+2.37
+15
+14:20
+Chicago Cubs
+2
+–
+1
+Cincinnati Reds
+1.73
+2.17
+15
+13:05
+New York Yankees
+8
+–
+0
+Baltimore Orioles
+1.42
+3.02
+14
+13:05
+Washington Nationals
+13
+–
+4
+Philadelphia Phillies
+2.67
+1.51
+13
+22:15
+San Francisco Giants
+10
+–
+4
+Arizona Diamondbacks
+1.75
+2.14
+15
+22:10
+Los Angeles Dodgers
+10
+–
+1
+Colorado Rockies
+1.25
+4.23
+15

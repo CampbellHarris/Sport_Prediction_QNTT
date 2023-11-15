@@ -1,0 +1,2568 @@
+,team1Name,team1Score,team2Name,team2Score,result,winningOdds_team1,winningOdds_team2
+Jan-55,Atlanta Braves,5,Philadelphia Phillies,1,Atlanta Braves,1.68,2.45
+Feb-55,New York Yankees,7,Detroit Tigers,8,Detroit Tigers,1.63,2.54
+Mar-55,Cincinnati Reds,9,Oakland Athletics,3,Cincinnati Reds,1.75,2.17
+Apr-55,Washington Nationals,2,New York Mets,6,New York Mets,2.06,1.83
+May-55,Colorado Rockies,5,San Francisco Giants,8,San Francisco Giants,2.17,1.79
+Jun-55,Los Angeles Angels,12,Arizona Diamondbacks,5,Arizona Diamondbacks,1.7,2.42
+Jul-55,Seattle Mariners,7,Los Angeles Dodgers,6,Seattle Mariners,2.15,1.79
+Aug-55,Chicago Cubs,5,San Diego Padres,4,Chicago Cubs,1.83,2.07
+Sep-55,Chicago White Sox,2,Cleveland Guardians,11,Chicago White Sox,1.67,2.4
+Oct-55,Texas Rangers,0,Milwaukee Brewers,11,Milwaukee Brewers,2,1.9
+Nov-55,Baltimore Orioles,3,New York Yankees,3,New York Yankees,2.38,1.66
+Dec-55,Miami Marlins,10,Houston Astros,2,Houston Astros,1.66,2.5
+55-13,Minnesota Twins,0,Boston Red Sox,1,Boston Red Sox,1.7,2.45
+55-14,Philadelphia Phillies,3,Toronto Blue Jays,2,Philadelphia Phillies,1.81,2.15
+55-15,Pittsburgh Pirates,6,Detroit Tigers,3,Pittsburgh Pirates,1.99,1.88
+55-16,Tampa Bay Rays,4,Atlanta Braves,4,Atlanta Braves,1.75,2.5
+55-17,San Francisco Giants,3,Chicago Cubs,7,Chicago Cubs,1.74,2.2
+55-18,Washington Nationals,3,Miami Marlins,8,Miami Marlins,1.81,2.18
+55-19,Arizona Diamondbacks,3,Colorado Rockies,5,Colorado Rockies,1.79,2.4
+55-20,San Diego Padres,6,Seattle Mariners,4,San Diego Padres,1.83,2.09
+55-21,Cleveland Guardians,3,Cincinnati Reds,2,Cleveland Guardians,1.84,2.05
+55-22,Los Angeles Dodgers,3,Milwaukee Brewers,3,Milwaukee Brewers,1.67,2.6
+55-23,Oakland Athletics,10,Los Angeles Angels,8,Los Angeles Angels,1.84,2.2
+55-24,Texas Rangers,5,Kansas City Royals,5,Kansas City Royals,2.1,2.02
+55-25,Atlanta Braves,3,Minnesota Twins,1,Atlanta Braves,1.72,2.38
+55-26,Baltimore Orioles,5,Toronto Blue Jays,9,Toronto Blue Jays,2.4,1.64
+55-27,Boston Red Sox,7,Tampa Bay Rays,6,Boston Red Sox,1.81,2.26
+55-28,Detroit Tigers,6,Philadelphia Phillies,6,Philadelphia Phillies,1.87,2.19
+55-29,Pittsburgh Pirates,4,New York Yankees,3,Pittsburgh Pirates,2.45,1.65
+55-30,St.Louis Cardinals,4,Houston Astros,2,St.Louis Cardinals,1.72,2.45
+55-31,Colorado Rockies,5,Arizona Diamondbacks,3,Colorado Rockies,1.83,2.05
+55-32,Boston Red Sox,14,Minnesota Twins,1,Boston Red Sox,2.15,1.86
+Jan-54,Chicago Cubs,5,Oakland Athletics,4,Chicago Cubs,1.74,2.28
+Feb-54,Los Angeles Dodgers,6,Cleveland Guardians,2,Los Angeles Dodgers,1.6,2.45
+Mar-54,San Francisco Giants,3,Arizona Diamondbacks,5,Arizona Diamondbacks,1.57,2.71
+Apr-54,Texas Rangers,14,Chicago White Sox,5,Chicago White Sox,2.4,1.74
+May-54,Atlanta Braves,7,Tampa Bay Rays,7,Tampa Bay Rays,1.84,2.1
+Jun-54,Boston Red Sox,4,Minnesota Twins,10,Boston Red Sox,1.8,2.24
+Jul-54,Detroit Tigers,6,Pittsburgh Pirates,6,Pittsburgh Pirates,1.53,2.8
+Aug-54,Houston Astros,10,St.Louis Cardinals,3,St.Louis Cardinals,1.84,2.12
+Sep-54,Miami Marlins,3,Washington Nationals,2,Miami Marlins,2.05,1.91
+Oct-54,Philadelphia Phillies,8,Toronto Blue Jays,7,Philadelphia Phillies,1.64,2.45
+Nov-54,New York Mets,2,Houston Astros,0,New York Mets,1.62,2.85
+Dec-54,Arizona Diamondbacks,1,Texas Rangers,4,Texas Rangers,2.1,1.86
+54-13,Los Angeles Angels,7,Colorado Rockies,4,Los Angeles Angels,1.71,2.22
+54-14,Milwaukee Brewers,3,Chicago White Sox,4,Chicago White Sox,2.45,1.65
+54-15,Seattle Mariners,5,Chicago Cubs,5,Chicago Cubs,1.77,2.25
+54-16,Cleveland Guardians,6,San Diego Padres,1,Cleveland Guardians,1.8,2.15
+54-17,Kansas City Royals,5,Oakland Athletics,3,Kansas City Royals,1.66,2.46
+54-18,Los Angeles Dodgers,8,Cincinnati Reds,10,Los Angeles Dodgers,1.54,2.65
+54-19,Toronto Blue Jays,9,New York Yankees,2,Toronto Blue Jays,1.57,2.69
+54-20,Minnesota Twins,0,Atlanta Braves,4,Atlanta Braves,1.76,2.15
+54-21,Philadelphia Phillies,7,Detroit Tigers,2,Philadelphia Phillies,2.03,1.95
+54-22,Pittsburgh Pirates,9,Baltimore Orioles,10,Pittsburgh Pirates,1.74,2.25
+54-23,St.Louis Cardinals,4,Miami Marlins,3,St.Louis Cardinals,1.67,2.41
+54-24,Tampa Bay Rays,2,Boston Red Sox,4,Boston Red Sox,1.78,2.27
+54-25,San Francisco Giants,6,Milwaukee Brewers,13,San Francisco Giants,2.01,1.97
+54-26,Washington Nationals,3,St.Louis Cardinals,7,St.Louis Cardinals,1.8,2.34
+54-27,Arizona Diamondbacks,9,Seattle Mariners,1,Arizona Diamondbacks,2.2,1.81
+54-28,Los Angeles Angels,5,Kansas City Royals,8,Kansas City Royals,1.57,2.54
+54-29,San Diego Padres,4,Colorado Rockies,8,Colorado Rockies,1.54,2.71
+54-30,Chicago Cubs,3,Cincinnati Reds,2,Chicago Cubs,1.86,2.05
+54-31,Chicago White Sox,8,Los Angeles Dodgers,6,Chicago White Sox,2.3,1.76
+54-32,Cleveland Guardians,12,Texas Rangers,25,Texas Rangers,2.01,2.04
+54-33,Baltimore Orioles,10,Minnesota Twins,8,Minnesota Twins,1.72,2.38
+54-34,Boston Red Sox,5,Atlanta Braves,0,Boston Red Sox,1.78,2.29
+54-35,Detroit Tigers,1,Toronto Blue Jays,3,Toronto Blue Jays,2.37,1.69
+54-36,Miami Marlins,3,New York Mets,0,Miami Marlins,1.84,2.15
+54-37,New York Yankees,5,Philadelphia Phillies,2,New York Yankees,1.72,2.27
+54-38,Tampa Bay Rays,1,Pittsburgh Pirates,5,Pittsburgh Pirates,1.56,2.85
+54-39,Colorado Rockies,2,Chicago White Sox,4,Chicago White Sox,2.25,1.75
+54-40,Milwaukee Brewers,6,San Diego Padres,3,Milwaukee Brewers,1.76,2.25
+54-41,Seattle Mariners,3,Los Angeles Angels,7,Los Angeles Angels,1.62,2.5
+54-42,Cincinnati Reds,9,San Francisco Giants,4,Cincinnati Reds,1.93,1.95
+54-43,Kansas City Royals,11,Arizona Diamondbacks,10,Kansas City Royals,1.63,2.52
+54-44,Los Angeles Dodgers,2,Chicago Cubs,2,Chicago Cubs,1.59,2.48
+54-45,Oakland Athletics,9,Cleveland Guardians,9,Cleveland Guardians,1.84,2.14
+54-46,New York Mets,4,St.Louis Cardinals,6,St.Louis Cardinals,1.85,2.04
+54-47,Toronto Blue Jays,10,Pittsburgh Pirates,4,Pittsburgh Pirates,1.62,2.42
+54-48,Boston Red Sox,3,Baltimore Orioles,2,Boston Red Sox,1.54,2.81
+54-49,Houston Astros,2,Washington Nationals,3,Washington Nationals,2.38,1.65
+54-50,Minnesota Twins,3,Tampa Bay Rays,0,Minnesota Twins,1.9,2.1
+Jan-53,Baltimore Orioles,5,Detroit Tigers,4,Baltimore Orioles,2.11,2.3
+Feb-53,Miami Marlins,3,Houston Astros,4,Houston Astros,2.1,1.99
+Mar-53,Minnesota Twins,6,Boston Red Sox,3,Minnesota Twins,1.86,2.16
+Apr-53,New York Yankees,7,Pittsburgh Pirates,4,New York Yankees,1.49,2.85
+May-53,Kansas City Royals,5,Los Angeles Dodgers,10,Kansas City Royals,2.1,1.83
+Jun-53,Baltimore Orioles,14,Pittsburgh Pirates,5,Pittsburgh Pirates,1.72,2.3
+Jul-53,Colorado Rockies,8,Texas Rangers,7,Colorado Rockies,1.88,1.97
+Aug-53,Milwaukee Brewers,7,Seattle Mariners,7,Seattle Mariners,1.63,2.6
+Sep-53,San Diego Padres,2,Chicago Cubs,2,Chicago Cubs,1.67,2.45
+Oct-53,Chicago White Sox,3,Los Angeles Angels,12,Chicago White Sox,1.68,2.45
+Nov-53,Cleveland Guardians,9,Oakland Athletics,2,Cleveland Guardians,1.71,2.4
+Dec-53,San Francisco Giants,1,Cincinnati Reds,2,Cincinnati Reds,1.77,2.22
+53-13,New York Mets,4,Washington Nationals,2,New York Mets,1.6,2.6
+53-14,Atlanta Braves,8,Minnesota Twins,6,Atlanta Braves,1.74,2.2
+53-15,Boston Red Sox,5,Tampa Bay Rays,3,Boston Red Sox,1.8,2.18
+53-16,Detroit Tigers,14,Philadelphia Phillies,8,Philadelphia Phillies,1.79,2.2
+53-17,New York Yankees,9,Toronto Blue Jays,10,New York Yankees,1.88,2.01
+53-18,St.Louis Cardinals,2,Miami Marlins,9,Miami Marlins,2,2.01
+53-19,Seattle Mariners,3,Chicago White Sox,0,Seattle Mariners,1.94,2.08
+53-20,Los Angeles Dodgers,5,San Diego Padres,5,San Diego Padres,1.67,2.46
+53-21,Houston Astros,2,New York Mets,1,Houston Astros,1.93,2.01
+53-22,Arizona Diamondbacks,5,Los Angeles Angels,5,Los Angeles Angels,1.8,2.2
+53-23,Chicago Cubs,1,Colorado Rockies,17,Colorado Rockies,1.79,2.21
+53-24,Kansas City Royals,4,Texas Rangers,8,Texas Rangers,1.76,2.25
+53-25,Oakland Athletics,6,Milwaukee Brewers,3,Oakland Athletics,2.3,1.78
+53-26,San Francisco Giants,2,Cleveland Guardians,10,San Francisco Giants,1.67,2.4
+53-27,Toronto Blue Jays,4,Detroit Tigers,8,Detroit Tigers,1.57,2.58
+53-28,Atlanta Braves,6,Boston Red Sox,3,Atlanta Braves,1.61,2.6
+53-29,Philadelphia Phillies,6,New York Yankees,5,Philadelphia Phillies,2.13,1.82
+53-30,Pittsburgh Pirates,2,Minnesota Twins,1,Pittsburgh Pirates,1.83,2.12
+53-31,St.Louis Cardinals,5,Washington Nationals,4,St.Louis Cardinals,1.67,2.45
+53-32,Tampa Bay Rays,9,Baltimore Orioles,4,Tampa Bay Rays,1.52,2.86
+53-33,New York Mets,9,Miami Marlins,3,New York Mets,1.72,2.22
+53-34,Baltimore Orioles,8,Boston Red Sox,5,Baltimore Orioles,2.26,1.81
+53-35,Washington Nationals,8,Houston Astros,10,Washington Nationals,1.8,2.15
+53-36,Colorado Rockies,6,Los Angeles Dodgers,6,Los Angeles Dodgers,2.3,1.73
+53-37,Los Angeles Angels,5,Chicago Cubs,4,Los Angeles Angels,1.65,2.43
+53-38,Milwaukee Brewers,3,Arizona Diamondbacks,10,Milwaukee Brewers,1.62,2.5
+53-39,Chicago White Sox,6,San Francisco Giants,9,San Francisco Giants,1.8,2.2
+53-40,Cleveland Guardians,2,Seattle Mariners,3,Seattle Mariners,1.93,2.01
+53-41,Kansas City Royals,5,Cincinnati Reds,4,Kansas City Royals,1.93,2
+53-42,Oakland Athletics,3,Texas Rangers,5,Texas Rangers,1.96,2.05
+53-43,Toronto Blue Jays,,Atlanta Braves,,Atlanta Braves,1.63,2.6
+53-44,Detroit Tigers,5,New York Yankees,3,Detroit Tigers,1.84,2.2
+53-45,Minnesota Twins,7,Tampa Bay Rays,1,Minnesota Twins,1.93,1.95
+53-46,Pittsburgh Pirates,3,Philadelphia Phillies,3,Philadelphia Phillies,2.3,1.77
+53-47,Cincinnati Reds,12,Milwaukee Brewers,8,Milwaukee Brewers,2.34,1.72
+53-48,New York Yankees,7,Baltimore Orioles,1,New York Yankees,1.53,2.67
+53-49,Colorado Rockies,4,Kansas City Royals,8,Kansas City Royals,1.9,2
+53-50,San Diego Padres,3,Los Angeles Angels,0,San Diego Padres,1.61,2.65
+Jan-52,Atlanta Braves,1,Tampa Bay Rays,5,Tampa Bay Rays,1.86,2.09
+Feb-52,Boston Red Sox,4,Minnesota Twins,3,Boston Red Sox,1.72,2.29
+Mar-52,Pittsburgh Pirates,4,Baltimore Orioles,4,Baltimore Orioles,1.9,2
+Apr-52,Cleveland Guardians,1,Los Angeles Dodgers,12,Los Angeles Dodgers,2.6,1.6
+May-52,New York Yankees,3,Toronto Blue Jays,11,New York Yankees,1.82,2.13
+Jun-52,New York Mets,3,Houston Astros,5,Houston Astros,1.95,2.07
+Jul-52,Colorado Rockies,2,Arizona Diamondbacks,9,Arizona Diamondbacks,1.76,2.13
+Aug-52,San Diego Padres,4,Milwaukee Brewers,2,San Diego Padres,1.69,2.35
+Sep-52,Chicago Cubs,8,Seattle Mariners,5,Chicago Cubs,2.15,1.83
+Oct-52,Chicago White Sox,7,Texas Rangers,0,Chicago White Sox,1.62,2.42
+Nov-52,Kansas City Royals,5,San Francisco Giants,9,San Francisco Giants,1.8,2.26
+Dec-52,Oakland Athletics,5,Cincinnati Reds,4,Oakland Athletics,1.96,2.01
+52-13,Baltimore Orioles,7,Tampa Bay Rays,6,Baltimore Orioles,1.91,1.98
+52-14,Boston Red Sox,10,Atlanta Braves,7,Atlanta Braves,1.83,2.1
+52-15,Minnesota Twins,9,Pittsburgh Pirates,4,Minnesota Twins,1.5,2.88
+52-16,Philadelphia Phillies,1,Detroit Tigers,7,Detroit Tigers,1.7,2.3
+52-17,Washington Nationals,8,St.Louis Cardinals,29,Washington Nationals,2.25,1.74
+52-18,Los Angeles Dodgers,6,Oakland Athletics,4,Los Angeles Dodgers,1.5,2.94
+52-19,Miami Marlins,0,New York Mets,10,New York Mets,2.06,1.96
+52-20,Colorado Rockies,2,Los Angeles Angels,8,Los Angeles Angels,1.83,2.05
+52-21,Seattle Mariners,4,Kansas City Royals,11,Seattle Mariners,1.81,2.09
+52-22,Chicago Cubs,3,Arizona Diamondbacks,2,Chicago Cubs,1.66,2.4
+52-23,Cleveland Guardians,10,Milwaukee Brewers,3,Milwaukee Brewers,2.14,1.8
+52-24,San Francisco Giants,11,San Diego Padres,6,San Diego Padres,1.65,2.43
+52-25,Texas Rangers,1,Cincinnati Reds,7,Cincinnati Reds,1.83,2.09
+52-26,Houston Astros,3,Washington Nationals,1,Houston Astros,1.51,2.8
+52-27,New York Yankees,14,Philadelphia Phillies,2,Philadelphia Phillies,1.75,2.18
+52-28,Pittsburgh Pirates,6,Boston Red Sox,2,Pittsburgh Pirates,1.92,2.02
+52-29,Tampa Bay Rays,4,Minnesota Twins,2,Tampa Bay Rays,2.05,1.86
+52-30,Cincinnati Reds,2,Chicago Cubs,4,Chicago Cubs,1.91,2.09
+52-31,Arizona Diamondbacks,5,Los Angeles Dodgers,3,Arizona Diamondbacks,2.65,1.57
+52-32,Los Angeles Angels,7,Oakland Athletics,2,Los Angeles Angels,1.62,2.5
+52-33,Milwaukee Brewers,5,San Francisco Giants,2,Milwaukee Brewers,1.64,2.41
+52-34,Seattle Mariners,6,Texas Rangers,5,Seattle Mariners,1.74,2.25
+52-35,Chicago White Sox,8,San Diego Padres,9,San Diego Padres,1.8,2.21
+52-36,Kansas City Royals,19,Cleveland Guardians,9,Cleveland Guardians,1.53,2.71
+52-37,Atlanta Braves,5,Toronto Blue Jays,4,Atlanta Braves,1.72,2.3
+52-38,Detroit Tigers,7,New York Yankees,11,Detroit Tigers,1.72,2.2
+52-39,Philadelphia Phillies,7,Baltimore Orioles,1,Philadelphia Phillies,1.58,2.55
+52-40,St.Louis Cardinals,1,Houston Astros,2,Houston Astros,1.7,2.3
+Jan-51,Los Angeles Angels,5,Los Angeles Dodgers,1,Los Angeles Angels,2.15,1.77
+Feb-51,Arizona Diamondbacks,4,Cincinnati Reds,15,Arizona Diamondbacks,1.92,2
+Mar-51,Milwaukee Brewers,2,Texas Rangers,13,Milwaukee Brewers,1.53,2.71
+Apr-51,Chicago White Sox,4,Colorado Rockies,13,Chicago White Sox,1.5,2.75
+May-51,Kansas City Royals,8,Seattle Mariners,10,Kansas City Royals,1.64,2.4
+Jun-51,Oakland Athletics,8,San Diego Padres,2,Oakland Athletics,2.54,1.71
+Jul-51,New York Mets,8,Miami Marlins,4,New York Mets,1.57,2.56
+Aug-51,Toronto Blue Jays,7,New York Yankees,5,Toronto Blue Jays,1.62,2.46
+Sep-51,Atlanta Braves,3,Boston Red Sox,6,Boston Red Sox,1.81,2.1
+Oct-51,Minnesota Twins,8,Baltimore Orioles,2,Minnesota Twins,1.52,2.78
+Nov-51,Philadelphia Phillies,8,Detroit Tigers,7,Philadelphia Phillies,1.67,2.35
+Dec-51,Pittsburgh Pirates,2,Tampa Bay Rays,9,Tampa Bay Rays,2.4,1.62
+51-13,Washington Nationals,9,Houston Astros,6,Washington Nationals,2.47,1.61
+51-14,Seattle Mariners,4,Milwaukee Brewers,3,Seattle Mariners,2.07,1.83
+51-15,Arizona Diamondbacks,8,Chicago White Sox,4,Arizona Diamondbacks,2.25,1.71
+51-16,Cincinnati Reds,6,San Diego Padres,3,Cincinnati Reds,1.75,2.2
+51-17,Texas Rangers,3,Cleveland Guardians,1,Texas Rangers,2.25,1.78
+51-18,Miami Marlins,,Washington Nationals,,Washington Nationals,1.77,2.19
+51-19,Houston Astros,,St.Louis Cardinals,,St.Louis Cardinals,1.77,2.3
+51-20,Oakland Athletics,11,Colorado Rockies,11,Colorado Rockies,1.66,2.35
+51-21,Chicago Cubs,5,Los Angeles Angels,4,Chicago Cubs,1.69,2.3
+51-22,Los Angeles Dodgers,2,San Francisco Giants,10,Los Angeles Dodgers,1.71,2.36
+51-23,Toronto Blue Jays,2,Philadelphia Phillies,2,Philadelphia Phillies,1.56,2.6
+51-24,Boston Red Sox,2,Pittsburgh Pirates,7,Pittsburgh Pirates,1.5,2.77
+51-25,Detroit Tigers,0,Baltimore Orioles,2,Baltimore Orioles,1.68,2.28
+51-26,New York Yankees,10,Atlanta Braves,0,New York Yankees,1.5,2.89
+51-27,Tampa Bay Rays,2,Minnesota Twins,8,Minnesota Twins,1.67,2.4
+51-28,Colorado Rockies,2,Seattle Mariners,1,Colorado Rockies,1.86,2.07
+51-29,San Diego Padres,4,Kansas City Royals,2,San Diego Padres,1.81,2.26
+51-30,Los Angeles Angels,7,Cincinnati Reds,6,Los Angeles Angels,1.6,2.56
+51-31,Chicago White Sox,4,Oakland Athletics,12,Chicago White Sox,1.47,3
+51-32,San Francisco Giants,7,Texas Rangers,7,Texas Rangers,1.69,2.41
+51-33,Baltimore Orioles,3,Philadelphia Phillies,2,Baltimore Orioles,2.25,1.74
+51-34,Detroit Tigers,2,New York Yankees,6,New York Yankees,2.29,1.83
+51-35,Houston Astros,2,Miami Marlins,1,Houston Astros,1.66,2.52
+51-36,Minnesota Twins,8,Atlanta Braves,7,Minnesota Twins,1.74,2.25
+51-37,Pittsburgh Pirates,6,Toronto Blue Jays,6,Toronto Blue Jays,2.07,1.83
+51-38,St.Louis Cardinals,7,New York Mets,2,St.Louis Cardinals,2.2,1.8
+51-39,Tampa Bay Rays,9,Boston Red Sox,3,Tampa Bay Rays,1.88,2.08
+51-40,Seattle Mariners,3,Cleveland Guardians,2,Seattle Mariners,1.71,2.35
+51-41,Cincinnati Reds,2,Chicago White Sox,8,Chicago White Sox,2.05,1.9
+51-42,Miami Marlins,7,St.Louis Cardinals,4,Miami Marlins,1.7,2.35
+51-43,New York Mets,3,Washington Nationals,7,Washington Nationals,1.58,2.62
+51-44,Arizona Diamondbacks,8,San Diego Padres,2,Arizona Diamondbacks,2.4,1.72
+51-45,Milwaukee Brewers,5,Los Angeles Angels,10,Milwaukee Brewers,1.88,2.09
+51-46,Oakland Athletics,4,Kansas City Royals,5,Kansas City Royals,1.9,1.98
+51-47,San Francisco Giants,13,Colorado Rockies,2,Colorado Rockies,1.57,2.66
+51-48,Texas Rangers,8,Los Angeles Dodgers,2,Texas Rangers,2.25,1.75
+51-49,Toronto Blue Jays,5,Detroit Tigers,3,Toronto Blue Jays,1.53,2.71
+51-50,Philadelphia Phillies,5,New York Yankees,3,Philadelphia Phillies,1.58,2.52
+Jan-50,Detroit Tigers,2,Chicago White Sox,5,Chicago White Sox,2.27,1.79
+Feb-50,Tampa Bay Rays,5,Baltimore Orioles,3,Tampa Bay Rays,1.47,2.98
+Mar-50,Arizona Diamondbacks,0,San Diego Padres,3,San Diego Padres,2.44,1.74
+Apr-50,Los Angeles Angels,6,Houston Astros,13,Los Angeles Angels,2,2.11
+May-50,Atlanta Braves,7,Cincinnati Reds,6,Atlanta Braves,1.64,2.65
+Jun-50,Toronto Blue Jays,10,Texas Rangers,8,Texas Rangers,1.62,2.65
+Jul-50,Washington Nationals,3,New York Mets,7,New York Mets,2.45,1.66
+Aug-50,San Francisco Giants,6,Miami Marlins,5,San Francisco Giants,1.71,2.35
+Sep-50,Colorado Rockies,3,Los Angeles Dodgers,5,Los Angeles Dodgers,2.9,1.49
+Oct-50,Minnesota Twins,1,Seattle Mariners,2,Seattle Mariners,1.9,2.11
+Nov-50,Tampa Bay Rays,2,Baltimore Orioles,1,Tampa Bay Rays,1.54,2.9
+Dec-50,Philadelphia Phillies,9,Oakland Athletics,5,Philadelphia Phillies,1.54,2.76
+50-13,Detroit Tigers,5,Chicago White Sox,4,Detroit Tigers,2.21,1.78
+50-14,New York Yankees,6,Boston Red Sox,5,New York Yankees,1.61,2.63
+50-15,Arizona Diamondbacks,4,San Diego Padres,2,Arizona Diamondbacks,2.3,1.77
+50-16,Los Angeles Angels,1,Houston Astros,3,Houston Astros,1.85,2.17
+50-17,Atlanta Braves,3,Cincinnati Reds,6,Cincinnati Reds,1.6,2.65
+50-18,Washington Nationals,1,New York Mets,5,New York Mets,2.5,1.87
+50-19,St.Louis Cardinals,9,Pittsburgh Pirates,0,St.Louis Cardinals,1.65,2.62
+50-20,Kansas City Royals,3,Cleveland Guardians,1,Kansas City Royals,2.11,1.85
+50-21,Chicago Cubs,5,Milwaukee Brewers,4,Chicago Cubs,2.63,1.6
+50-22,Detroit Tigers,,Baltimore Orioles,,Baltimore Orioles,1.63,2.38
+50-23,Tampa Bay Rays,2,Philadelphia Phillies,9,Philadelphia Phillies,1.81,2.11
+50-24,Los Angeles Dodgers,5,Los Angeles Angels,0,Los Angeles Dodgers,1.66,2.51
+50-25,San Francisco Giants,7,Oakland Athletics,7,Oakland Athletics,1.64,2.46
+50-26,Milwaukee Brewers,5,Kansas City Royals,4,Milwaukee Brewers,1.83,2.14
+50-27,San Diego Padres,6,Chicago White Sox,9,Chicago White Sox,1.83,2.04
+50-28,Cincinnati Reds,12,Seattle Mariners,9,Seattle Mariners,2,1.86
+50-29,Texas Rangers,11,Chicago Cubs,5,Chicago Cubs,1.65,2.56
+50-30,Toronto Blue Jays,2,Baltimore Orioles,1,Toronto Blue Jays,1.48,2.99
+50-31,Atlanta Braves,1,Tampa Bay Rays,0,Atlanta Braves,1.66,2.45
+50-32,Boston Red Sox,10,Minnesota Twins,6,Minnesota Twins,1.83,2.09
+50-33,New York Yankees,3,Detroit Tigers,5,Detroit Tigers,1.65,2.4
+50-34,Philadelphia Phillies,5,Pittsburgh Pirates,1,Philadelphia Phillies,1.57,2.61
+50-35,Washington Nationals,14,New York Mets,0,Washington Nationals,1.86,2.1
+50-36,Miami Marlins,0,St.Louis Cardinals,7,St.Louis Cardinals,1.86,2.13
+50-37,Colorado Rockies,7,Milwaukee Brewers,8,Milwaukee Brewers,2.14,1.91
+50-38,Los Angeles Dodgers,4,Los Angeles Angels,10,Los Angeles Dodgers,1.58,2.67
+50-39,Chicago Cubs,15,Chicago White Sox,9,Chicago White Sox,2.12,1.8
+50-40,Cincinnati Reds,10,Kansas City Royals,6,Kansas City Royals,1.85,2.01
+Jan-49,Minnesota Twins,2,Los Angeles Dodgers,7,Los Angeles Dodgers,2.4,1.72
+Feb-49,Atlanta Braves,16,Washington Nationals,4,Washington Nationals,1.64,2.75
+Mar-49,Los Angeles Angels,4,Miami Marlins,3,Los Angeles Angels,1.91,2.48
+Apr-49,Baltimore Orioles,4,Milwaukee Brewers,5,Milwaukee Brewers,2.55,1.63
+May-49,New York Yankees,4,Toronto Blue Jays,0,New York Yankees,1.84,2.18
+Jun-49,Philadelphia Phillies,0,New York Mets,2,New York Mets,1.83,2.35
+Jul-49,Tampa Bay Rays,9,Oakland Athletics,8,Tampa Bay Rays,1.57,2.81
+Aug-49,Pittsburgh Pirates,1,Chicago Cubs,2,Chicago Cubs,2.05,1.9
+Sep-49,Chicago White Sox,3,Seattle Mariners,2,Chicago White Sox,1.93,2.12
+Oct-49,Cincinnati Reds,5,Cleveland Guardians,10,Cincinnati Reds,1.96,2.01
+Nov-49,Detroit Tigers,3,Boston Red Sox,5,Boston Red Sox,2.14,1.87
+Dec-49,San Francisco Giants,2,San Diego Padres,4,San Diego Padres,1.9,2.45
+49-13,Los Angeles Angels,6,Miami Marlins,2,Los Angeles Angels,1.84,2.45
+49-14,Minnesota Twins,4,Seattle Mariners,0,Minnesota Twins,1.81,2.24
+49-15,Atlanta Braves,2,Washington Nationals,11,Atlanta Braves,1.66,3.08
+49-16,New York Yankees,0,Toronto Blue Jays,3,Toronto Blue Jays,1.88,2.1
+49-17,Philadelphia Phillies,5,New York Mets,4,Philadelphia Phillies,1.74,2.44
+49-18,Tampa Bay Rays,2,Oakland Athletics,13,Tampa Bay Rays,1.5,3.01
+49-19,Detroit Tigers,3,Boston Red Sox,1,Detroit Tigers,2.2,1.87
+49-20,Texas Rangers,4,Colorado Rockies,6,Colorado Rockies,1.8,2.2
+49-21,Baltimore Orioles,2,Milwaukee Brewers,0,Baltimore Orioles,2.39,1.68
+49-22,Kansas City Royals,7,Cleveland Guardians,10,Kansas City Royals,2.03,1.96
+49-23,New York Yankees,3,Boston Red Sox,4,Boston Red Sox,1.76,2.27
+49-24,Arizona Diamondbacks,5,San Diego Padres,10,Arizona Diamondbacks,2.44,1.66
+49-25,Los Angeles Angels,1,Houston Astros,4,Houston Astros,1.98,1.97
+49-26,San Francisco Giants,3,Miami Marlins,2,San Francisco Giants,1.95,2.08
+49-27,Colorado Rockies,9,Los Angeles Dodgers,4,Colorado Rockies,2.83,1.51
+49-28,Chicago Cubs,4,Milwaukee Brewers,5,Milwaukee Brewers,2.2,1.81
+49-29,St.Louis Cardinals,4,Pittsburgh Pirates,9,Pittsburgh Pirates,1.48,3.08
+49-30,Kansas City Royals,3,Cleveland Guardians,17,Kansas City Royals,1.88,2.15
+49-31,Minnesota Twins,10,Seattle Mariners,4,Seattle Mariners,1.76,2.3
+49-32,Toronto Blue Jays,6,Texas Rangers,12,Toronto Blue Jays,1.53,3.06
+49-33,Atlanta Braves,3,Cincinnati Reds,6,Cincinnati Reds,1.6,2.61
+49-34,Washington Nationals,4,New York Mets,2,Washington Nationals,2.26,1.76
+49-35,Detroit Tigers,1,Chicago White Sox,10,Chicago White Sox,2.23,1.79
+49-36,Tampa Bay Rays,8,Baltimore Orioles,0,Tampa Bay Rays,1.59,2.76
+49-37,Philadelphia Phillies,1,Oakland Athletics,4,Oakland Athletics,1.49,3.02
+49-38,Los Angeles Angels,2,Houston Astros,0,Los Angeles Angels,2.05,2.01
+49-39,Arizona Diamondbacks,2,San Diego Padres,5,San Diego Padres,2.55,1.64
+49-40,Colorado Rockies,3,Los Angeles Dodgers,2,Colorado Rockies,2.5,1.69
+49-41,Atlanta Braves,2,Cincinnati Reds,1,Atlanta Braves,1.62,2.7
+49-42,Washington Nationals,0,New York Mets,5,New York Mets,2.35,1.76
+49-43,Kansas City Royals,1,Cleveland Guardians,0,Kansas City Royals,1.88,2.11
+49-44,New York Yankees,4,Boston Red Sox,2,New York Yankees,1.68,2.46
+49-45,Philadelphia Phillies,4,Oakland Athletics,2,Philadelphia Phillies,1.54,2.76
+49-46,San Francisco Giants,1,Miami Marlins,2,Miami Marlins,1.71,2.32
+49-47,Toronto Blue Jays,4,Texas Rangers,3,Toronto Blue Jays,1.51,2.87
+49-48,Chicago Cubs,9,Milwaukee Brewers,0,Chicago Cubs,2.4,1.7
+49-49,St.Louis Cardinals,6,Pittsburgh Pirates,2,St.Louis Cardinals,1.61,2.53
+49-50,Minnesota Twins,3,Seattle Mariners,4,Seattle Mariners,1.75,2.3
+Jan-48,Cleveland Guardians,2,San Francisco Giants,4,San Francisco Giants,2.1,1.99
+Feb-48,Miami Marlins,3,Philadelphia Phillies,10,Miami Marlins,1.83,2.32
+Mar-48,Boston Red Sox,4,Minnesota Twins,0,Boston Red Sox,1.74,2.28
+Apr-48,Kansas City Royals,3,Detroit Tigers,1,Kansas City Royals,1.74,2.41
+May-48,San Diego Padres,2,Atlanta Braves,5,Atlanta Braves,1.96,2.01
+Jun-48,Toronto Blue Jays,5,Oakland Athletics,7,Oakland Athletics,1.5,2.98
+Jul-48,Chicago White Sox,3,Tampa Bay Rays,2,Chicago White Sox,1.79,2.25
+Aug-48,New York Mets,2,Arizona Diamondbacks,3,Arizona Diamondbacks,1.64,2.46
+Sep-48,Los Angeles Dodgers,3,Cincinnati Reds,1,Los Angeles Dodgers,1.42,3.5
+Oct-48,Seattle Mariners,11,Houston Astros,1,Seattle Mariners,2.35,1.91
+Nov-48,San Diego Padres,2,Atlanta Braves,5,Atlanta Braves,1.95,2.01
+Dec-48,Colorado Rockies,6,Chicago Cubs,5,Colorado Rockies,1.86,2.14
+48-13,Kansas City Royals,1,Detroit Tigers,2,Detroit Tigers,1.83,2.2
+48-14,Milwaukee Brewers,1,St.Louis Cardinals,10,St.Louis Cardinals,1.83,2.44
+48-15,Texas Rangers,6,Los Angeles Angels,9,Los Angeles Angels,2.1,1.9
+Jan-47,San Diego Padres,6,Cincinnati Reds,0,San Diego Padres,1.56,2.7
+Feb-47,Colorado Rockies,6,Philadelphia Phillies,9,Philadelphia Phillies,2.01,1.96
+Mar-47,Los Angeles Dodgers,5,Atlanta Braves,1,Los Angeles Dodgers,1.82,2.21
+Apr-47,Cleveland Guardians,11,Chicago White Sox,1,Cleveland Guardians,1.71,2.45
+May-47,Milwaukee Brewers,4,Pittsburgh Pirates,2,Milwaukee Brewers,1.44,3.26
+Jun-47,Los Angeles Dodgers,1,Atlanta Braves,3,Atlanta Braves,1.74,2.49
+Jul-47,Oakland Athletics,2,Baltimore Orioles,1,Oakland Athletics,1.89,2.11
+Aug-47,San Diego Padres,6,Cincinnati Reds,2,San Diego Padres,1.57,2.91
+Sep-47,Seattle Mariners,6,Texas Rangers,2,Seattle Mariners,1.71,2.35
+Oct-47,Colorado Rockies,6,Philadelphia Phillies,5,Colorado Rockies,2.21,1.8
+Nov-47,Houston Astros,2,Los Angeles Angels,7,Los Angeles Angels,2.3,2.46
+Dec-47,Kansas City Royals,4,Minnesota Twins,3,Kansas City Royals,2.25,1.82
+47-13,Chicago Cubs,5,Tampa Bay Rays,6,Tampa Bay Rays,2.14,1.87
+47-14,Milwaukee Brewers,5,Pittsburgh Pirates,2,Milwaukee Brewers,1.43,3.33
+47-15,Boston Red Sox,2,Toronto Blue Jays,1,Boston Red Sox,2.25,2.24
+47-16,Washington Nationals,1,Arizona Diamondbacks,0,Washington Nationals,1.83,2.13
+47-17,Detroit Tigers,2,New York Yankees,4,New York Yankees,2.97,1.58
+47-18,Miami Marlins,1,St.Louis Cardinals,5,St.Louis Cardinals,2.06,1.92
+47-19,New York Mets,3,San Francisco Giants,1,New York Mets,1.83,2.11
+47-20,New York Mets,5,San Francisco Giants,4,New York Mets,1.86,2.13
+47-21,Washington Nationals,6,Arizona Diamondbacks,1,Washington Nationals,1.73,2.33
+47-22,Los Angeles Dodgers,7,Atlanta Braves,4,Los Angeles Dodgers,1.66,3.05
+47-23,Oakland Athletics,5,Baltimore Orioles,1,Oakland Athletics,1.55,2.73
+47-24,San Diego Padres,4,Cincinnati Reds,1,San Diego Padres,1.6,2.71
+47-25,Colorado Rockies,4,Philadelphia Phillies,1,Colorado Rockies,2.44,1.76
+47-26,Houston Astros,8,Los Angeles Angels,3,Houston Astros,1.74,2.29
+47-27,Chicago Cubs,4,Tampa Bay Rays,2,Chicago Cubs,2.34,1.86
+47-28,Milwaukee Brewers,6,Pittsburgh Pirates,1,Milwaukee Brewers,1.57,2.95
+47-29,Boston Red Sox,3,Minnesota Twins,8,Minnesota Twins,1.75,2.33
+47-30,San Diego Padres,2,Atlanta Braves,1,San Diego Padres,1.81,2.24
+47-31,Los Angeles Dodgers,9,Cincinnati Reds,1,Los Angeles Dodgers,1.52,2.85
+47-32,Seattle Mariners,7,Houston Astros,2,Seattle Mariners,1.99,1.96
+47-33,Colorado Rockies,4,Chicago Cubs,6,Chicago Cubs,1.82,2.21
+47-34,Texas Rangers,3,Los Angeles Angels,8,Los Angeles Angels,2.03,1.96
+47-35,Chicago White Sox,3,Tampa Bay Rays,9,Tampa Bay Rays,1.97,2.02
+47-36,Milwaukee Brewers,6,St.Louis Cardinals,5,Milwaukee Brewers,1.78,2.26
+47-37,Cleveland Guardians,1,San Francisco Giants,8,San Francisco Giants,2.15,1.84
+47-38,Miami Marlins,11,Philadelphia Phillies,3,Philadelphia Phillies,2.31,1.73
+47-39,New York Mets,5,Arizona Diamondbacks,0,New York Mets,1.54,2.75
+47-40,Toronto Blue Jays,4,Oakland Athletics,3,Toronto Blue Jays,1.39,3.5
+47-41,Boston Red Sox,8,Minnesota Twins,1,Boston Red Sox,1.85,2.2
+47-42,Pittsburgh Pirates,5,Washington Nationals,3,Pittsburgh Pirates,2.14,1.83
+47-43,Baltimore Orioles,5,New York Yankees,0,Baltimore Orioles,2.8,1.53
+47-44,Los Angeles Dodgers,5,Cincinnati Reds,2,Los Angeles Dodgers,1.54,3.01
+47-45,Seattle Mariners,0,Houston Astros,4,Houston Astros,2.39,1.83
+47-46,Colorado Rockies,9,Chicago Cubs,6,Colorado Rockies,1.88,2.14
+47-47,Milwaukee Brewers,1,St.Louis Cardinals,2,St.Louis Cardinals,1.89,2.07
+47-48,Baltimore Orioles,2,New York Yankees,5,New York Yankees,2.75,1.57
+47-49,Texas Rangers,2,Los Angeles Angels,7,Los Angeles Angels,2.22,1.86
+47-50,Pittsburgh Pirates,6,Washington Nationals,4,Pittsburgh Pirates,2.15,2.02
+Jan-46,Los Angeles Angels,4,Baltimore Orioles,5,Baltimore Orioles,1.54,3.32
+Feb-46,San Diego Padres,3,Los Angeles Dodgers,2,San Diego Padres,2.28,1.8
+Mar-46,Arizona Diamondbacks,5,New York Mets,2,Arizona Diamondbacks,2.45,1.68
+Apr-46,Atlanta Braves,7,Miami Marlins,9,Miami Marlins,1.68,2.46
+May-46,Detroit Tigers,2,Colorado Rockies,3,Colorado Rockies,2,2.32
+Jun-46,Tampa Bay Rays,3,Boston Red Sox,2,Tampa Bay Rays,1.71,2.4
+Jul-46,Cincinnati Reds,0,St.Louis Cardinals,5,St.Louis Cardinals,1.88,2.07
+Aug-46,Houston Astros,2,Toronto Blue Jays,3,Toronto Blue Jays,2.19,1.82
+Sep-46,Oakland Athletics,0,Texas Rangers,2,Texas Rangers,1.74,2.34
+Oct-46,Minnesota Twins,9,Chicago White Sox,2,Minnesota Twins,1.7,2.35
+Nov-46,Philadelphia Phillies,3,Milwaukee Brewers,5,Milwaukee Brewers,1.73,2.32
+Dec-46,Chicago Cubs,21,Pittsburgh Pirates,0,Chicago Cubs,1.63,2.58
+46-13,Detroit Tigers,13,Colorado Rockies,0,Detroit Tigers,1.86,2.29
+46-14,New York Yankees,5,Cleveland Guardians,4,New York Yankees,1.56,2.74
+46-15,Washington Nationals,2,San Francisco Giants,5,San Francisco Giants,2.57,1.6
+46-16,Arizona Diamondbacks,5,New York Mets,6,New York Mets,2.13,1.84
+46-17,Oakland Athletics,1,Texas Rangers,8,Texas Rangers,2.28,2.05
+46-18,San Diego Padres,1,Los Angeles Dodgers,6,Los Angeles Dodgers,2.41,1.86
+46-19,Seattle Mariners,4,Kansas City Royals,1,Seattle Mariners,1.79,2.25
+46-20,Los Angeles Angels,3,Baltimore Orioles,5,Baltimore Orioles,1.57,3.08
+46-21,Houston Astros,3,Toronto Blue Jays,4,Toronto Blue Jays,2.05,2.58
+46-22,Minnesota Twins,2,Chicago White Sox,1,Minnesota Twins,2.03,2.1
+46-23,Chicago Cubs,2,Pittsburgh Pirates,4,Pittsburgh Pirates,1.62,2.58
+46-24,Atlanta Braves,3,Miami Marlins,0,Atlanta Braves,1.73,2.6
+46-25,Tampa Bay Rays,3,Boston Red Sox,4,Boston Red Sox,1.72,2.39
+46-26,New York Yankees,4,Cleveland Guardians,1,New York Yankees,1.59,2.73
+46-27,Philadelphia Phillies,4,Milwaukee Brewers,2,Philadelphia Phillies,1.85,2.35
+46-28,Washington Nationals,1,San Francisco Giants,7,San Francisco Giants,2.35,1.78
+46-29,Cincinnati Reds,2,St.Louis Cardinals,4,St.Louis Cardinals,2.16,1.86
+46-30,Seattle Mariners,6,Texas Rangers,8,Texas Rangers,1.84,2.15
+46-31,Chicago Cubs,3,Pittsburgh Pirates,4,Pittsburgh Pirates,1.69,2.5
+46-32,Miami Marlins,5,St.Louis Cardinals,0,Miami Marlins,1.82,2.21
+46-33,Washington Nationals,3,Arizona Diamondbacks,4,Arizona Diamondbacks,1.81,2.18
+46-34,Oakland Athletics,6,Baltimore Orioles,4,Oakland Athletics,1.78,2.24
+46-35,Kansas City Royals,0,Minnesota Twins,1,Minnesota Twins,2.3,1.76
+46-36,Boston Red Sox,2,Toronto Blue Jays,3,Toronto Blue Jays,2.02,1.92
+46-37,Cleveland Guardians,6,Chicago White Sox,3,Cleveland Guardians,2.32,1.71
+46-38,Detroit Tigers,3,New York Yankees,0,Detroit Tigers,2.58,1.65
+46-39,New York Mets,6,San Francisco Giants,2,New York Mets,1.79,2.22
+46-40,Seattle Mariners,4,Texas Rangers,2,Seattle Mariners,1.71,2.4
+46-41,Kansas City Royals,2,Minnesota Twins,0,Kansas City Royals,2.15,1.83
+46-42,Boston Red Sox,1,Toronto Blue Jays,6,Toronto Blue Jays,2.13,1.88
+46-43,New York Mets,2,San Francisco Giants,5,San Francisco Giants,2.07,2
+46-44,Washington Nationals,2,Arizona Diamondbacks,11,Washington Nationals,1.88,2.16
+46-45,Detroit Tigers,3,New York Yankees,5,New York Yankees,2.51,1.63
+46-46,Houston Astros,0,Los Angeles Angels,6,Los Angeles Angels,2.13,1.88
+46-47,Miami Marlins,0,St.Louis Cardinals,2,St.Louis Cardinals,1.76,2.3
+46-48,Chicago Cubs,2,Tampa Bay Rays,8,Tampa Bay Rays,2.01,1.98
+46-49,Oakland Athletics,0,Baltimore Orioles,1,Baltimore Orioles,1.9,2.16
+46-50,Cleveland Guardians,2,Chicago White Sox,1,Cleveland Guardians,1.81,2.14
+Jan-45,Minnesota Twins,5,Detroit Tigers,0,Minnesota Twins,1.68,2.7
+Feb-45,Atlanta Braves,3,Chicago Cubs,6,Chicago Cubs,1.55,2.82
+Mar-45,Toronto Blue Jays,1,Boston Red Sox,7,Boston Red Sox,1.85,2.4
+Apr-45,New York Yankees,5,Baltimore Orioles,2,New York Yankees,1.43,3.25
+May-45,Washington Nationals,1,Miami Marlins,2,Miami Marlins,2.34,1.71
+Jun-45,Philadelphia Phillies,7,Colorado Rockies,3,Philadelphia Phillies,1.52,2.85
+Jul-45,Cincinnati Reds,5,San Diego Padres,8,San Diego Padres,2.51,1.86
+Aug-45,Tampa Bay Rays,3,Seattle Mariners,2,Tampa Bay Rays,1.7,2.34
+Sep-45,Pittsburgh Pirates,1,Milwaukee Brewers,3,Milwaukee Brewers,2.53,1.61
+Oct-45,Arizona Diamondbacks,3,Los Angeles Dodgers,1,Arizona Diamondbacks,2.74,1.55
+Nov-45,Chicago White Sox,7,Kansas City Royals,3,Chicago White Sox,1.56,2.8
+Dec-45,St.Louis Cardinals,10,New York Mets,5,New York Mets,2.11,1.9
+45-13,San Francisco Giants,8,Oakland Athletics,2,San Francisco Giants,1.41,3.26
+45-14,Arizona Diamondbacks,5,Los Angeles Dodgers,3,Arizona Diamondbacks,3.02,1.5
+45-15,Los Angeles Angels,4,Cleveland Guardians,1,Los Angeles Angels,1.61,2.67
+45-16,Texas Rangers,1,Houston Astros,5,Houston Astros,2.1,1.94
+45-17,St.Louis Cardinals,0,New York Mets,3,New York Mets,2.11,1.9
+45-18,Minnesota Twins,5,Detroit Tigers,4,Minnesota Twins,1.71,2.55
+45-19,Atlanta Braves,3,Chicago Cubs,1,Atlanta Braves,1.58,2.76
+45-20,Chicago White Sox,0,Kansas City Royals,6,Kansas City Royals,1.68,2.45
+45-21,Toronto Blue Jays,6,Boston Red Sox,5,Toronto Blue Jays,1.74,2.8
+45-22,New York Yankees,12,Baltimore Orioles,8,Baltimore Orioles,1.38,3.5
+45-23,Washington Nationals,2,Miami Marlins,5,Miami Marlins,2.2,1.79
+45-24,Philadelphia Phillies,10,Colorado Rockies,3,Colorado Rockies,1.62,2.8
+45-25,Cincinnati Reds,6,San Diego Padres,9,San Diego Padres,2.57,1.63
+45-26,Tampa Bay Rays,4,Seattle Mariners,8,Seattle Mariners,1.81,2.21
+45-27,Pittsburgh Pirates,8,Milwaukee Brewers,12,Pittsburgh Pirates,2.64,1.58
+45-28,Arizona Diamondbacks,0,Los Angeles Dodgers,4,Los Angeles Dodgers,2.71,1.55
+45-29,Los Angeles Angels,3,Cleveland Guardians,0,Los Angeles Angels,1.8,2.3
+45-30,Texas Rangers,6,Houston Astros,2,Texas Rangers,2.24,1.83
+45-31,St.Louis Cardinals,2,New York Mets,5,New York Mets,2.45,1.86
+45-32,Toronto Blue Jays,6,Boston Red Sox,2,Toronto Blue Jays,1.81,2.55
+45-33,Philadelphia Phillies,8,Colorado Rockies,2,Philadelphia Phillies,1.66,2.66
+45-34,Milwaukee Brewers,2,San Francisco Giants,4,San Francisco Giants,1.55,2.76
+45-35,Philadelphia Phillies,0,Milwaukee Brewers,1,Milwaukee Brewers,1.74,2.3
+45-36,Arizona Diamondbacks,2,New York Mets,6,New York Mets,2.6,1.59
+45-37,San Diego Padres,2,Los Angeles Dodgers,10,San Diego Padres,2.54,1.64
+45-38,Seattle Mariners,5,Kansas City Royals,4,Seattle Mariners,1.55,2.87
+45-39,Los Angeles Angels,7,Baltimore Orioles,6,Los Angeles Angels,1.52,2.87
+45-40,Oakland Athletics,2,Texas Rangers,0,Oakland Athletics,2.09,1.93
+45-41,Chicago Cubs,3,Pittsburgh Pirates,4,Pittsburgh Pirates,1.68,2.48
+45-42,Houston Astros,8,Toronto Blue Jays,7,Houston Astros,1.81,2.2
+45-43,Minnesota Twins,6,Chicago White Sox,4,Minnesota Twins,2.03,1.94
+45-44,Cincinnati Reds,4,St.Louis Cardinals,1,Cincinnati Reds,2.5,1.67
+45-45,Atlanta Braves,4,Miami Marlins,5,Miami Marlins,1.8,2.25
+45-46,New York Yankees,10,Cleveland Guardians,2,Cleveland Guardians,1.49,2.98
+45-47,Washington Nationals,3,San Francisco Giants,12,Washington Nationals,2.7,1.57
+45-48,Detroit Tigers,2,Colorado Rockies,6,Colorado Rockies,1.81,2.21
+45-49,Tampa Bay Rays,5,Boston Red Sox,2,Tampa Bay Rays,1.58,2.68
+45-50,Seattle Mariners,13,Kansas City Royals,7,Kansas City Royals,0,0
+Jan-44,Toronto Blue Jays,3,Houston Astros,2,Toronto Blue Jays,1.62,2.66
+Feb-44,Pittsburgh Pirates,2,San Diego Padres,5,San Diego Padres,2.61,1.58
+Mar-44,Tampa Bay Rays,3,Minnesota Twins,9,Minnesota Twins,1.81,2.2
+Apr-44,Baltimore Orioles,9,Boston Red Sox,5,Baltimore Orioles,2.3,1.74
+May-44,Los Angeles Dodgers,1,Detroit Tigers,5,Detroit Tigers,1.38,4.11
+Jun-44,Colorado Rockies,4,Cincinnati Reds,3,Colorado Rockies,1.73,2.34
+Jul-44,Kansas City Royals,0,New York Yankees,3,New York Yankees,3.17,1.54
+Aug-44,Milwaukee Brewers,9,Chicago Cubs,1,Milwaukee Brewers,1.63,2.7
+Sep-44,New York Mets,1,Philadelphia Phillies,4,Philadelphia Phillies,1.78,2.55
+Oct-44,Baltimore Orioles,2,Boston Red Sox,1,Baltimore Orioles,2.69,1.64
+Nov-44,Texas Rangers,3,Atlanta Braves,1,Texas Rangers,2.05,1.9
+Dec-44,Pittsburgh Pirates,7,San Diego Padres,6,Pittsburgh Pirates,2.7,1.65
+44-13,Miami Marlins,3,Seattle Mariners,1,Miami Marlins,1.96,2.02
+44-14,Tampa Bay Rays,1,Minnesota Twins,9,Minnesota Twins,1.51,2.87
+44-15,Oakland Athletics,1,Cleveland Guardians,3,Cleveland Guardians,2.39,1.69
+44-16,Chicago White Sox,4,Los Angeles Angels,0,Chicago White Sox,1.91,2.11
+44-17,San Francisco Giants,9,Washington Nationals,3,San Francisco Giants,1.45,3.15
+44-18,Toronto Blue Jays,2,Houston Astros,1,Toronto Blue Jays,1.68,2.47
+44-19,St.Louis Cardinals,0,Arizona Diamondbacks,2,Arizona Diamondbacks,1.67,2.48
+44-20,San Francisco Giants,4,Washington Nationals,14,San Francisco Giants,1.48,3.12
+44-21,Los Angeles Dodgers,5,Detroit Tigers,1,Los Angeles Dodgers,1.42,3.5
+44-22,Oakland Athletics,8,Cleveland Guardians,9,Cleveland Guardians,2.4,2.46
+44-23,Colorado Rockies,10,Cincinnati Reds,4,Cincinnati Reds,1.89,2.14
+44-24,St.Louis Cardinals,2,Arizona Diamondbacks,6,Arizona Diamondbacks,1.57,2.75
+44-25,Kansas City Royals,2,New York Yankees,12,Kansas City Royals,2.93,1.53
+44-26,Milwaukee Brewers,11,Chicago Cubs,1,Milwaukee Brewers,1.77,2.35
+44-27,Texas Rangers,3,Atlanta Braves,6,Atlanta Braves,2.17,1.86
+44-28,Chicago White Sox,1,Los Angeles Angels,5,Los Angeles Angels,1.83,2.34
+44-29,New York Mets,3,Philadelphia Phillies,0,New York Mets,1.88,2.2
+44-30,Tampa Bay Rays,6,Minnesota Twins,1,Tampa Bay Rays,1.78,2.21
+44-31,Toronto Blue Jays,7,Houston Astros,11,Toronto Blue Jays,1.84,2.15
+44-32,Baltimore Orioles,1,Boston Red Sox,3,Boston Red Sox,2.16,1.86
+44-33,Miami Marlins,8,Seattle Mariners,6,Miami Marlins,2,1.96
+44-34,Pittsburgh Pirates,3,San Diego Padres,7,San Diego Padres,2.62,1.6
+44-35,St.Louis Cardinals,8,Arizona Diamondbacks,3,St.Louis Cardinals,1.62,2.64
+44-36,Atlanta Braves,5,Chicago Cubs,1,Atlanta Braves,1.5,2.87
+44-37,Los Angeles Angels,4,Cleveland Guardians,1,Los Angeles Angels,1.71,2.39
+44-38,Toronto Blue Jays,1,Boston Red Sox,0,Toronto Blue Jays,1.74,2.33
+44-39,Chicago White Sox,2,Kansas City Royals,5,Kansas City Royals,1.62,2.61
+44-40,Texas Rangers,2,Houston Astros,3,Houston Astros,2.55,1.64
+44-41,Minnesota Twins,7,Detroit Tigers,1,Minnesota Twins,1.79,2.26
+44-42,Tampa Bay Rays,2,Seattle Mariners,1,Tampa Bay Rays,1.69,2.37
+44-43,New York Yankees,10,Baltimore Orioles,5,Baltimore Orioles,1.47,3.32
+44-44,Philadelphia Phillies,7,Colorado Rockies,1,Philadelphia Phillies,1.53,2.82
+44-45,Washington Nationals,2,Miami Marlins,3,Miami Marlins,2.3,1.73
+44-46,Cincinnati Reds,5,San Diego Padres,7,San Diego Padres,1.99,1.99
+44-47,Pittsburgh Pirates,2,Milwaukee Brewers,3,Milwaukee Brewers,2.39,1.68
+44-48,San Francisco Giants,0,Oakland Athletics,1,Oakland Athletics,1.66,2.61
+44-49,Los Angeles Angels,9,Cleveland Guardians,5,Los Angeles Angels,1.62,3.02
+44-50,Texas Rangers,3,Houston Astros,4,Houston Astros,2.45,1.97
+Jan-43,Los Angeles Dodgers,9,San Francisco Giants,1,Los Angeles Dodgers,1.6,2.58
+Feb-43,Colorado Rockies,5,Washington Nationals,2,Colorado Rockies,1.74,2.46
+Mar-43,Chicago Cubs,3,Chicago White Sox,4,Chicago White Sox,2.27,1.76
+Apr-43,Milwaukee Brewers,18,Cincinnati Reds,4,Cincinnati Reds,1.47,3.74
+May-43,Boston Red Sox,5,Los Angeles Angels,10,Boston Red Sox,2.25,2.24
+Jun-43,Toronto Blue Jays,2,New York Yankees,1,Toronto Blue Jays,2.39,1.71
+Jul-43,Baltimore Orioles,9,Minnesota Twins,4,Baltimore Orioles,2.26,1.75
+Aug-43,Philadelphia Phillies,1,Texas Rangers,2,Texas Rangers,1.57,2.73
+Sep-43,Detroit Tigers,2,Pittsburgh Pirates,7,Pittsburgh Pirates,1.75,2.32
+Oct-43,Cleveland Guardians,6,San Diego Padres,5,Cleveland Guardians,2.25,1.79
+Nov-43,Oakland Athletics,0,Tampa Bay Rays,3,Tampa Bay Rays,2.2,1.84
+Dec-43,Houston Astros,7,Seattle Mariners,2,Houston Astros,1.46,3.26
+43-13,Cleveland Guardians,4,San Diego Padres,5,San Diego Padres,2.25,1.85
+43-14,Detroit Tigers,3,Pittsburgh Pirates,2,Detroit Tigers,1.73,2.49
+43-15,Kansas City Royals,0,St.Louis Cardinals,10,St.Louis Cardinals,2.29,1.76
+43-16,New York Mets,2,Atlanta Braves,9,Atlanta Braves,1.8,2.26
+43-17,Miami Marlins,7,Arizona Diamondbacks,8,Arizona Diamondbacks,1.65,2.54
+43-18,Los Angeles Dodgers,3,San Francisco Giants,1,Los Angeles Dodgers,1.73,2.34
+43-19,Oakland Athletics,7,Tampa Bay Rays,10,Oakland Athletics,2.13,1.84
+43-20,Colorado Rockies,2,Washington Nationals,10,Colorado Rockies,1.71,2.43
+43-21,Houston Astros,4,Seattle Mariners,0,Houston Astros,1.67,2.65
+43-22,Kansas City Royals,7,St.Louis Cardinals,1,Kansas City Royals,2.2,1.95
+43-23,Chicago Cubs,1,Chicago White Sox,3,Chicago White Sox,2.21,1.78
+43-24,Milwaukee Brewers,6,Cincinnati Reds,3,Milwaukee Brewers,1.45,3.2
+43-25,Boston Red Sox,4,Los Angeles Angels,0,Boston Red Sox,2.18,1.84
+43-26,Toronto Blue Jays,1,New York Yankees,9,New York Yankees,2,2.3
+43-27,Baltimore Orioles,2,Minnesota Twins,7,Minnesota Twins,2.53,1.74
+43-28,Philadelphia Phillies,4,Texas Rangers,6,Texas Rangers,1.72,2.67
+43-29,Miami Marlins,4,Arizona Diamondbacks,5,Arizona Diamondbacks,1.74,2.79
+43-30,New York Mets,3,Atlanta Braves,0,New York Mets,1.93,1.99
+43-31,New York Mets,5,Atlanta Braves,4,New York Mets,2,1.99
+43-32,Oakland Athletics,1,Tampa Bay Rays,6,Tampa Bay Rays,2.5,1.63
+43-33,Houston Astros,3,Seattle Mariners,0,Houston Astros,1.75,2.32
+43-34,New York Mets,2,Atlanta Braves,5,Atlanta Braves,1.97,1.99
+43-35,Toronto Blue Jays,2,New York Yankees,3,New York Yankees,2.06,2.15
+43-36,Baltimore Orioles,1,Minnesota Twins,2,Minnesota Twins,2.55,1.7
+43-37,Miami Marlins,4,Arizona Diamondbacks,5,Arizona Diamondbacks,1.62,2.56
+43-38,Chicago White Sox,3,Los Angeles Angels,0,Chicago White Sox,1.74,2.41
+43-39,St.Louis Cardinals,1,Kansas City Royals,0,St.Louis Cardinals,1.68,2.51
+43-40,New York Mets,10,Philadelphia Phillies,6,Philadelphia Phillies,1.57,2.74
+43-41,Los Angeles Dodgers,6,Detroit Tigers,3,Los Angeles Dodgers,1.39,3.38
+43-42,Oakland Athletics,3,Cleveland Guardians,7,Cleveland Guardians,2.11,1.88
+43-43,San Francisco Giants,5,Washington Nationals,11,San Francisco Giants,1.61,2.64
+43-44,Colorado Rockies,10,Cincinnati Reds,1,Colorado Rockies,1.66,2.45
+43-45,Texas Rangers,7,Atlanta Braves,3,Texas Rangers,2.3,1.73
+43-46,St.Louis Cardinals,7,Arizona Diamondbacks,5,St.Louis Cardinals,1.6,2.68
+43-47,Chicago White Sox,5,Los Angeles Angels,6,Los Angeles Angels,2.11,1.88
+43-48,Kansas City Royals,4,New York Yankees,6,New York Yankees,2.8,1.54
+43-49,Milwaukee Brewers,0,Chicago Cubs,2,Chicago Cubs,1.47,3.08
+43-50,Miami Marlins,3,Seattle Mariners,7,Seattle Mariners,1.81,2.17
+Jan-42,New York Yankees,2,Texas Rangers,4,Texas Rangers,1.53,3.12
+Feb-42,Arizona Diamondbacks,4,Colorado Rockies,0,Arizona Diamondbacks,1.68,2.46
+Mar-42,San Diego Padres,3,Miami Marlins,2,San Diego Padres,1.68,2.42
+Apr-42,Seattle Mariners,2,Tampa Bay Rays,1,Seattle Mariners,1.92,2.06
+May-42,Los Angeles Angels,5,Washington Nationals,4,Los Angeles Angels,1.52,2.98
+Jun-42,San Francisco Giants,4,St.Louis Cardinals,3,San Francisco Giants,1.79,2.24
+Jul-42,Philadelphia Phillies,1,New York Mets,6,New York Mets,2.35,1.7
+Aug-42,Houston Astros,5,Detroit Tigers,0,Houston Astros,1.57,2.74
+Sep-42,Minnesota Twins,4,Oakland Athletics,3,Minnesota Twins,1.68,2.53
+Oct-42,Cincinnati Reds,7,Pittsburgh Pirates,3,Cincinnati Reds,1.75,2.34
+Nov-42,Cleveland Guardians,4,Toronto Blue Jays,3,Cleveland Guardians,2.8,1.52
+Dec-42,Atlanta Braves,9,Milwaukee Brewers,2,Atlanta Braves,1.79,2.3
+42-13,Baltimore Orioles,4,Kansas City Royals,6,Kansas City Royals,2.01,2.17
+42-14,New York Yankees,2,Texas Rangers,1,New York Yankees,1.51,3.15
+42-15,Philadelphia Phillies,3,New York Mets,2,Philadelphia Phillies,2.39,1.7
+42-16,Boston Red Sox,2,Chicago White Sox,3,Chicago White Sox,1.62,2.55
+42-17,Seattle Mariners,2,Tampa Bay Rays,8,Tampa Bay Rays,2.21,1.8
+42-18,Los Angeles Angels,3,Washington Nationals,7,Washington Nationals,1.63,2.67
+42-19,San Diego Padres,0,Miami Marlins,8,Miami Marlins,1.88,2.45
+42-20,Arizona Diamondbacks,1,Colorado Rockies,4,Colorado Rockies,1.84,2.2
+42-21,Chicago Cubs,2,Los Angeles Dodgers,6,Los Angeles Dodgers,2.55,1.68
+42-22,Atlanta Braves,3,Milwaukee Brewers,2,Atlanta Braves,2,2
+42-23,San Francisco Giants,13,St.Louis Cardinals,7,St.Louis Cardinals,1.79,2.28
+42-24,Cincinnati Reds,5,Pittsburgh Pirates,8,Pittsburgh Pirates,2.11,1.81
+42-25,Cleveland Guardians,8,Toronto Blue Jays,2,Cleveland Guardians,2.29,1.77
+42-26,Boston Red Sox,1,Chicago White Sox,3,Chicago White Sox,2.25,1.81
+42-27,Houston Astros,3,Detroit Tigers,2,Houston Astros,1.54,2.8
+42-28,Cleveland Guardians,3,Toronto Blue Jays,8,Toronto Blue Jays,2.41,1.78
+42-29,Minnesota Twins,1,Oakland Athletics,0,Minnesota Twins,1.5,2.9
+42-30,Chicago Cubs,0,Los Angeles Dodgers,7,Los Angeles Dodgers,3.1,1.54
+42-31,Cincinnati Reds,9,Pittsburgh Pirates,2,Cincinnati Reds,2.05,1.88
+42-32,San Francisco Giants,2,St.Louis Cardinals,3,St.Louis Cardinals,1.78,2.32
+42-33,Arizona Diamondbacks,4,Colorado Rockies,1,Arizona Diamondbacks,1.9,2.34
+42-34,San Diego Padres,3,Miami Marlins,2,San Diego Padres,1.81,2.23
+42-35,Seattle Mariners,7,Tampa Bay Rays,8,Tampa Bay Rays,2.05,2.2
+42-36,Los Angeles Angels,3,Washington Nationals,0,Los Angeles Angels,1.59,2.7
+42-37,Houston Astros,3,Detroit Tigers,2,Houston Astros,1.54,3.12
+42-38,Minnesota Twins,2,Oakland Athletics,1,Minnesota Twins,1.57,2.72
+42-39,Atlanta Braves,3,Milwaukee Brewers,6,Milwaukee Brewers,2,2
+42-40,Boston Red Sox,2,Chicago White Sox,4,Chicago White Sox,1.63,2.56
+42-41,San Francisco Giants,1,St.Louis Cardinals,7,St.Louis Cardinals,1.94,2.08
+42-42,San Diego Padres,2,Miami Marlins,1,San Diego Padres,2.1,2.05
+42-43,Seattle Mariners,3,Tampa Bay Rays,4,Tampa Bay Rays,2.32,1.77
+42-44,Houston Astros,3,Detroit Tigers,2,Houston Astros,1.64,2.55
+42-45,Baltimore Orioles,5,Minnesota Twins,3,Baltimore Orioles,2.5,1.67
+42-46,Philadelphia Phillies,7,New York Mets,8,New York Mets,2.15,2.39
+42-47,Cleveland Guardians,6,Toronto Blue Jays,5,Cleveland Guardians,2.39,1.76
+42-48,Colorado Rockies,9,Washington Nationals,7,Colorado Rockies,1.71,2.37
+42-49,Milwaukee Brewers,10,Cincinnati Reds,5,Cincinnati Reds,1.49,3.2
+42-50,Boston Red Sox,0,Los Angeles Angels,8,Los Angeles Angels,2.26,1.79
+Jan-41,Chicago White Sox,7,New York Yankees,15,Chicago White Sox,1.81,2.37
+Feb-41,Texas Rangers,3,Kansas City Royals,1,Texas Rangers,1.73,2.35
+Mar-41,Pittsburgh Pirates,0,Cincinnati Reds,4,Cincinnati Reds,1.9,2.25
+Apr-41,Minnesota Twins,0,Houston Astros,5,Houston Astros,2.21,1.8
+May-41,St.Louis Cardinals,2,Baltimore Orioles,3,Baltimore Orioles,1.52,2.8
+Jun-41,Detroit Tigers,3,Oakland Athletics,5,Oakland Athletics,1.87,2.1
+Jul-41,Minnesota Twins,3,Houston Astros,11,Minnesota Twins,2.25,1.87
+Aug-41,Washington Nationals,1,New York Mets,4,New York Mets,2.41,1.7
+Sep-41,Texas Rangers,2,Kansas City Royals,8,Kansas City Royals,1.78,2.25
+Oct-41,St.Louis Cardinals,10,Baltimore Orioles,1,St.Louis Cardinals,1.48,3.12
+Nov-41,Atlanta Braves,5,Boston Red Sox,3,Atlanta Braves,1.92,2.05
+Dec-41,Detroit Tigers,0,Oakland Athletics,9,Oakland Athletics,1.81,2.19
+41-13,Los Angeles Angels,2,Tampa Bay Rays,4,Tampa Bay Rays,1.92,2.05
+41-14,Washington Nationals,8,New York Mets,3,Washington Nationals,2.57,1.62
+41-15,San Diego Padres,5,Chicago Cubs,7,Chicago Cubs,1.66,2.46
+41-16,San Francisco Giants,7,Colorado Rockies,1,San Francisco Giants,1.51,2.97
+41-17,Arizona Diamondbacks,3,Miami Marlins,11,Arizona Diamondbacks,2.05,1.97
+41-18,Seattle Mariners,2,Philadelphia Phillies,4,Philadelphia Phillies,1.72,2.34
+41-19,Cincinnati Reds,14,Milwaukee Brewers,11,Cincinnati Reds,2.89,1.54
+41-20,New York Yankees,5,Toronto Blue Jays,3,New York Yankees,1.81,2.28
+41-21,Pittsburgh Pirates,5,Los Angeles Dodgers,3,Pittsburgh Pirates,2.76,1.54
+41-22,San Francisco Giants,9,Colorado Rockies,2,San Francisco Giants,1.52,2.87
+41-23,Arizona Diamondbacks,9,Miami Marlins,3,Arizona Diamondbacks,2.21,1.95
+41-24,San Diego Padres,5,Chicago Cubs,4,San Diego Padres,1.62,2.6
+41-25,Seattle Mariners,5,Philadelphia Phillies,4,Seattle Mariners,2.17,1.84
+41-26,Los Angeles Angels,12,Tampa Bay Rays,0,Los Angeles Angels,2,2
+41-27,Chicago White Sox,4,Cleveland Guardians,1,Chicago White Sox,1.68,2.74
+41-28,Texas Rangers,6,Kansas City Royals,4,Texas Rangers,1.77,2.26
+41-29,St.Louis Cardinals,3,Baltimore Orioles,5,Baltimore Orioles,1.62,2.8
+41-30,Minnesota Twins,0,Houston Astros,5,Houston Astros,2.32,1.83
+41-31,Atlanta Braves,4,Boston Red Sox,9,Boston Red Sox,1.76,2.34
+41-32,New York Yankees,6,Toronto Blue Jays,5,New York Yankees,1.74,2.62
+41-33,Washington Nationals,2,New York Mets,4,New York Mets,2.55,1.66
+41-34,Cincinnati Reds,4,Milwaukee Brewers,5,Milwaukee Brewers,2.83,1.55
+41-35,Pittsburgh Pirates,1,Los Angeles Dodgers,11,Los Angeles Dodgers,3.12,1.45
+41-36,Detroit Tigers,1,Oakland Athletics,4,Oakland Athletics,1.73,2.32
+41-37,Oakland Athletics,0,Detroit Tigers,6,Detroit Tigers,2.22,2.01
+41-38,San Francisco Giants,8,Colorado Rockies,5,San Francisco Giants,1.52,3.12
+41-39,Arizona Diamondbacks,4,Miami Marlins,3,Arizona Diamondbacks,2.2,1.98
+41-40,San Diego Padres,0,Chicago Cubs,6,Chicago Cubs,1.62,2.55
+41-41,Seattle Mariners,0,Philadelphia Phillies,9,Philadelphia Phillies,2.01,2.04
+41-42,Los Angeles Angels,11,Tampa Bay Rays,3,Tampa Bay Rays,1.9,2.12
+41-43,Chicago White Sox,9,Cleveland Guardians,12,Chicago White Sox,1.57,2.71
+41-44,Detroit Tigers,0,Oakland Athletics,2,Oakland Athletics,1.88,2.15
+41-45,Cincinnati Reds,10,Milwaukee Brewers,5,Milwaukee Brewers,2.61,1.58
+41-46,Pittsburgh Pirates,5,Los Angeles Dodgers,1,Pittsburgh Pirates,3.2,1.45
+41-47,New York Yankees,1,Texas Rangers,0,New York Yankees,1.49,2.94
+41-48,Baltimore Orioles,6,Kansas City Royals,1,Baltimore Orioles,1.71,2.37
+41-49,Chicago Cubs,1,Los Angeles Dodgers,7,Los Angeles Dodgers,3.07,1.49
+41-50,Baltimore Orioles,4,Kansas City Royals,2,Baltimore Orioles,1.86,2.2
+Jan-40,Baltimore Orioles,2,New York Yankees,6,New York Yankees,2.75,1.58
+Feb-40,Miami Marlins,8,Washington Nationals,2,Miami Marlins,1.59,2.81
+Mar-40,Tampa Bay Rays,2,Detroit Tigers,3,Detroit Tigers,1.51,2.95
+Apr-40,St.Louis Cardinals,15,San Francisco Giants,6,San Francisco Giants,2.27,1.8
+May-40,Arizona Diamondbacks,2,Chicago Cubs,3,Chicago Cubs,1.86,2.17
+Jun-40,Los Angeles Dodgers,5,Philadelphia Phillies,4,Los Angeles Dodgers,1.75,2.3
+Jul-40,Oakland Athletics,1,Los Angeles Angels,4,Los Angeles Angels,2.17,1.81
+Aug-40,Colorado Rockies,7,Kansas City Royals,8,Kansas City Royals,1.73,2.32
+Sep-40,Texas Rangers,7,Boston Red Sox,1,Texas Rangers,1.97,2.01
+Oct-40,Chicago White Sox,1,New York Yankees,5,New York Yankees,2.15,1.85
+Nov-40,Minnesota Twins,3,Cleveland Guardians,1,Minnesota Twins,1.74,2.28
+Dec-40,Detroit Tigers,5,Baltimore Orioles,1,Detroit Tigers,1.75,2.3
+40-13,Miami Marlins,3,Milwaukee Brewers,7,Milwaukee Brewers,2.57,1.65
+40-14,New York Mets,7,Seattle Mariners,8,Seattle Mariners,1.72,2.32
+40-15,Tampa Bay Rays,3,Toronto Blue Jays,0,Tampa Bay Rays,2.07,1.9
+40-16,Pittsburgh Pirates,1,Cincinnati Reds,0,Pittsburgh Pirates,1.7,2.34
+40-17,Washington Nationals,0,Houston Astros,8,Houston Astros,2.74,1.57
+40-18,Atlanta Braves,3,San Diego Padres,7,San Diego Padres,1.91,2.21
+40-19,Los Angeles Dodgers,3,Philadelphia Phillies,8,Philadelphia Phillies,1.55,2.76
+40-20,Oakland Athletics,1,Los Angeles Angels,9,Los Angeles Angels,2.59,1.61
+40-21,Arizona Diamondbacks,2,Chicago Cubs,4,Chicago Cubs,1.65,2.46
+40-22,Colorado Rockies,10,Kansas City Royals,4,Kansas City Royals,1.74,2.44
+40-23,Chicago White Sox,3,New York Yankees,2,Chicago White Sox,2.41,1.8
+40-24,Minnesota Twins,2,Cleveland Guardians,3,Cleveland Guardians,2.19,2.3
+40-25,New York Mets,5,Seattle Mariners,4,New York Mets,1.74,2.39
+40-26,Texas Rangers,3,Boston Red Sox,11,Texas Rangers,1.92,2.05
+40-27,Washington Nationals,13,Houston Astros,6,Houston Astros,2.75,1.79
+40-28,Pittsburgh Pirates,3,Cincinnati Reds,1,Pittsburgh Pirates,2.09,2.05
+40-29,Miami Marlins,9,Milwaukee Brewers,3,Miami Marlins,2.35,1.88
+40-30,Tampa Bay Rays,1,Toronto Blue Jays,5,Toronto Blue Jays,2.1,1.97
+40-31,Detroit Tigers,3,Baltimore Orioles,0,Detroit Tigers,1.89,2.08
+40-32,Oakland Athletics,4,Los Angeles Angels,3,Oakland Athletics,1.91,2.27
+40-33,Atlanta Braves,6,San Diego Padres,5,Atlanta Braves,1.74,2.29
+40-34,St.Louis Cardinals,4,San Francisco Giants,0,St.Louis Cardinals,2.11,1.89
+40-35,Los Angeles Dodgers,10,Philadelphia Phillies,12,Philadelphia Phillies,1.46,3.22
+40-36,Arizona Diamondbacks,4,Chicago Cubs,3,Arizona Diamondbacks,1.88,2.25
+40-37,Oakland Athletics,0,Los Angeles Angels,2,Los Angeles Angels,2.39,1.7
+40-38,Colorado Rockies,10,Kansas City Royals,14,Kansas City Royals,1.81,2.45
+40-39,St.Louis Cardinals,2,San Francisco Giants,8,San Francisco Giants,2.12,1.91
+40-40,Chicago White Sox,4,New York Yankees,10,Chicago White Sox,2.76,1.68
+40-41,Minnesota Twins,12,Cleveland Guardians,8,Cleveland Guardians,1.63,2.55
+40-42,Texas Rangers,1,Boston Red Sox,7,Boston Red Sox,1.91,2.14
+40-43,Atlanta Braves,6,San Diego Padres,11,Atlanta Braves,1.76,2.44
+40-44,Detroit Tigers,4,Baltimore Orioles,2,Detroit Tigers,1.83,2.49
+40-45,New York Mets,1,Seattle Mariners,2,Seattle Mariners,1.58,3.38
+40-46,Tampa Bay Rays,5,Toronto Blue Jays,2,Tampa Bay Rays,2.15,1.85
+40-47,Washington Nationals,1,Houston Astros,6,Houston Astros,2.4,1.69
+40-48,Miami Marlins,1,Milwaukee Brewers,2,Milwaukee Brewers,2.33,1.74
+40-49,Pittsburgh Pirates,2,Cincinnati Reds,8,Cincinnati Reds,2,2.01
+40-50,Los Angeles Dodgers,7,Philadelphia Phillies,9,Philadelphia Phillies,1.73,2.9
+Jan-39,Chicago Cubs,6,Arizona Diamondbacks,10,Chicago Cubs,1.73,2.32
+Feb-39,Houston Astros,5,Texas Rangers,1,Houston Astros,1.58,2.91
+Mar-39,Chicago Cubs,1,Arizona Diamondbacks,3,Arizona Diamondbacks,1.87,2.1
+Apr-39,Boston Red Sox,12,Seattle Mariners,6,Seattle Mariners,1.85,2.14
+May-39,Kansas City Royals,4,Chicago White Sox,7,Chicago White Sox,2.27,1.78
+Jun-39,Cleveland Guardians,2,Cincinnati Reds,4,Cincinnati Reds,1.79,2.24
+Jul-39,New York Mets,7,St.Louis Cardinals,6,New York Mets,1.55,2.83
+Aug-39,Philadelphia Phillies,0,San Diego Padres,2,San Diego Padres,2,1.97
+Sep-39,Baltimore Orioles,9,New York Yankees,6,Baltimore Orioles,2.86,1.53
+Oct-39,Kansas City Royals,6,Chicago White Sox,2,Kansas City Royals,2.32,1.71
+Nov-39,Texas Rangers,6,Los Angeles Angels,5,Texas Rangers,2.7,1.56
+Dec-39,Chicago Cubs,2,Pittsburgh Pirates,3,Pittsburgh Pirates,1.66,2.47
+39-13,New York Mets,11,St.Louis Cardinals,4,St.Louis Cardinals,1.68,3.05
+39-14,Toronto Blue Jays,1,Seattle Mariners,5,Seattle Mariners,1.46,3.13
+39-15,Baltimore Orioles,2,New York Yankees,3,New York Yankees,3.33,1.47
+39-16,Philadelphia Phillies,3,San Diego Padres,0,Philadelphia Phillies,1.8,2.45
+39-17,Miami Marlins,4,Washington Nationals,5,Washington Nationals,1.58,2.61
+39-18,Boston Red Sox,5,Houston Astros,1,Boston Red Sox,2.22,1.81
+39-19,Los Angeles Dodgers,5,Arizona Diamondbacks,3,Los Angeles Dodgers,1.36,3.73
+39-20,Oakland Athletics,4,Minnesota Twins,14,Oakland Athletics,2.5,1.63
+39-21,Colorado Rockies,5,San Francisco Giants,3,Colorado Rockies,2.55,1.64
+39-22,Milwaukee Brewers,7,Atlanta Braves,6,Milwaukee Brewers,1.78,2.23
+39-23,Tampa Bay Rays,6,Detroit Tigers,1,Tampa Bay Rays,1.67,2.51
+39-24,Los Angeles Dodgers,12,Arizona Diamondbacks,3,Arizona Diamondbacks,1.53,2.87
+39-25,Oakland Athletics,5,Minnesota Twins,2,Oakland Athletics,2.35,2
+39-26,Colorado Rockies,7,San Francisco Giants,10,Colorado Rockies,2.45,1.68
+39-27,Texas Rangers,10,Los Angeles Angels,5,Los Angeles Angels,2.4,1.77
+39-28,Chicago Cubs,7,Pittsburgh Pirates,0,Chicago Cubs,1.73,2.4
+39-29,Milwaukee Brewers,0,Atlanta Braves,3,Atlanta Braves,1.9,2.25
+39-30,Boston Red Sox,4,Houston Astros,13,Boston Red Sox,2.15,2.09
+39-31,Kansas City Royals,2,Chicago White Sox,1,Kansas City Royals,2,2.01
+39-32,Toronto Blue Jays,3,Seattle Mariners,0,Toronto Blue Jays,1.75,2.8
+39-33,Baltimore Orioles,4,New York Yankees,5,New York Yankees,3.12,1.45
+39-34,Philadelphia Phillies,0,San Diego Padres,3,San Diego Padres,1.93,2.25
+39-35,Miami Marlins,5,Washington Nationals,1,Miami Marlins,1.7,2.65
+39-36,Tampa Bay Rays,8,Detroit Tigers,1,Tampa Bay Rays,1.52,3.63
+39-37,Cleveland Guardians,4,Cincinnati Reds,5,Cincinnati Reds,1.74,2.35
+39-38,New York Mets,3,St.Louis Cardinals,4,St.Louis Cardinals,1.81,2.2
+39-39,Los Angeles Dodgers,7,Arizona Diamondbacks,6,Los Angeles Dodgers,1.49,3.07
+39-40,New York Mets,3,St.Louis Cardinals,1,New York Mets,1.97,2.05
+Jan-38,St.Louis Cardinals,7,Toronto Blue Jays,3,St.Louis Cardinals,1.91,2.11
+Feb-38,Minnesota Twins,5,Detroit Tigers,4,Minnesota Twins,1.52,3.01
+Mar-38,Atlanta Braves,3,Philadelphia Phillies,7,Philadelphia Phillies,2.15,2.25
+Apr-38,New York Yankees,4,Baltimore Orioles,6,Baltimore Orioles,1.38,3.65
+May-38,Washington Nationals,1,Los Angeles Dodgers,10,Los Angeles Dodgers,3,1.47
+Jun-38,Cincinnati Reds,4,Chicago Cubs,7,Chicago Cubs,2.14,1.95
+Jul-38,Pittsburgh Pirates,2,Colorado Rockies,1,Pittsburgh Pirates,1.78,2.25
+Aug-38,New York Yankees,0,Chicago White Sox,5,Chicago White Sox,1.59,2.63
+Sep-38,Los Angeles Angels,4,Oakland Athletics,1,Los Angeles Angels,1.52,2.9
+Oct-38,San Francisco Giants,1,San Diego Padres,10,San Diego Padres,1.74,2.29
+Nov-38,Colorado Rockies,0,New York Mets,2,New York Mets,2.06,1.91
+Dec-38,New York Yankees,1,Chicago White Sox,3,Chicago White Sox,1.65,2.98
+38-13,Chicago Cubs,5,Arizona Diamondbacks,4,Chicago Cubs,1.81,2.22
+38-14,Houston Astros,5,Texas Rangers,2,Houston Astros,1.57,2.73
+38-15,Kansas City Royals,6,Minnesota Twins,7,Minnesota Twins,1.93,2.04
+38-16,Milwaukee Brewers,2,Washington Nationals,8,Washington Nationals,1.44,3.19
+38-17,Cleveland Guardians,2,Detroit Tigers,4,Detroit Tigers,1.55,2.76
+38-18,Miami Marlins,4,Atlanta Braves,3,Miami Marlins,1.86,2.11
+38-19,Toronto Blue Jays,2,Cincinnati Reds,3,Cincinnati Reds,1.45,3.1
+38-20,Baltimore Orioles,7,Tampa Bay Rays,6,Baltimore Orioles,2.51,1.63
+38-21,Boston Red Sox,8,Seattle Mariners,4,Boston Red Sox,1.81,2.22
+38-22,Philadelphia Phillies,4,Los Angeles Dodgers,3,Philadelphia Phillies,2.25,1.76
+38-23,Pittsburgh Pirates,4,St.Louis Cardinals,18,Pittsburgh Pirates,2.45,1.65
+38-24,Los Angeles Angels,5,Oakland Athletics,3,Los Angeles Angels,1.73,2.35
+38-25,Colorado Rockies,11,New York Mets,3,New York Mets,2.26,1.75
+38-26,Houston Astros,2,Texas Rangers,1,Houston Astros,1.52,3.02
+38-27,Kansas City Royals,2,Minnesota Twins,9,Minnesota Twins,2.35,1.7
+38-28,Milwaukee Brewers,5,Washington Nationals,1,Milwaukee Brewers,1.46,3.09
+38-29,Baltimore Orioles,1,Tampa Bay Rays,6,Tampa Bay Rays,2.35,1.81
+38-30,Pittsburgh Pirates,4,St.Louis Cardinals,5,St.Louis Cardinals,2.3,1.75
+38-31,Miami Marlins,3,Atlanta Braves,4,Atlanta Braves,2.43,1.73
+38-32,Philadelphia Phillies,4,Los Angeles Dodgers,7,Los Angeles Dodgers,1.91,2.07
+38-33,Boston Red Sox,6,Seattle Mariners,5,Boston Red Sox,1.67,2.5
+38-34,San Francisco Giants,1,San Diego Padres,2,San Diego Padres,1.68,2.49
+38-35,Colorado Rockies,1,New York Mets,5,New York Mets,2.1,1.86
+38-36,Toronto Blue Jays,3,Cincinnati Reds,1,Toronto Blue Jays,1.42,3.56
+38-37,Chicago Cubs,6,Arizona Diamondbacks,7,Arizona Diamondbacks,1.75,2.32
+38-38,New York Yankees,7,Chicago White Sox,5,New York Yankees,1.48,3.12
+38-39,San Francisco Giants,7,San Diego Padres,8,San Diego Padres,1.82,2.3
+38-40,Los Angeles Angels,2,Oakland Athletics,4,Oakland Athletics,1.62,2.73
+38-41,Houston Astros,0,Texas Rangers,3,Texas Rangers,1.63,3.1
+38-42,Kansas City Royals,4,Minnesota Twins,6,Minnesota Twins,2.25,1.8
+38-43,Milwaukee Brewers,7,Washington Nationals,0,Milwaukee Brewers,1.48,3.01
+38-44,Boston Red Sox,7,Seattle Mariners,3,Boston Red Sox,2,2.25
+38-45,Cleveland Guardians,6,Detroit Tigers,1,Cleveland Guardians,1.94,2.6
+38-46,Toronto Blue Jays,2,Cincinnati Reds,1,Toronto Blue Jays,1.57,3.15
+38-47,Baltimore Orioles,8,Tampa Bay Rays,6,Baltimore Orioles,2.3,1.75
+38-48,Philadelphia Phillies,1,Los Angeles Dodgers,4,Los Angeles Dodgers,2.3,1.75
+38-49,Miami Marlins,3,Atlanta Braves,5,Atlanta Braves,2.1,1.86
+38-50,Pittsburgh Pirates,3,St.Louis Cardinals,5,St.Louis Cardinals,2.32,1.74
+Jan-37,Minnesota Twins,10,Kansas City Royals,7,Kansas City Royals,1.63,2.63
+Feb-37,Atlanta Braves,6,Miami Marlins,4,Atlanta Braves,1.8,2.3
+Mar-37,Boston Red Sox,8,Baltimore Orioles,12,Boston Red Sox,1.61,2.79
+Apr-37,New York Mets,8,Philadelphia Phillies,6,New York Mets,1.8,2.61
+May-37,Tampa Bay Rays,0,New York Yankees,2,New York Yankees,2.25,2.23
+Jun-37,Cincinnati Reds,5,San Francisco Giants,1,Cincinnati Reds,2.97,1.51
+Jul-37,Arizona Diamondbacks,1,Los Angeles Dodgers,14,Los Angeles Dodgers,2.65,1.6
+Aug-37,Oakland Athletics,1,Texas Rangers,4,Texas Rangers,2.1,2.04
+Sep-37,Los Angeles Angels,3,Toronto Blue Jays,6,Toronto Blue Jays,1.95,2.51
+Oct-37,Chicago White Sox,7,Boston Red Sox,16,Chicago White Sox,2.17,1.9
+Nov-37,St.Louis Cardinals,3,Milwaukee Brewers,4,Milwaukee Brewers,1.87,2.1
+Dec-37,Minnesota Twins,2,Kansas City Royals,3,Kansas City Royals,1.56,2.66
+37-13,Atlanta Braves,1,Philadelphia Phillies,4,Philadelphia Phillies,2.05,1.97
+37-14,Detroit Tigers,4,Cleveland Guardians,3,Detroit Tigers,1.83,2.2
+37-15,Washington Nationals,7,Colorado Rockies,3,Washington Nationals,1.96,1.99
+37-16,Tampa Bay Rays,2,New York Yankees,7,New York Yankees,2.07,1.9
+37-17,Cincinnati Reds,20,Chicago Cubs,5,Chicago Cubs,2.06,1.93
+37-18,Los Angeles Angels,2,Texas Rangers,7,Texas Rangers,1.61,2.55
+37-19,Chicago White Sox,3,Boston Red Sox,1,Chicago White Sox,1.86,2.41
+37-20,Houston Astros,2,Cleveland Guardians,1,Houston Astros,1.58,2.7
+37-21,Atlanta Braves,8,Philadelphia Phillies,4,Atlanta Braves,1.83,2.34
+37-22,New York Yankees,2,Baltimore Orioles,0,New York Yankees,1.66,2.41
+37-23,Cincinnati Reds,4,Chicago Cubs,3,Cincinnati Reds,1.95,2.36
+37-24,Tampa Bay Rays,5,Miami Marlins,4,Tampa Bay Rays,1.57,2.72
+37-25,San Diego Padres,1,Milwaukee Brewers,2,Milwaukee Brewers,1.76,2.33
+37-26,Seattle Mariners,2,Oakland Athletics,4,Oakland Athletics,1.6,2.72
+37-27,Washington Nationals,1,Los Angeles Dodgers,0,Washington Nationals,2.9,1.5
+37-28,San Francisco Giants,9,New York Mets,3,San Francisco Giants,1.91,2.05
+37-29,Minnesota Twins,2,Detroit Tigers,4,Detroit Tigers,1.55,2.75
+37-30,Pittsburgh Pirates,10,Colorado Rockies,5,Colorado Rockies,1.79,2.21
+37-31,San Francisco Giants,13,New York Mets,12,San Francisco Giants,1.94,2.07
+37-32,Arizona Diamondbacks,8,Kansas City Royals,6,Arizona Diamondbacks,1.52,2.9
+37-33,San Diego Padres,1,Milwaukee Brewers,4,Milwaukee Brewers,2.19,2.05
+37-34,Seattle Mariners,5,Oakland Athletics,7,Oakland Athletics,1.63,2.61
+37-35,Los Angeles Angels,5,Texas Rangers,3,Los Angeles Angels,1.69,2.45
+37-36,Chicago White Sox,3,Boston Red Sox,16,Chicago White Sox,1.68,2.6
+37-37,Houston Astros,7,Cleveland Guardians,3,Houston Astros,1.52,3.07
+37-38,St.Louis Cardinals,1,Toronto Blue Jays,8,Toronto Blue Jays,2.25,1.78
+37-39,Minnesota Twins,2,Detroit Tigers,0,Minnesota Twins,1.5,3.2
+37-40,Atlanta Braves,6,Philadelphia Phillies,5,Atlanta Braves,1.71,2.66
+Jan-36,Arizona Diamondbacks,6,Atlanta Braves,2,Arizona Diamondbacks,2.45,1.88
+Feb-36,Texas Rangers,9,Tampa Bay Rays,5,Texas Rangers,2.38,1.75
+Mar-36,Chicago Cubs,1,Milwaukee Brewers,3,Milwaukee Brewers,2.37,1.81
+Apr-36,Boston Red Sox,0,Baltimore Orioles,10,Baltimore Orioles,1.6,2.66
+May-36,New York Mets,13,Washington Nationals,5,Washington Nationals,1.6,2.59
+Jun-36,Cleveland Guardians,7,Kansas City Royals,3,Cleveland Guardians,1.7,2.4
+Jul-36,Colorado Rockies,7,Miami Marlins,1,Colorado Rockies,2.37,1.7
+Aug-36,Oakland Athletics,1,Houston Astros,5,Houston Astros,2.52,1.67
+Sep-36,Philadelphia Phillies,4,San Francisco Giants,5,San Francisco Giants,2.06,1.91
+Oct-36,St.Louis Cardinals,6,San Diego Padres,3,St.Louis Cardinals,1.87,2.14
+Nov-36,Detroit Tigers,7,Minnesota Twins,5,Detroit Tigers,2.39,1.74
+Dec-36,Chicago Cubs,6,Milwaukee Brewers,7,Milwaukee Brewers,2.23,1.8
+36-13,New York Mets,5,Philadelphia Phillies,4,New York Mets,2.15,1.89
+36-14,Arizona Diamondbacks,1,Los Angeles Dodgers,3,Los Angeles Dodgers,2.87,1.5
+36-15,San Diego Padres,4,Pittsburgh Pirates,2,San Diego Padres,1.6,2.61
+36-16,Seattle Mariners,1,Houston Astros,2,Houston Astros,2.3,1.73
+36-17,Los Angeles Angels,10,Toronto Blue Jays,11,Toronto Blue Jays,1.69,2.45
+36-18,Oakland Athletics,6,Texas Rangers,5,Oakland Athletics,2.08,1.88
+36-19,St.Louis Cardinals,0,Milwaukee Brewers,8,Milwaukee Brewers,2.32,1.74
+36-20,Chicago White Sox,5,Chicago Cubs,4,Chicago White Sox,1.75,2.35
+36-21,Minnesota Twins,7,Kansas City Royals,3,Minnesota Twins,1.55,2.71
+36-22,Detroit Tigers,2,Cleveland Guardians,1,Detroit Tigers,2.45,1.65
+36-23,Tampa Bay Rays,4,New York Yankees,2,Tampa Bay Rays,1.77,2.33
+36-24,Atlanta Braves,6,Miami Marlins,3,Atlanta Braves,1.47,3.08
+36-25,Boston Red Sox,12,Baltimore Orioles,2,Baltimore Orioles,1.56,2.73
+36-26,Washington Nationals,6,Colorado Rockies,5,Washington Nationals,1.86,2.18
+36-27,Cincinnati Reds,4,San Francisco Giants,6,San Francisco Giants,2.37,1.73
+36-28,San Diego Padres,2,Pittsburgh Pirates,4,Pittsburgh Pirates,1.47,3.1
+36-29,Seattle Mariners,6,Houston Astros,0,Seattle Mariners,2.3,1.88
+36-30,Los Angeles Angels,5,Toronto Blue Jays,6,Toronto Blue Jays,1.94,2.18
+36-31,Arizona Diamondbacks,2,Los Angeles Dodgers,3,Los Angeles Dodgers,2.75,1.57
+36-32,Chicago White Sox,1,Chicago Cubs,5,Chicago Cubs,1.71,2.5
+36-33,New York Mets,8,Philadelphia Phillies,2,New York Mets,1.93,2.13
+36-34,Boston Red Sox,2,Baltimore Orioles,4,Baltimore Orioles,1.67,2.51
+36-35,Washington Nationals,2,Colorado Rockies,3,Colorado Rockies,1.92,2.2
+36-36,Atlanta Braves,1,Miami Marlins,4,Miami Marlins,1.87,2.13
+36-37,Cincinnati Reds,3,San Francisco Giants,2,Cincinnati Reds,2.72,1.59
+36-38,Detroit Tigers,1,Cleveland Guardians,8,Cleveland Guardians,2.48,1.71
+36-39,Tampa Bay Rays,3,New York Yankees,1,Tampa Bay Rays,2.44,1.72
+36-40,Oakland Athletics,4,Texas Rangers,11,Oakland Athletics,1.9,2.08
+36-41,St.Louis Cardinals,8,Milwaukee Brewers,3,St.Louis Cardinals,2.04,1.96
+36-42,Minnesota Twins,3,Kansas City Royals,7,Kansas City Royals,1.65,2.5
+36-43,Boston Red Sox,5,Baltimore Orioles,3,Boston Red Sox,1.49,2.84
+36-44,Washington Nationals,13,Colorado Rockies,7,Colorado Rockies,1.9,2.07
+36-45,Arizona Diamondbacks,4,Los Angeles Dodgers,6,Los Angeles Dodgers,2.55,1.7
+36-46,Oakland Athletics,5,Texas Rangers,8,Texas Rangers,2.16,1.87
+36-47,San Diego Padres,4,Pittsburgh Pirates,3,San Diego Padres,1.49,3.05
+36-48,Seattle Mariners,6,Houston Astros,1,Seattle Mariners,2.9,1.8
+36-49,Los Angeles Angels,3,Toronto Blue Jays,4,Toronto Blue Jays,2.11,1.9
+36-50,St.Louis Cardinals,4,Milwaukee Brewers,2,St.Louis Cardinals,2.31,1.9
+Jan-35,Baltimore Orioles,3,Cleveland Guardians,6,Cleveland Guardians,2.29,1.76
+Feb-35,New York Yankees,13,Detroit Tigers,0,New York Yankees,1.35,4.12
+Mar-35,Philadelphia Phillies,10,Los Angeles Angels,0,Philadelphia Phillies,1.84,2.24
+Apr-35,Pittsburgh Pirates,6,Arizona Diamondbacks,8,Arizona Diamondbacks,2.07,2.05
+May-35,Cincinnati Reds,5,Washington Nationals,8,Washington Nationals,1.78,2.24
+Jun-35,Miami Marlins,6,San Francisco Giants,15,Miami Marlins,2.11,1.93
+Jul-35,Chicago Cubs,5,St.Louis Cardinals,14,Chicago Cubs,1.99,1.98
+Aug-35,Los Angeles Dodgers,2,New York Mets,0,Los Angeles Dodgers,1.6,2.7
+Sep-35,Colorado Rockies,6,Atlanta Braves,13,Colorado Rockies,2.5,1.69
+Oct-35,Chicago Cubs,7,St.Louis Cardinals,5,Chicago Cubs,1.99,1.97
+Nov-35,Milwaukee Brewers,5,San Diego Padres,4,Milwaukee Brewers,1.96,2.25
+Dec-35,Baltimore Orioles,6,Seattle Mariners,7,Seattle Mariners,1.98,1.97
+35-13,New York Yankees,2,Los Angeles Angels,1,New York Yankees,1.88,2.38
+35-14,Cincinnati Reds,8,Washington Nationals,1,Cincinnati Reds,1.83,2.2
+35-15,Miami Marlins,3,San Francisco Giants,0,Miami Marlins,2.2,2.27
+35-16,Toronto Blue Jays,8,Chicago White Sox,3,Toronto Blue Jays,1.58,2.78
+35-17,Texas Rangers,1,Tampa Bay Rays,3,Tampa Bay Rays,2.15,1.83
+35-18,Detroit Tigers,3,Minnesota Twins,2,Detroit Tigers,2.22,1.79
+35-19,New York Yankees,6,Los Angeles Angels,1,New York Yankees,1.87,2.69
+35-20,Los Angeles Dodgers,4,Pittsburgh Pirates,8,Pittsburgh Pirates,1.42,3.26
+35-21,Chicago Cubs,4,Milwaukee Brewers,3,Chicago Cubs,2.05,1.94
+35-22,Texas Rangers,3,Tampa Bay Rays,4,Tampa Bay Rays,2.11,1.85
+35-23,Boston Red Sox,7,Cincinnati Reds,1,Boston Red Sox,1.51,2.86
+35-24,Detroit Tigers,5,Minnesota Twins,0,Detroit Tigers,2.1,1.99
+35-25,Toronto Blue Jays,7,Chicago White Sox,3,Toronto Blue Jays,1.85,2.67
+35-26,Baltimore Orioles,9,Seattle Mariners,2,Baltimore Orioles,2.31,1.8
+35-27,Colorado Rockies,13,Miami Marlins,12,Colorado Rockies,1.85,2.14
+35-28,Philadelphia Phillies,6,San Francisco Giants,5,Philadelphia Phillies,1.89,2.12
+35-29,Arizona Diamondbacks,0,Atlanta Braves,6,Atlanta Braves,2.36,1.7
+35-30,Oakland Athletics,4,Houston Astros,5,Houston Astros,3.08,1.48
+35-31,Colorado Rockies,1,Miami Marlins,14,Miami Marlins,1.92,2.03
+35-32,St.Louis Cardinals,5,San Diego Padres,2,St.Louis Cardinals,2.2,1.82
+35-33,Cleveland Guardians,4,Kansas City Royals,0,Cleveland Guardians,1.77,2.23
+35-34,New York Mets,5,Washington Nationals,0,New York Mets,1.43,3.17
+35-35,Los Angeles Dodgers,3,Pittsburgh Pirates,5,Pittsburgh Pirates,1.38,4.03
+35-36,Arizona Diamondbacks,8,Atlanta Braves,7,Arizona Diamondbacks,2.47,1.64
+35-37,Oakland Athletics,1,Houston Astros,3,Houston Astros,2.75,1.8
+35-38,Chicago Cubs,8,Milwaukee Brewers,7,Chicago Cubs,2.17,1.81
+35-39,Texas Rangers,3,Tampa Bay Rays,0,Texas Rangers,2.05,2.06
+35-40,St.Louis Cardinals,3,San Diego Padres,2,St.Louis Cardinals,1.95,2.14
+35-41,Boston Red Sox,1,Cincinnati Reds,2,Cincinnati Reds,1.71,2.67
+35-42,Detroit Tigers,4,Minnesota Twins,0,Detroit Tigers,2.25,1.75
+35-43,New York Mets,10,Washington Nationals,0,New York Mets,1.53,2.95
+35-44,Toronto Blue Jays,6,Chicago White Sox,5,Toronto Blue Jays,1.76,2.83
+35-45,Baltimore Orioles,0,Seattle Mariners,10,Seattle Mariners,2.3,1.84
+35-46,New York Yankees,9,Los Angeles Angels,1,New York Yankees,1.79,2.5
+35-47,Philadelphia Phillies,4,San Francisco Giants,7,San Francisco Giants,1.83,2.39
+35-48,Cleveland Guardians,8,Kansas City Royals,3,Cleveland Guardians,1.78,2.22
+35-49,Detroit Tigers,2,Minnesota Twins,8,Minnesota Twins,2.34,1.74
+35-50,Los Angeles Dodgers,5,Pittsburgh Pirates,6,Pittsburgh Pirates,1.34,4.1
+Jan-34,Baltimore Orioles,9,Chicago Cubs,3,Baltimore Orioles,2.05,1.94
+Feb-34,Pittsburgh Pirates,3,Detroit Tigers,5,Detroit Tigers,1.88,2.22
+Mar-34,Cincinnati Reds,14,Arizona Diamondbacks,8,Arizona Diamondbacks,1.83,2.37
+Apr-34,Miami Marlins,12,Washington Nationals,2,Washington Nationals,1.59,2.7
+May-34,Cleveland Guardians,3,Texas Rangers,6,Texas Rangers,1.83,2.22
+Jun-34,Cleveland Guardians,6,Texas Rangers,3,Cleveland Guardians,1.89,2.15
+Jul-34,San Diego Padres,5,New York Mets,11,San Diego Padres,1.88,2.1
+Aug-34,Los Angeles Angels,0,Boston Red Sox,1,Boston Red Sox,1.87,2.18
+Sep-34,Houston Astros,4,Seattle Mariners,7,Seattle Mariners,1.6,3.15
+Oct-34,Kansas City Royals,0,Toronto Blue Jays,8,Toronto Blue Jays,2.76,1.57
+Nov-34,Cincinnati Reds,7,Arizona Diamondbacks,0,Cincinnati Reds,1.9,2.06
+Dec-34,Chicago Cubs,3,St.Louis Cardinals,5,St.Louis Cardinals,2.37,1.79
+34-13,Los Angeles Dodgers,4,New York Mets,5,New York Mets,1.58,2.72
+34-14,Oakland Athletics,2,Boston Red Sox,5,Boston Red Sox,1.94,2.01
+34-15,Colorado Rockies,7,Atlanta Braves,8,Atlanta Braves,2.38,1.75
+34-16,Texas Rangers,5,Seattle Mariners,6,Seattle Mariners,1.82,2.21
+34-17,Kansas City Royals,4,Houston Astros,7,Houston Astros,3.06,1.47
+34-18,Milwaukee Brewers,4,San Diego Padres,6,San Diego Padres,1.85,2.13
+34-19,Cincinnati Reds,4,Washington Nationals,5,Washington Nationals,1.58,2.7
+34-20,Miami Marlins,1,San Francisco Giants,5,San Francisco Giants,2.1,1.86
+34-21,Tampa Bay Rays,5,Chicago White Sox,6,Chicago White Sox,1.96,1.98
+34-22,Toronto Blue Jays,6,Minnesota Twins,8,Minnesota Twins,1.43,3.22
+34-23,Baltimore Orioles,2,Cleveland Guardians,3,Cleveland Guardians,2.02,1.93
+34-24,Philadelphia Phillies,9,Los Angeles Angels,7,Philadelphia Phillies,1.83,2.14
+34-25,Pittsburgh Pirates,3,Arizona Diamondbacks,0,Pittsburgh Pirates,2.34,1.71
+34-26,New York Yankees,5,Detroit Tigers,4,New York Yankees,1.37,3.56
+34-27,Los Angeles Dodgers,4,New York Mets,9,New York Mets,1.58,2.65
+34-28,Colorado Rockies,2,Atlanta Braves,6,Atlanta Braves,2.75,1.56
+34-29,Chicago Cubs,4,St.Louis Cardinals,7,St.Louis Cardinals,2.07,1.94
+34-30,Philadelphia Phillies,7,Los Angeles Angels,2,Philadelphia Phillies,1.86,2.53
+34-31,Cincinnati Reds,8,Washington Nationals,10,Cincinnati Reds,1.81,2.19
+34-32,Kansas City Royals,6,Houston Astros,0,Kansas City Royals,2.83,1.53
+34-33,Miami Marlins,5,San Francisco Giants,4,Miami Marlins,1.96,1.98
+34-34,Milwaukee Brewers,0,San Diego Padres,4,San Diego Padres,1.8,2.24
+34-35,Tampa Bay Rays,2,Chicago White Sox,3,Chicago White Sox,1.83,2.14
+34-36,Oakland Athletics,0,Boston Red Sox,8,Boston Red Sox,2.3,1.73
+34-37,Baltimore Orioles,5,Cleveland Guardians,4,Baltimore Orioles,2.12,1.84
+34-38,Pittsburgh Pirates,2,Arizona Diamondbacks,1,Pittsburgh Pirates,1.83,2.17
+34-39,Texas Rangers,3,Seattle Mariners,2,Texas Rangers,1.82,2.17
+34-40,Toronto Blue Jays,12,Minnesota Twins,3,Minnesota Twins,1.6,2.65
+34-41,Chicago Cubs,6,St.Louis Cardinals,1,Chicago Cubs,1.98,1.99
+34-42,New York Yankees,3,Detroit Tigers,0,New York Yankees,1.33,4
+34-43,Los Angeles Dodgers,6,New York Mets,1,Los Angeles Dodgers,1.67,2.65
+34-44,Oakland Athletics,2,Boston Red Sox,7,Boston Red Sox,2.5,1.8
+34-45,Colorado Rockies,1,Atlanta Braves,3,Atlanta Braves,2.66,1.66
+34-46,Kansas City Royals,3,Houston Astros,10,Kansas City Royals,2.14,1.85
+34-47,Milwaukee Brewers,0,San Diego Padres,7,San Diego Padres,1.8,2.53
+34-48,Texas Rangers,3,Seattle Mariners,4,Seattle Mariners,2.01,1.97
+34-49,Tampa Bay Rays,6,Chicago White Sox,3,Tampa Bay Rays,1.86,2.66
+34-50,Toronto Blue Jays,3,Minnesota Twins,9,Minnesota Twins,1.62,3.02
+Jan-33,San Francisco Giants,7,Los Angeles Dodgers,2,San Francisco Giants,2.49,1.67
+Feb-33,Seattle Mariners,3,Boston Red Sox,4,Boston Red Sox,2,1.94
+Mar-33,San Diego Padres,9,Colorado Rockies,0,San Diego Padres,1.42,3.26
+Apr-33,Los Angeles Angels,3,New York Mets,7,New York Mets,2.26,1.8
+May-33,St.Louis Cardinals,2,Cincinnati Reds,0,St.Louis Cardinals,1.74,2.6
+Jun-33,Chicago White Sox,8,Texas Rangers,3,Chicago White Sox,1.82,2.3
+Jul-33,Houston Astros,4,Miami Marlins,7,Miami Marlins,1.66,3.1
+Aug-33,Kansas City Royals,8,Baltimore Orioles,1,Kansas City Royals,2.02,1.94
+Sep-33,Minnesota Twins,9,Tampa Bay Rays,4,Minnesota Twins,1.88,2.1
+Oct-33,Atlanta Braves,4,Pittsburgh Pirates,2,Atlanta Braves,1.5,3.15
+Nov-33,Cleveland Guardians,3,Oakland Athletics,2,Cleveland Guardians,1.83,2.48
+Dec-33,Detroit Tigers,1,Toronto Blue Jays,10,Toronto Blue Jays,3.02,1.47
+33-13,New York Yankees,2,Chicago Cubs,1,New York Yankees,1.42,3.36
+33-14,Philadelphia Phillies,7,Arizona Diamondbacks,5,Philadelphia Phillies,1.75,2.75
+33-15,Washington Nationals,11,Milwaukee Brewers,5,Milwaukee Brewers,2.66,1.64
+33-16,Los Angeles Angels,5,Boston Red Sox,2,Los Angeles Angels,1.86,2.23
+33-17,Kansas City Royals,7,Baltimore Orioles,5,Kansas City Royals,2.01,1.99
+33-18,Minnesota Twins,7,New York Yankees,10,Minnesota Twins,2.87,1.56
+33-19,Atlanta Braves,3,Pittsburgh Pirates,1,Atlanta Braves,1.44,3.69
+33-20,Cleveland Guardians,8,Oakland Athletics,4,Cleveland Guardians,1.6,2.7
+33-21,Miami Marlins,7,Washington Nationals,4,Miami Marlins,1.8,2.3
+33-22,San Francisco Giants,2,Colorado Rockies,4,Colorado Rockies,1.41,3.44
+33-23,Chicago White Sox,9,Los Angeles Dodgers,11,Chicago White Sox,2.23,1.81
+33-24,Milwaukee Brewers,3,Philadelphia Phillies,8,Philadelphia Phillies,1.65,2.48
+33-25,Tampa Bay Rays,2,St.Louis Cardinals,1,Tampa Bay Rays,1.66,2.53
+33-26,Cincinnati Reds,4,Arizona Diamondbacks,5,Arizona Diamondbacks,1.82,2.27
+33-27,San Francisco Giants,2,Colorado Rockies,1,San Francisco Giants,1.46,3.2
+33-28,San Diego Padres,13,New York Mets,2,New York Mets,1.84,2.19
+33-29,Los Angeles Angels,0,Boston Red Sox,1,Boston Red Sox,2.45,2.1
+33-30,Chicago White Sox,1,Los Angeles Dodgers,4,Los Angeles Dodgers,2.63,1.8
+33-31,Milwaukee Brewers,0,Philadelphia Phillies,10,Philadelphia Phillies,2.16,2.5
+33-32,Minnesota Twins,8,New York Yankees,1,Minnesota Twins,2.78,1.56
+33-33,Atlanta Braves,13,Oakland Athletics,2,Oakland Athletics,1.44,3.26
+33-34,Cleveland Guardians,4,Texas Rangers,0,Cleveland Guardians,1.63,2.5
+33-35,Tampa Bay Rays,11,St.Louis Cardinals,3,St.Louis Cardinals,1.8,2.5
+33-36,Cincinnati Reds,0,Arizona Diamondbacks,7,Arizona Diamondbacks,1.93,2.2
+33-37,Houston Astros,3,Seattle Mariners,6,Seattle Mariners,1.78,2.28
+33-38,Miami Marlins,2,Washington Nationals,1,Miami Marlins,1.76,2.86
+33-39,Kansas City Royals,8,Toronto Blue Jays,4,Kansas City Royals,2.31,1.76
+33-40,Pittsburgh Pirates,1,Detroit Tigers,3,Detroit Tigers,1.88,2.12
+33-41,San Francisco Giants,3,Colorado Rockies,5,Colorado Rockies,1.45,3.32
+33-42,San Diego Padres,7,New York Mets,0,San Diego Padres,1.86,2.24
+33-43,Los Angeles Angels,5,Boston Red Sox,6,Boston Red Sox,2.24,1.79
+33-44,Chicago White Sox,4,Los Angeles Dodgers,0,Chicago White Sox,2.45,1.81
+33-45,Houston Astros,4,Seattle Mariners,1,Houston Astros,1.68,3.4
+33-46,Kansas City Royals,0,Toronto Blue Jays,7,Toronto Blue Jays,2.99,1.66
+33-47,Milwaukee Brewers,2,Philadelphia Phillies,3,Philadelphia Phillies,2.05,2.04
+33-48,Minnesota Twins,4,New York Yankees,10,Minnesota Twins,2.55,1.63
+33-49,Atlanta Braves,3,Oakland Athletics,2,Atlanta Braves,1.4,3.39
+33-50,Tampa Bay Rays,4,St.Louis Cardinals,2,Tampa Bay Rays,1.71,2.46
+Jan-32,St.Louis Cardinals,9,Pittsburgh Pirates,1,St.Louis Cardinals,1.48,2.94
+Feb-32,Boston Red Sox,6,Oakland Athletics,1,Boston Red Sox,1.47,3.32
+Mar-32,Detroit Tigers,1,Chicago White Sox,5,Chicago White Sox,2.6,1.69
+Apr-32,New York Mets,4,Milwaukee Brewers,0,New York Mets,2,2.44
+May-32,Toronto Blue Jays,5,Baltimore Orioles,6,Baltimore Orioles,1.47,3.15
+Jun-32,New York Yankees,2,Tampa Bay Rays,0,New York Yankees,1.71,3.16
+Jul-32,Philadelphia Phillies,9,Miami Marlins,11,Philadelphia Phillies,1.72,2.35
+Aug-32,Washington Nationals,4,Atlanta Braves,10,Washington Nationals,3.5,1.58
+Sep-32,St.Louis Cardinals,3,Pittsburgh Pirates,1,St.Louis Cardinals,1.61,2.87
+Oct-32,Seattle Mariners,2,Minnesota Twins,3,Minnesota Twins,1.93,2.08
+Nov-32,San Francisco Giants,6,Kansas City Royals,2,San Francisco Giants,1.61,3.15
+Dec-32,Arizona Diamondbacks,4,Cincinnati Reds,5,Cincinnati Reds,1.8,2.5
+32-13,Chicago Cubs,1,San Diego Padres,4,San Diego Padres,2.17,1.81
+32-14,Texas Rangers,5,Houston Astros,3,Texas Rangers,2.48,1.76
+32-15,St.Louis Cardinals,7,Pittsburgh Pirates,5,St.Louis Cardinals,1.57,2.66
+32-16,Detroit Tigers,5,Chicago White Sox,9,Chicago White Sox,2.2,1.79
+32-17,Toronto Blue Jays,11,Baltimore Orioles,1,Toronto Blue Jays,1.47,3.65
+32-18,Philadelphia Phillies,3,Miami Marlins,2,Philadelphia Phillies,1.84,2.3
+32-19,Washington Nationals,5,Atlanta Braves,9,Atlanta Braves,2.35,1.7
+32-20,Los Angeles Angels,1,New York Mets,4,New York Mets,1.87,2.2
+32-21,San Diego Padres,2,Colorado Rockies,4,Colorado Rockies,1.57,2.66
+32-22,Seattle Mariners,0,Boston Red Sox,2,Boston Red Sox,1.72,2.34
+32-23,San Francisco Giants,2,Los Angeles Dodgers,0,San Francisco Giants,2.44,1.72
+32-24,St.Louis Cardinals,6,Cincinnati Reds,7,Cincinnati Reds,1.66,2.48
+32-25,Chicago White Sox,6,Texas Rangers,8,Texas Rangers,1.72,2.35
+32-26,Houston Astros,9,Miami Marlins,4,Houston Astros,1.44,3.22
+32-27,Kansas City Royals,7,Baltimore Orioles,10,Kansas City Royals,1.75,2.28
+32-28,Minnesota Twins,0,Tampa Bay Rays,6,Tampa Bay Rays,2.12,1.87
+32-29,Detroit Tigers,0,Toronto Blue Jays,6,Toronto Blue Jays,2.15,1.83
+32-30,Atlanta Braves,5,Pittsburgh Pirates,3,Atlanta Braves,1.45,3.2
+32-31,New York Yankees,18,Chicago Cubs,4,Chicago Cubs,1.49,2.97
+32-32,Philadelphia Phillies,1,Arizona Diamondbacks,13,Arizona Diamondbacks,1.56,2.74
+32-33,Washington Nationals,1,Milwaukee Brewers,4,Milwaukee Brewers,2.12,1.86
+32-34,Cleveland Guardians,6,Oakland Athletics,3,Cleveland Guardians,1.62,2.61
+32-35,San Diego Padres,2,Colorado Rockies,6,Colorado Rockies,1.47,3.01
+32-36,Seattle Mariners,7,Boston Red Sox,6,Seattle Mariners,1.86,2.13
+32-37,Los Angeles Angels,11,New York Mets,6,New York Mets,2.18,1.9
+32-38,New York Yankees,8,Chicago Cubs,0,New York Yankees,1.46,3.2
+32-39,San Francisco Giants,3,Los Angeles Dodgers,2,San Francisco Giants,2.81,1.8
+32-40,Atlanta Braves,10,Pittsburgh Pirates,4,Pittsburgh Pirates,1.46,3.1
+32-41,Cleveland Guardians,5,Oakland Athletics,10,Cleveland Guardians,1.81,2.18
+32-42,Detroit Tigers,3,Toronto Blue Jays,1,Detroit Tigers,3.33,1.41
+32-43,Houston Astros,1,Miami Marlins,5,Miami Marlins,1.39,3.45
+32-44,Kansas City Royals,4,Baltimore Orioles,6,Baltimore Orioles,2.05,1.93
+32-45,San Diego Padres,2,Colorado Rockies,1,San Diego Padres,1.57,2.75
+32-46,Philadelphia Phillies,4,Arizona Diamondbacks,0,Philadelphia Phillies,1.43,3.25
+32-47,Washington Nationals,8,Milwaukee Brewers,6,Washington Nationals,2.41,1.67
+32-48,St.Louis Cardinals,5,Cincinnati Reds,4,St.Louis Cardinals,1.59,2.67
+32-49,Chicago White Sox,9,Texas Rangers,11,Chicago White Sox,1.66,2.45
+32-50,Minnesota Twins,6,Tampa Bay Rays,5,Minnesota Twins,2.33,1.76
+31-Jan,Baltimore Orioles,6,Tampa Bay Rays,7,Tampa Bay Rays,2.55,1.61
+Feb-31,Toronto Blue Jays,0,New York Yankees,4,New York Yankees,1.76,2.42
+31-Mar,Chicago Cubs,6,Atlanta Braves,3,Chicago Cubs,2.84,1.53
+Apr-31,Los Angeles Dodgers,1,Cleveland Guardians,2,Cleveland Guardians,1.39,3.44
+31-May,Seattle Mariners,8,Los Angeles Angels,1,Seattle Mariners,1.79,2.29
+Jun-31,Arizona Diamondbacks,7,Minnesota Twins,2,Arizona Diamondbacks,2.25,1.78
+31-Jul,Oakland Athletics,1,Kansas City Royals,5,Kansas City Royals,1.68,2.45
+31-Aug,Colorado Rockies,10,San Diego Padres,4,San Diego Padres,2.44,1.71
+Sep-31,Houston Astros,13,Chicago White Sox,3,Chicago White Sox,1.62,2.67
+31-Oct,Boston Red Sox,6,St.Louis Cardinals,5,Boston Red Sox,1.9,2.05
+Nov-31,Detroit Tigers,0,Texas Rangers,7,Texas Rangers,1.84,2.13
+31-Dec,New York Mets,10,Miami Marlins,4,Miami Marlins,1.7,2.75
+31-13,Toronto Blue Jays,3,New York Yankees,12,Toronto Blue Jays,2.07,1.94
+31-14,Pittsburgh Pirates,0,San Francisco Giants,2,San Francisco Giants,2.83,1.51
+31-15,Washington Nationals,7,Philadelphia Phillies,8,Philadelphia Phillies,2.14,1.92
+31-16,Cincinnati Reds,4,Milwaukee Brewers,5,Milwaukee Brewers,2.01,2
+31-17,Baltimore Orioles,1,Tampa Bay Rays,0,Baltimore Orioles,2.45,1.74
+31-18,Chicago Cubs,1,Atlanta Braves,0,Chicago Cubs,2.7,1.56
+31-19,Washington Nationals,3,Philadelphia Phillies,5,Philadelphia Phillies,2.67,1.59
+31-20,Seattle Mariners,1,Los Angeles Angels,4,Los Angeles Angels,2.34,2.1
+31-21,Detroit Tigers,1,Texas Rangers,3,Texas Rangers,2.46,1.86
+31-22,New York Mets,5,Milwaukee Brewers,4,New York Mets,1.82,2.25
+31-23,New York Yankees,2,Tampa Bay Rays,1,New York Yankees,1.65,2.51
+31-24,Washington Nationals,1,Philadelphia Phillies,10,Philadelphia Phillies,2.91,1.52
+31-25,Colorado Rockies,2,Cleveland Guardians,4,Cleveland Guardians,2.25,1.79
+31-26,Toronto Blue Jays,2,Baltimore Orioles,10,Toronto Blue Jays,1.44,3.25
+31-27,Chicago Cubs,4,San Diego Padres,6,San Diego Padres,2.83,1.57
+31-28,Boston Red Sox,3,Oakland Athletics,4,Oakland Athletics,1.61,2.72
+31-29,Los Angeles Dodgers,4,Los Angeles Angels,1,Los Angeles Dodgers,1.5,2.92
+31-30,Colorado Rockies,5,Cleveland Guardians,7,Cleveland Guardians,2.05,2.12
+31-31,Chicago Cubs,5,San Diego Padres,19,Chicago Cubs,1.74,2.3
+31-32,St.Louis Cardinals,4,Pittsburgh Pirates,6,Pittsburgh Pirates,1.55,2.74
+31-33,Boston Red Sox,10,Oakland Athletics,1,Boston Red Sox,1.74,2.7
+31-34,New York Mets,2,Milwaukee Brewers,10,New York Mets,2.21,2.1
+31-35,Toronto Blue Jays,7,Baltimore Orioles,6,Toronto Blue Jays,1.41,3.7
+31-36,New York Yankees,4,Tampa Bay Rays,3,New York Yankees,1.75,2.32
+31-37,Washington Nationals,2,Atlanta Braves,8,Atlanta Braves,2.98,1.48
+31-38,Seattle Mariners,0,Minnesota Twins,5,Minnesota Twins,2.38,1.72
+31-39,San Francisco Giants,2,Kansas City Royals,3,Kansas City Royals,1.52,2.9
+31-40,Arizona Diamondbacks,7,Cincinnati Reds,4,Arizona Diamondbacks,1.79,2.28
+30-Jan,Los Angeles Angels,11,Kansas City Royals,12,Kansas City Royals,1.62,2.8
+Feb-30,Chicago White Sox,7,Toronto Blue Jays,6,Chicago White Sox,2.21,1.83
+30-Mar,Houston Astros,8,New York Mets,2,Houston Astros,1.76,2.31
+30-Apr,Milwaukee Brewers,2,St.Louis Cardinals,6,St.Louis Cardinals,2.19,1.86
+30-May,Texas Rangers,7,Philadelphia Phillies,0,Texas Rangers,2.25,2.21
+30-Jun,Minnesota Twins,5,Cleveland Guardians,6,Cleveland Guardians,1.68,2.48
+30-Jul,Atlanta Braves,10,San Francisco Giants,12,San Francisco Giants,1.83,2.61
+30-Aug,Boston Red Sox,5,Detroit Tigers,4,Boston Red Sox,1.68,2.94
+30-Sep,Tampa Bay Rays,5,New York Yankees,4,Tampa Bay Rays,2.51,1.74
+30-Oct,Baltimore Orioles,0,Washington Nationals,3,Washington Nationals,1.81,2.2
+30-Nov,Pittsburgh Pirates,7,Chicago Cubs,1,Pittsburgh Pirates,1.71,2.41
+30-Dec,Cincinnati Reds,2,Los Angeles Dodgers,8,Los Angeles Dodgers,2.76,1.6
+30-13,Miami Marlins,9,Colorado Rockies,8,Miami Marlins,1.83,2.6
+30-14,San Diego Padres,4,Arizona Diamondbacks,1,San Diego Padres,1.6,2.56
+30-15,Los Angeles Angels,2,Kansas City Royals,6,Kansas City Royals,1.55,2.78
+30-16,Chicago White Sox,8,Toronto Blue Jays,7,Chicago White Sox,2.2,1.83
+30-17,Milwaukee Brewers,2,St.Louis Cardinals,0,Milwaukee Brewers,1.63,2.59
+30-18,Atlanta Braves,2,San Francisco Giants,1,Atlanta Braves,1.71,2.39
+30-19,Boston Red Sox,5,Detroit Tigers,2,Boston Red Sox,1.56,2.68
+30-20,Tampa Bay Rays,2,New York Yankees,4,New York Yankees,2.32,1.74
+30-21,Pittsburgh Pirates,12,Chicago Cubs,1,Pittsburgh Pirates,1.91,2.15
+30-22,New York Mets,6,Miami Marlins,0,New York Mets,1.65,2.54
+30-23,Houston Astros,4,Chicago White Sox,3,Houston Astros,1.69,2.44
+30-24,Arizona Diamondbacks,7,Minnesota Twins,1,Arizona Diamondbacks,2.18,1.81
+30-25,Los Angeles Dodgers,3,Cleveland Guardians,5,Cleveland Guardians,1.64,2.67
+30-26,Seattle Mariners,0,Los Angeles Angels,4,Los Angeles Angels,1.64,2.58
+30-27,Oakland Athletics,4,Kansas City Royals,0,Oakland Athletics,2.35,1.71
+30-28,Colorado Rockies,8,San Diego Padres,3,Colorado Rockies,2.37,1.76
+30-29,Chicago Cubs,0,Atlanta Braves,6,Atlanta Braves,2.47,1.65
+30-30,Cincinnati Reds,3,Milwaukee Brewers,6,Milwaukee Brewers,2.22,1.78
+30-31,Detroit Tigers,7,Texas Rangers,3,Detroit Tigers,2.37,1.7
+30-32,New York Mets,2,Miami Marlins,6,Miami Marlins,1.76,2.3
+30-33,Toronto Blue Jays,10,New York Yankees,9,New York Yankees,2.46,1.64
+30-34,Baltimore Orioles,2,Tampa Bay Rays,1,Baltimore Orioles,2.4,1.69
+30-35,Boston Red Sox,6,St.Louis Cardinals,4,Boston Red Sox,1.67,2.5
+30-36,Pittsburgh Pirates,4,San Francisco Giants,3,Pittsburgh Pirates,2.66,1.56
+30-37,Washington Nationals,9,Philadelphia Phillies,3,Washington Nationals,2.53,1.63
+30-38,Arizona Diamondbacks,1,Minnesota Twins,11,Minnesota Twins,2.02,1.94
+30-39,Seattle Mariners,0,Los Angeles Angels,3,Los Angeles Angels,2.1,1.93
+30-40,Colorado Rockies,5,San Diego Padres,4,Colorado Rockies,2.15,1.91
+30-41,Boston Red Sox,2,St.Louis Cardinals,11,Boston Red Sox,1.97,2.15
+30-42,Los Angeles Dodgers,7,Cleveland Guardians,1,Los Angeles Dodgers,1.42,3.41
+30-43,Washington Nationals,1,Philadelphia Phillies,2,Philadelphia Phillies,2.56,1.66
+30-44,Cincinnati Reds,3,Milwaukee Brewers,7,Milwaukee Brewers,1.93,2.05
+30-45,Detroit Tigers,14,Texas Rangers,7,Texas Rangers,2.12,1.85
+30-46,Houston Astros,0,Chicago White Sox,7,Chicago White Sox,1.43,3.26
+30-47,New York Mets,3,Miami Marlins,2,New York Mets,1.6,2.66
+30-48,Seattle Mariners,2,Los Angeles Angels,4,Los Angeles Angels,2.24,1.76
+30-49,Oakland Athletics,0,Kansas City Royals,2,Kansas City Royals,1.94,2.06
+30-50,Pittsburgh Pirates,5,San Francisco Giants,7,San Francisco Giants,2.56,1.63
+29-Jan,Kansas City Royals,7,Oakland Athletics,9,Oakland Athletics,1.62,2.55
+Feb-29,Miami Marlins,3,New York Mets,5,New York Mets,2.32,1.75
+29-Mar,Milwaukee Brewers,5,Toronto Blue Jays,4,Milwaukee Brewers,1.57,2.7
+29-Apr,Texas Rangers,3,Washington Nationals,2,Texas Rangers,1.76,2.33
+29-May,St.Louis Cardinals,5,Chicago Cubs,3,St.Louis Cardinals,1.51,2.98
+29-Jun,Chicago White Sox,2,Baltimore Orioles,6,Baltimore Orioles,1.51,2.83
+29-Jul,Tampa Bay Rays,6,Pittsburgh Pirates,5,Tampa Bay Rays,1.58,2.67
+29-Aug,New York Yankees,0,Houston Astros,3,Houston Astros,1.59,2.81
+29-Sep,San Francisco Giants,2,Cincinnati Reds,4,Cincinnati Reds,1.5,3.05
+29-Oct,Arizona Diamondbacks,1,Detroit Tigers,5,Detroit Tigers,1.66,2.56
+29-Nov,San Diego Padres,1,Philadelphia Phillies,0,San Diego Padres,2.27,2
+29-Dec,Los Angeles Angels,3,Seattle Mariners,4,Seattle Mariners,1.8,2.41
+29-13,St.Louis Cardinals,0,Chicago Cubs,3,Chicago Cubs,1.6,2.61
+29-14,Chicago White Sox,1,Baltimore Orioles,4,Baltimore Orioles,1.6,2.64
+29-15,Kansas City Royals,3,Oakland Athletics,1,Kansas City Royals,1.74,2.39
+29-16,Milwaukee Brewers,4,Toronto Blue Jays,9,Toronto Blue Jays,2.3,2.3
+29-17,Minnesota Twins,0,Colorado Rockies,1,Colorado Rockies,1.69,2.6
+29-18,Texas Rangers,1,Washington Nationals,2,Washington Nationals,1.65,2.5
+29-19,Atlanta Braves,1,Los Angeles Dodgers,4,Los Angeles Dodgers,2.15,1.82
+29-20,Cleveland Guardians,3,Boston Red Sox,6,Boston Red Sox,2.05,2.3
+29-21,Tampa Bay Rays,4,Pittsburgh Pirates,3,Tampa Bay Rays,1.55,2.94
+29-22,New York Yankees,1,Houston Astros,3,Houston Astros,1.82,2.26
+29-23,Miami Marlins,3,New York Mets,5,New York Mets,2.25,2.27
+29-24,San Diego Padres,2,Philadelphia Phillies,6,Philadelphia Phillies,2.05,2.52
+29-25,Chicago White Sox,0,Baltimore Orioles,4,Baltimore Orioles,1.66,2.5
+29-26,New York Yankees,7,Houston Astros,6,New York Yankees,1.86,2.24
+29-27,Oakland Athletics,1,Seattle Mariners,2,Seattle Mariners,2.08,1.88
+29-28,Milwaukee Brewers,6,St.Louis Cardinals,4,Milwaukee Brewers,1.84,2.14
+29-29,Minnesota Twins,1,Cleveland Guardians,0,Minnesota Twins,1.79,2.22
+29-30,Cincinnati Reds,5,Los Angeles Dodgers,10,Cincinnati Reds,3.02,1.46
+29-31,Pittsburgh Pirates,8,Chicago Cubs,7,Pittsburgh Pirates,2.01,1.94
+29-32,Atlanta Braves,7,San Francisco Giants,6,Atlanta Braves,1.73,2.38
+29-33,Miami Marlins,3,Colorado Rockies,2,Miami Marlins,1.71,2.32
+29-34,Los Angeles Angels,5,Kansas City Royals,0,Los Angeles Angels,1.48,3.08
+29-35,Oakland Athletics,0,Seattle Mariners,9,Seattle Mariners,2.24,1.78
+29-36,Milwaukee Brewers,4,St.Louis Cardinals,5,St.Louis Cardinals,1.9,2.06
+29-37,Minnesota Twins,10,Cleveland Guardians,11,Cleveland Guardians,1.68,2.48
+29-38,Atlanta Braves,4,San Francisco Giants,3,Atlanta Braves,1.74,2.35
+29-39,Boston Red Sox,6,Detroit Tigers,2,Boston Red Sox,1.78,2.35
+29-40,Tampa Bay Rays,4,New York Yankees,5,New York Yankees,2.45,1.73
+28-Jan,New York Yankees,5,Oakland Athletics,3,New York Yankees,1.3,4.25
+28-Feb,Washington Nationals,7,Pittsburgh Pirates,8,Pittsburgh Pirates,1.72,2.35
+28-Mar,Tampa Bay Rays,3,Milwaukee Brewers,5,Milwaukee Brewers,1.82,2.21
+28-Apr,Seattle Mariners,2,Baltimore Orioles,0,Seattle Mariners,1.74,2.53
+28-May,San Francisco Giants,4,Detroit Tigers,3,San Francisco Giants,1.48,3.08
+28-Jun,Arizona Diamondbacks,7,San Diego Padres,6,Arizona Diamondbacks,2.2,1.99
+28-Jul,Los Angeles Angels,4,Chicago White Sox,11,Los Angeles Angels,1.84,2.45
+28-Aug,Colorado Rockies,7,Los Angeles Dodgers,4,Colorado Rockies,2.95,1.55
+28-Sep,Kansas City Royals,3,Texas Rangers,8,Texas Rangers,2.36,1.83
+28-Oct,Chicago Cubs,3,Cincinnati Reds,5,Cincinnati Reds,1.87,2.14
+28-Nov,St.Louis Cardinals,5,Miami Marlins,3,St.Louis Cardinals,2,2.3
+28-Dec,Cleveland Guardians,0,Minnesota Twins,6,Minnesota Twins,2,1.92
+28-13,New York Mets,1,Houston Astros,9,Houston Astros,2.08,1.88
+28-14,Tampa Bay Rays,3,Milwaukee Brewers,5,Milwaukee Brewers,1.95,2.04
+28-15,Toronto Blue Jays,6,Boston Red Sox,5,Toronto Blue Jays,1.78,2.3
+28-16,New York Yankees,2,Oakland Athletics,1,New York Yankees,1.54,3.3
+28-17,Philadelphia Phillies,3,Atlanta Braves,5,Atlanta Braves,2.2,2.16
+28-18,Washington Nationals,3,Pittsburgh Pirates,1,Washington Nationals,1.83,2.15
+28-19,Cleveland Guardians,3,Minnesota Twins,2,Cleveland Guardians,1.93,2.02
+28-20,Seattle Mariners,2,Baltimore Orioles,9,Baltimore Orioles,1.72,2.65
+28-21,Los Angeles Angels,4,Chicago White Sox,3,Los Angeles Angels,1.74,2.32
+28-22,Colorado Rockies,4,Los Angeles Dodgers,0,Colorado Rockies,2.83,1.55
+28-23,Kansas City Royals,4,Texas Rangers,10,Kansas City Royals,2.39,1.72
+28-24,St.Louis Cardinals,9,Miami Marlins,0,St.Louis Cardinals,1.81,2.4
+28-25,Cleveland Guardians,1,Minnesota Twins,11,Minnesota Twins,2.19,1.85
+28-26,Toronto Blue Jays,7,Boston Red Sox,2,Toronto Blue Jays,1.71,2.72
+28-27,New York Yankees,9,Oakland Athletics,5,New York Yankees,1.38,3.64
+28-28,Washington Nationals,3,Pittsburgh Pirates,2,Washington Nationals,1.8,2.45
+28-29,Atlanta Braves,3,Los Angeles Dodgers,5,Los Angeles Dodgers,2.15,1.9
+28-30,Arizona Diamondbacks,11,Detroit Tigers,7,Detroit Tigers,1.84,2.12
+28-31,San Diego Padres,5,Philadelphia Phillies,8,Philadelphia Phillies,1.65,2.46
+28-32,Los Angeles Angels,2,Seattle Mariners,1,Los Angeles Angels,1.75,2.28
+28-33,San Francisco Giants,3,Cincinnati Reds,10,San Francisco Giants,1.68,2.44
+28-34,Texas Rangers,4,Washington Nationals,6,Washington Nationals,1.63,2.53
+28-35,St.Louis Cardinals,5,Chicago Cubs,6,Chicago Cubs,1.63,2.65
+28-36,Chicago White Sox,4,Baltimore Orioles,3,Chicago White Sox,1.47,3.12
+28-37,Kansas City Royals,3,Oakland Athletics,5,Oakland Athletics,1.62,2.58
+28-38,Milwaukee Brewers,10,Toronto Blue Jays,3,Toronto Blue Jays,2.4,1.69
+28-39,Minnesota Twins,6,Colorado Rockies,3,Minnesota Twins,1.48,3.13
+28-40,Cleveland Guardians,3,Boston Red Sox,8,Boston Red Sox,1.98,1.98
+28-41,Tampa Bay Rays,4,Pittsburgh Pirates,2,Tampa Bay Rays,1.44,3.17
+28-42,New York Yankees,6,Houston Astros,3,New York Yankees,1.63,2.65
+28-43,Miami Marlins,3,New York Mets,2,Miami Marlins,2.39,1.73
+28-44,Arizona Diamondbacks,3,Detroit Tigers,6,Detroit Tigers,1.69,2.49
+28-45,San Diego Padres,2,Philadelphia Phillies,4,Philadelphia Phillies,1.85,2.2
+28-46,Los Angeles Angels,3,Seattle Mariners,5,Seattle Mariners,1.79,2.22
+28-47,Atlanta Braves,5,Los Angeles Dodgers,3,Atlanta Braves,1.9,2.38
+28-48,Minnesota Twins,6,Colorado Rockies,0,Minnesota Twins,1.62,2.7
+28-49,San Francisco Giants,9,Cincinnati Reds,2,San Francisco Giants,1.66,3.3
+28-50,Cleveland Guardians,2,Boston Red Sox,4,Boston Red Sox,1.9,2.45
+27-Jan,Chicago Cubs,3,Boston Red Sox,1,Chicago Cubs,2.37,1.72
+27-Feb,Los Angeles Dodgers,7,San Diego Padres,2,Los Angeles Dodgers,1.7,2.67
+27-Mar,Cleveland Guardians,1,New York Yankees,6,New York Yankees,2.67,1.65
+27-Apr,Toronto Blue Jays,5,Tampa Bay Rays,11,Toronto Blue Jays,1.8,2.13
+27-May,Cincinnati Reds,1,Atlanta Braves,4,Atlanta Braves,2.66,1.64
+27-Jun,Detroit Tigers,4,Kansas City Royals,3,Detroit Tigers,1.87,2.25
+27-Jul,Houston Astros,9,Los Angeles Angels,1,Houston Astros,1.66,2.8
+27-Aug,New York Mets,3,Texas Rangers,7,Texas Rangers,1.77,2.27
+27-Sep,Seattle Mariners,2,Oakland Athletics,1,Seattle Mariners,1.64,2.66
+27-Oct,Philadelphia Phillies,6,St.Louis Cardinals,7,St.Louis Cardinals,1.85,2.14
+27-Nov,Pittsburgh Pirates,7,Milwaukee Brewers,4,Pittsburgh Pirates,2.87,1.57
+27-Dec,San Francisco Giants,3,Chicago White Sox,5,Chicago White Sox,1.73,2.35
+27-13,Washington Nationals,3,Miami Marlins,5,Miami Marlins,2.01,1.95
+27-14,Minnesota Twins,4,Baltimore Orioles,3,Minnesota Twins,1.46,3.22
+27-15,Cleveland Guardians,4,New York Yankees,13,Cleveland Guardians,3.58,1.47
+27-16,Toronto Blue Jays,2,Tampa Bay Rays,6,Tampa Bay Rays,1.77,2.25
+27-17,San Francisco Giants,0,Chicago White Sox,1,Chicago White Sox,1.71,2.37
+27-18,Los Angeles Dodgers,5,San Diego Padres,1,Los Angeles Dodgers,1.68,2.65
+27-19,Seattle Mariners,1,Oakland Athletics,3,Oakland Athletics,1.59,2.65
+27-20,Colorado Rockies,3,Arizona Diamondbacks,9,Arizona Diamondbacks,1.92,2.25
+27-21,Houston Astros,8,Los Angeles Angels,1,Houston Astros,1.74,2.53
+27-22,Minnesota Twins,3,Baltimore Orioles,2,Minnesota Twins,1.47,3.08
+27-23,Detroit Tigers,1,Kansas City Royals,3,Kansas City Royals,1.87,2.11
+27-24,New York Mets,4,Texas Rangers,3,New York Mets,1.58,2.67
+27-25,Pittsburgh Pirates,2,Milwaukee Brewers,19,Pittsburgh Pirates,2.83,1.53
+27-26,Cincinnati Reds,1,Atlanta Braves,9,Atlanta Braves,3.44,1.62
+27-27,Philadelphia Phillies,5,St.Louis Cardinals,3,Philadelphia Phillies,2.33,2.1
+27-28,Washington Nationals,3,Miami Marlins,6,Miami Marlins,2.05,2.19
+27-29,Toronto Blue Jays,9,Tampa Bay Rays,2,Toronto Blue Jays,1.75,2.32
+27-30,Chicago Cubs,6,Boston Red Sox,5,Chicago Cubs,2.29,1.74
+27-31,Los Angeles Dodgers,3,San Diego Padres,1,Los Angeles Dodgers,1.8,2.6
+27-32,Seattle Mariners,8,Oakland Athletics,6,Seattle Mariners,1.5,3.2
+27-33,Chicago Cubs,15,Cincinnati Reds,7,Cincinnati Reds,1.8,2.24
+27-34,Toronto Blue Jays,4,Tampa Bay Rays,1,Toronto Blue Jays,1.71,2.34
+27-35,Pittsburgh Pirates,8,Milwaukee Brewers,7,Pittsburgh Pirates,2.7,1.81
+27-36,Houston Astros,2,New York Yankees,1,Houston Astros,2.26,1.76
+27-37,Philadelphia Phillies,14,Atlanta Braves,4,Atlanta Braves,1.68,2.45
+27-38,Cleveland Guardians,5,Minnesota Twins,3,Cleveland Guardians,1.73,2.37
+27-39,Los Angeles Angels,4,Chicago White Sox,1,Los Angeles Angels,1.55,2.75
+27-40,Colorado Rockies,4,Los Angeles Dodgers,8,Los Angeles Dodgers,2.9,1.5
+27-41,Chicago Cubs,8,Cincinnati Reds,3,Chicago Cubs,1.8,2.28
+27-42,St.Louis Cardinals,3,Miami Marlins,4,Miami Marlins,2.21,1.79
+27-43,Cleveland Guardians,7,Minnesota Twins,6,Cleveland Guardians,1.85,2.3
+27-44,Toronto Blue Jays,5,Boston Red Sox,6,Boston Red Sox,1.63,2.58
+27-45,Philadelphia Phillies,1,Atlanta Braves,4,Atlanta Braves,2.21,2.15
+27-46,Seattle Mariners,9,Baltimore Orioles,3,Seattle Mariners,1.82,2.24
+27-47,San Francisco Giants,2,Detroit Tigers,3,Detroit Tigers,1.55,2.75
+27-48,Arizona Diamondbacks,0,San Diego Padres,4,San Diego Padres,2.21,1.82
+27-49,Kansas City Royals,2,Texas Rangers,1,Kansas City Royals,2.02,1.95
+27-50,New York Mets,0,Houston Astros,2,Houston Astros,2.32,1.76
+26-Jan,Miami Marlins,2,Los Angeles Angels,5,Los Angeles Angels,2.51,1.64
+26-Feb,Oakland Athletics,1,Toronto Blue Jays,2,Toronto Blue Jays,2.89,1.5
+26-Mar,Chicago White Sox,9,Minnesota Twins,8,Chicago White Sox,1.94,2.11
+26-Apr,Milwaukee Brewers,1,Chicago Cubs,2,Chicago Cubs,1.41,3.45
+26-May,Detroit Tigers,8,Cleveland Guardians,2,Detroit Tigers,2.48,1.64
+26-Jun,Los Angeles Dodgers,5,Colorado Rockies,2,Los Angeles Dodgers,1.49,3.01
+26-Jul,Arizona Diamondbacks,6,San Francisco Giants,2,Arizona Diamondbacks,2.47,1.76
+26-Aug,Oakland Athletics,5,Toronto Blue Jays,3,Oakland Athletics,2.62,1.65
+26-Sep,Chicago White Sox,2,Minnesota Twins,8,Minnesota Twins,1.95,2.21
+26-Oct,Houston Astros,9,Kansas City Royals,7,Houston Astros,1.41,3.29
+26-Nov,Milwaukee Brewers,3,Chicago Cubs,8,Chicago Cubs,1.78,2.37
+26-Dec,Atlanta Braves,7,St.Louis Cardinals,1,Atlanta Braves,1.72,2.67
+26-13,Boston Red Sox,4,Tampa Bay Rays,8,Tampa Bay Rays,1.83,2.19
+26-14,Detroit Tigers,11,Cleveland Guardians,4,Cleveland Guardians,2.45,1.67
+26-15,Baltimore Orioles,10,Texas Rangers,9,Texas Rangers,1.96,1.99
+26-16,Philadelphia Phillies,11,Washington Nationals,0,Philadelphia Phillies,1.63,2.53
+26-17,Pittsburgh Pirates,5,New York Yankees,2,Pittsburgh Pirates,2.83,1.55
+26-18,Cincinnati Reds,1,New York Mets,0,Cincinnati Reds,2.98,1.62
+26-19,Miami Marlins,2,Los Angeles Angels,1,Miami Marlins,2.35,2.36
+26-20,San Diego Padres,2,Seattle Mariners,6,Seattle Mariners,1.8,2.28
+26-21,Los Angeles Dodgers,5,Colorado Rockies,3,Los Angeles Dodgers,1.42,3.52
+26-22,Oakland Athletics,5,Toronto Blue Jays,1,Oakland Athletics,3.27,1.57
+26-23,Chicago White Sox,3,Minnesota Twins,6,Minnesota Twins,1.78,2.32
+26-24,Atlanta Braves,6,St.Louis Cardinals,3,Atlanta Braves,1.66,2.6
+26-25,Cincinnati Reds,4,New York Mets,7,New York Mets,2.7,1.6
+26-26,Detroit Tigers,5,Cleveland Guardians,3,Detroit Tigers,2.32,1.8
+26-27,San Diego Padres,2,Seattle Mariners,8,Seattle Mariners,1.76,2.61
+26-28,Arizona Diamondbacks,8,San Francisco Giants,3,Arizona Diamondbacks,2.75,1.55
+26-29,Houston Astros,7,Kansas City Royals,6,Houston Astros,1.41,3.44
+26-30,Milwaukee Brewers,5,Chicago Cubs,2,Milwaukee Brewers,1.75,2.35
+26-31,Boston Red Sox,4,Tampa Bay Rays,0,Boston Red Sox,1.87,2.09
+26-32,Detroit Tigers,4,Cleveland Guardians,1,Detroit Tigers,2.34,1.82
+26-33,Baltimore Orioles,7,Texas Rangers,6,Baltimore Orioles,1.97,1.99
+26-34,Washington Nationals,2,Miami Marlins,3,Miami Marlins,1.93,2.04
+26-35,Philadelphia Phillies,4,St.Louis Cardinals,0,Philadelphia Phillies,1.69,2.56
+26-36,Los Angeles Dodgers,2,San Diego Padres,4,San Diego Padres,1.55,2.93
+26-37,Seattle Mariners,2,Oakland Athletics,1,Seattle Mariners,1.71,2.41
+26-38,San Francisco Giants,4,Chicago White Sox,13,San Francisco Giants,1.78,2.29
+26-39,Colorado Rockies,6,Arizona Diamondbacks,5,Colorado Rockies,2.06,1.91
+26-40,Chicago Cubs,2,Boston Red Sox,4,Boston Red Sox,1.92,2.05
+26-41,Houston Astros,4,Los Angeles Angels,2,Houston Astros,1.45,3.2
+26-42,Minnesota Twins,1,Baltimore Orioles,3,Baltimore Orioles,1.73,2.41
+26-43,Cincinnati Reds,4,Atlanta Braves,3,Cincinnati Reds,2.55,1.66
+26-44,Cleveland Guardians,2,New York Yankees,0,Cleveland Guardians,2.48,1.66
+26-45,New York Mets,4,Texas Rangers,1,New York Mets,1.79,2.21
+26-46,Toronto Blue Jays,3,Tampa Bay Rays,7,Tampa Bay Rays,1.78,2.23
+26-47,Pittsburgh Pirates,0,Milwaukee Brewers,2,Milwaukee Brewers,2.89,1.53
+26-48,Washington Nationals,4,Miami Marlins,7,Miami Marlins,2.17,1.84
+26-49,Detroit Tigers,4,Kansas City Royals,7,Kansas City Royals,1.75,2.3
+26-50,Colorado Rockies,11,Arizona Diamondbacks,7,Arizona Diamondbacks,2,2.49
+25-Jan,Boston Red Sox,6,New York Yankees,5,Boston Red Sox,2.47,1.74
+25-Feb,San Diego Padres,1,San Francisco Giants,3,San Francisco Giants,1.96,2.05
+25-Mar,Arizona Diamondbacks,9,Colorado Rockies,2,Arizona Diamondbacks,1.84,2.17
+25-Apr,Atlanta Braves,4,Washington Nationals,3,Atlanta Braves,1.47,3.15
+25-May,Cincinnati Reds,5,Tampa Bay Rays,4,Cincinnati Reds,2.35,1.71
+25-Jun,Kansas City Royals,1,Cleveland Guardians,13,Cleveland Guardians,2.26,1.75
+25-Jul,Milwaukee Brewers,3,Pittsburgh Pirates,4,Pittsburgh Pirates,1.41,3.44
+25-Aug,New York Mets,5,Miami Marlins,4,New York Mets,1.59,2.66
+25-Sep,Oakland Athletics,3,Houston Astros,2,Oakland Athletics,3.58,1.37
+25-Oct,Baltimore Orioles,1,Los Angeles Angels,0,Baltimore Orioles,2.07,1.88
+25-Nov,Texas Rangers,9,Minnesota Twins,7,Texas Rangers,1.82,2.2
+25-Dec,St.Louis Cardinals,0,Philadelphia Phillies,1,Philadelphia Phillies,1.87,2.15
+25-13,Chicago White Sox,8,Detroit Tigers,0,Chicago White Sox,1.61,2.58
+25-14,Los Angeles Dodgers,4,Chicago Cubs,3,Los Angeles Dodgers,1.51,2.85
+25-15,Seattle Mariners,5,Toronto Blue Jays,2,Seattle Mariners,2.1,1.97
+25-16,Arizona Diamondbacks,5,Colorado Rockies,6,Colorado Rockies,1.86,2.53
+25-17,Oakland Athletics,3,Houston Astros,8,Houston Astros,2.64,1.59
+25-18,San Diego Padres,6,San Francisco Giants,3,San Diego Padres,1.9,2.38
+25-19,St.Louis Cardinals,0,Philadelphia Phillies,2,Philadelphia Phillies,2.19,1.9
+25-20,Chicago White Sox,5,Detroit Tigers,7,Detroit Tigers,1.57,2.66
+25-21,Kansas City Royals,4,Cleveland Guardians,3,Kansas City Royals,0,0
+25-22,Milwaukee Brewers,4,Pittsburgh Pirates,3,Milwaukee Brewers,1.51,3.15
+25-23,Texas Rangers,6,Minnesota Twins,5,Texas Rangers,2.1,2
+25-24,Atlanta Braves,12,Washington Nationals,2,Washington Nationals,1.44,3.22
+25-25,Boston Red Sox,5,New York Yankees,12,Boston Red Sox,2.43,1.69
+25-26,New York Mets,2,Miami Marlins,5,Miami Marlins,1.65,2.6
+25-27,Baltimore Orioles,5,Los Angeles Angels,4,Baltimore Orioles,1.95,2.26
+25-28,Cincinnati Reds,2,Tampa Bay Rays,1,Cincinnati Reds,2.66,1.64
+25-29,Los Angeles Dodgers,5,Chicago Cubs,3,Los Angeles Dodgers,1.42,3.45
+25-30,Seattle Mariners,8,Toronto Blue Jays,3,Seattle Mariners,2.01,1.96
+25-31,Arizona Diamondbacks,3,Colorado Rockies,4,Colorado Rockies,2.02,2.4
+25-32,San Diego Padres,2,San Francisco Giants,1,San Diego Padres,1.74,2.28
+25-33,Chicago White Sox,1,Detroit Tigers,2,Detroit Tigers,1.6,3.17
+25-34,Atlanta Braves,2,St.Louis Cardinals,3,St.Louis Cardinals,1.48,3.27
+25-35,Boston Red Sox,5,New York Yankees,6,New York Yankees,2.48,1.7
+25-36,Cincinnati Reds,5,Pittsburgh Pirates,1,Cincinnati Reds,1.82,2.12
+25-37,New York Mets,10,Miami Marlins,0,New York Mets,1.62,2.53
+25-38,Baltimore Orioles,4,Los Angeles Angels,1,Baltimore Orioles,2.02,2.01
+25-39,Philadelphia Phillies,5,Washington Nationals,3,Philadelphia Phillies,1.61,2.7
+25-40,Cincinnati Reds,2,Pittsburgh Pirates,4,Pittsburgh Pirates,2,1.99
+25-41,Houston Astros,5,Kansas City Royals,2,Houston Astros,1.33,4.1
+25-42,Los Angeles Dodgers,2,Colorado Rockies,1,Los Angeles Dodgers,1.35,3.73
+25-43,Arizona Diamondbacks,5,San Francisco Giants,7,San Francisco Giants,2.18,1.8
+25-44,Pittsburgh Pirates,0,New York Yankees,16,New York Yankees,2.87,1.51
+25-45,Houston Astros,4,Kansas City Royals,7,Kansas City Royals,1.39,3.75
+25-46,Atlanta Braves,3,St.Louis Cardinals,0,Atlanta Braves,1.63,2.7
+25-47,Boston Red Sox,1,Tampa Bay Rays,7,Tampa Bay Rays,1.9,2.1
+25-48,Baltimore Orioles,2,Texas Rangers,1,Baltimore Orioles,2.01,1.95
+25-49,Philadelphia Phillies,2,Washington Nationals,3,Washington Nationals,1.5,2.93
+25-50,Cincinnati Reds,3,New York Mets,8,New York Mets,2.52,1.63
+24-Jan,New York Yankees,7,Cincinnati Reds,6,New York Yankees,1.52,3.96
+24-Feb,Miami Marlins,5,Pittsburgh Pirates,4,Miami Marlins,1.62,2.56
+24-Mar,Washington Nationals,1,Seattle Mariners,2,Seattle Mariners,2.05,2.05
+24-Apr,San Francisco Giants,4,Arizona Diamondbacks,3,San Francisco Giants,1.8,2.18
+24-May,Kansas City Royals,5,Detroit Tigers,2,Kansas City Royals,1.88,2.11
+24-Jun,Minnesota Twins,4,Milwaukee Brewers,1,Minnesota Twins,1.83,2.17
+24-Jul,Atlanta Braves,3,New York Mets,7,New York Mets,1.74,2.48
+24-Aug,Washington Nationals,4,Seattle Mariners,6,Seattle Mariners,2.05,2.03
+24-Sep,San Francisco Giants,13,Arizona Diamondbacks,0,San Francisco Giants,1.48,3.02
+24-Oct,Los Angeles Angels,5,Houston Astros,6,Houston Astros,2.09,2.15
+24-Nov,Colorado Rockies,5,San Diego Padres,3,Colorado Rockies,2.4,1.73
+24-Dec,Kansas City Royals,5,Detroit Tigers,7,Detroit Tigers,1.89,2.17
+24-13,Chicago Cubs,2,Baltimore Orioles,4,Baltimore Orioles,1.85,2.11
+24-14,Texas Rangers,7,Oakland Athletics,14,Texas Rangers,1.65,2.67
+24-15,St.Louis Cardinals,7,Los Angeles Dodgers,6,St.Louis Cardinals,2.43,1.68
+24-16,Minnesota Twins,3,Milwaukee Brewers,6,Milwaukee Brewers,1.71,2.4
+24-17,Atlanta Braves,4,New York Mets,1,Atlanta Braves,1.66,2.9
+24-18,Cleveland Guardians,0,Chicago White Sox,7,Chicago White Sox,2.52,1.63
+24-19,Tampa Bay Rays,3,Boston Red Sox,2,Tampa Bay Rays,2.04,2.45
+24-20,Toronto Blue Jays,4,Philadelphia Phillies,3,Toronto Blue Jays,1.55,2.83
+24-21,New York Yankees,3,Cincinnati Reds,4,Cincinnati Reds,1.34,3.73
+24-22,Miami Marlins,2,Pittsburgh Pirates,3,Pittsburgh Pirates,1.67,2.67
+24-23,Cleveland Guardians,4,Chicago White Sox,1,Cleveland Guardians,1.74,2.53
+24-24,San Francisco Giants,3,Arizona Diamondbacks,4,Arizona Diamondbacks,1.66,2.8
+24-25,Colorado Rockies,5,San Diego Padres,6,San Diego Padres,2.31,1.76
+24-26,Kansas City Royals,7,Detroit Tigers,3,Kansas City Royals,1.79,2.21
+24-27,Texas Rangers,10,Oakland Athletics,8,Oakland Athletics,1.61,2.61
+24-28,Atlanta Braves,1,New York Mets,4,New York Mets,1.77,2.4
+24-29,St.Louis Cardinals,6,Philadelphia Phillies,1,St.Louis Cardinals,2.19,1.84
+24-30,Cleveland Guardians,8,Chicago White Sox,4,Cleveland Guardians,2.04,1.93
+24-31,Tampa Bay Rays,10,Boston Red Sox,5,Boston Red Sox,2.05,2.01
+24-32,Miami Marlins,1,Pittsburgh Pirates,5,Pittsburgh Pirates,1.63,2.53
+24-33,Kansas City Royals,3,Detroit Tigers,1,Kansas City Royals,1.79,2.2
+24-34,Boston Red Sox,11,New York Yankees,6,New York Yankees,2.31,1.81
+24-35,Arizona Diamondbacks,2,Colorado Rockies,3,Colorado Rockies,2.01,1.97
+24-36,Los Angeles Dodgers,11,Chicago Cubs,9,Chicago Cubs,1.42,3.33
+24-37,San Diego Padres,0,San Francisco Giants,12,San Francisco Giants,1.9,2.15
+24-38,Seattle Mariners,6,Toronto Blue Jays,5,Seattle Mariners,1.85,2.18
+24-39,Oakland Athletics,1,Houston Astros,6,Houston Astros,2.59,1.59
+24-40,Texas Rangers,5,Minnesota Twins,6,Minnesota Twins,1.94,2.02
+23-Jan,San Diego Padres,4,Arizona Diamondbacks,3,San Diego Padres,1.62,2.76
+23-Feb,Chicago Cubs,3,New York Mets,4,New York Mets,2.19,1.81
+23-Mar,New York Yankees,14,Boston Red Sox,1,New York Yankees,1.64,2.55
+23-Apr,San Francisco Giants,2,Milwaukee Brewers,1,San Francisco Giants,1.78,2.5
+23-May,Cleveland Guardians,10,Detroit Tigers,0,Cleveland Guardians,1.65,2.46
+23-Jun,Houston Astros,5,Oakland Athletics,0,Houston Astros,1.31,4.13
+23-Jul,Miami Marlins,0,Philadelphia Phillies,10,Philadelphia Phillies,1.97,2.02
+23-Aug,Tampa Bay Rays,4,Baltimore Orioles,6,Baltimore Orioles,1.86,2.1
+23-Sep,Texas Rangers,2,Seattle Mariners,3,Seattle Mariners,2.43,1.68
+23-Oct,Washington Nationals,3,Atlanta Braves,6,Atlanta Braves,3.1,1.45
+23-Nov,Colorado Rockies,2,Pittsburgh Pirates,0,Colorado Rockies,1.75,2.35
+23-Dec,Toronto Blue Jays,6,Kansas City Royals,5,Toronto Blue Jays,1.33,3.8
+23-13,Chicago Cubs,1,New York Mets,2,New York Mets,2.94,1.78
+23-14,St.Louis Cardinals,11,Cincinnati Reds,3,Cincinnati Reds,1.63,2.58
+23-15,Minnesota Twins,6,Chicago White Sox,3,Minnesota Twins,1.81,2.25
+23-16,San Francisco Giants,8,Milwaukee Brewers,5,San Francisco Giants,2.18,2.1
+23-17,San Diego Padres,5,Arizona Diamondbacks,3,San Diego Padres,1.54,2.79
+23-18,Los Angeles Angels,1,Los Angeles Dodgers,9,Los Angeles Dodgers,2.84,1.55
+23-19,Colorado Rockies,13,Pittsburgh Pirates,2,Pittsburgh Pirates,1.8,2.41
+23-20,St.Louis Cardinals,7,Cincinnati Reds,3,St.Louis Cardinals,1.7,2.5
+23-21,Houston Astros,1,Oakland Athletics,5,Oakland Athletics,1.52,2.8
+23-22,Minnesota Twins,2,Chicago White Sox,6,Chicago White Sox,1.83,2.22
+23-23,Texas Rangers,3,Seattle Mariners,8,Seattle Mariners,2.48,1.71
+23-24,Cleveland Guardians,6,Detroit Tigers,5,Cleveland Guardians,1.58,2.66
+23-25,Tampa Bay Rays,5,Baltimore Orioles,4,Tampa Bay Rays,1.89,2.15
+23-26,Toronto Blue Jays,8,Kansas City Royals,1,Toronto Blue Jays,1.31,4.2
+23-27,New York Yankees,4,Boston Red Sox,5,Boston Red Sox,1.65,2.56
+23-28,Washington Nationals,4,Atlanta Braves,8,Atlanta Braves,3,1.61
+23-29,Miami Marlins,1,Philadelphia Phillies,2,Philadelphia Phillies,1.57,2.7
+23-30,San Francisco Giants,2,Milwaukee Brewers,3,Milwaukee Brewers,2,2
+23-31,Los Angeles Angels,2,Houston Astros,3,Houston Astros,2.73,1.57
+23-32,Chicago Cubs,0,New York Mets,8,New York Mets,2.18,1.8
+23-33,Texas Rangers,5,Seattle Mariners,6,Seattle Mariners,1.84,2.17
+23-34,Minnesota Twins,2,Chicago White Sox,12,Minnesota Twins,1.74,2.5
+23-35,St.Louis Cardinals,0,Los Angeles Dodgers,4,Los Angeles Dodgers,2.49,1.67
+23-36,Cleveland Guardians,4,Detroit Tigers,0,Cleveland Guardians,1.54,3.1
+23-37,Tampa Bay Rays,5,Boston Red Sox,4,Tampa Bay Rays,1.84,2.21
+23-38,Toronto Blue Jays,1,Kansas City Royals,3,Kansas City Royals,1.31,4.48
+23-39,New York Yankees,6,Cincinnati Reds,7,Cincinnati Reds,1.59,2.74
+23-40,Washington Nationals,4,Atlanta Braves,5,Atlanta Braves,2.99,1.5
+23-41,Colorado Rockies,8,San Diego Padres,5,Colorado Rockies,2.23,1.77
+23-42,Miami Marlins,3,Pittsburgh Pirates,2,Miami Marlins,1.69,2.48
+23-43,Los Angeles Angels,7,Houston Astros,1,Los Angeles Angels,2.35,2.04
+23-44,Colorado Rockies,10,San Diego Padres,6,San Diego Padres,2.66,1.74
+23-45,Chicago Cubs,1,Baltimore Orioles,7,Baltimore Orioles,1.76,2.35
+23-46,Texas Rangers,5,Oakland Athletics,2,Texas Rangers,1.56,2.68
+23-47,St.Louis Cardinals,6,Los Angeles Dodgers,7,Los Angeles Dodgers,2.57,1.68
+23-48,Cleveland Guardians,1,Chicago White Sox,2,Chicago White Sox,2.09,1.9
+23-49,Tampa Bay Rays,4,Boston Red Sox,1,Tampa Bay Rays,1.56,2.74
+23-50,Toronto Blue Jays,8,Philadelphia Phillies,2,Toronto Blue Jays,1.87,2.11
+22-Jan,Oakland Athletics,3,Texas Rangers,1,Oakland Athletics,2.24,1.82
+22-Feb,Arizona Diamondbacks,7,Washington Nationals,2,Arizona Diamondbacks,1.67,2.44
+22-Mar,Atlanta Braves,7,Los Angeles Angels,2,Atlanta Braves,1.52,2.97
+22-Apr,Chicago White Sox,5,Cleveland Guardians,4,Chicago White Sox,1.62,2.6
+22-May,Los Angeles Dodgers,4,San Francisco Giants,2,Los Angeles Dodgers,1.57,2.75
+22-Jun,Kansas City Royals,6,Tampa Bay Rays,3,Kansas City Royals,1.95,2.05
+22-Jul,Milwaukee Brewers,9,Colorado Rockies,4,Milwaukee Brewers,1.5,3.38
+22-Aug,New York Mets,1,San Diego Padres,2,San Diego Padres,1.83,2.35
+22-Sep,Baltimore Orioles,6,New York Yankees,3,Baltimore Orioles,3.1,1.58
+22-Oct,Pittsburgh Pirates,1,Miami Marlins,0,Pittsburgh Pirates,2.5,1.92
+22-Nov,Cincinnati Reds,3,St.Louis Cardinals,6,St.Louis Cardinals,2.45,1.74
+22-Dec,Detroit Tigers,4,Minnesota Twins,8,Minnesota Twins,2.56,1.63
+22-13,Philadelphia Phillies,2,Chicago Cubs,6,Chicago Cubs,1.68,2.59
+22-14,Boston Red Sox,1,Toronto Blue Jays,4,Toronto Blue Jays,2.6,1.67
+22-15,Seattle Mariners,1,Houston Astros,3,Houston Astros,2.43,1.68
+22-16,Chicago White Sox,4,Cleveland Guardians,7,Cleveland Guardians,1.92,2.18
+22-17,Los Angeles Dodgers,5,San Francisco Giants,1,Los Angeles Dodgers,1.7,2.5
+22-18,Seattle Mariners,2,Houston Astros,5,Houston Astros,2.14,1.88
+22-19,Arizona Diamondbacks,10,Washington Nationals,1,Arizona Diamondbacks,1.66,2.5
+22-20,Oakland Athletics,5,Texas Rangers,4,Oakland Athletics,2.05,1.95
+22-21,Atlanta Braves,8,Los Angeles Angels,1,Atlanta Braves,1.7,2.7
+22-22,Chicago White Sox,2,Cleveland Guardians,8,Cleveland Guardians,1.7,2.45
+22-23,Kansas City Royals,3,Tampa Bay Rays,7,Tampa Bay Rays,2.3,1.79
+22-24,Milwaukee Brewers,6,Colorado Rockies,5,Milwaukee Brewers,1.35,3.72
+22-25,New York Mets,1,San Diego Padres,4,San Diego Padres,1.66,2.77
+22-26,Boston Red Sox,5,Toronto Blue Jays,28,Boston Red Sox,2.11,1.88
+22-27,Baltimore Orioles,6,New York Yankees,7,New York Yankees,2.95,1.71
+22-28,Philadelphia Phillies,2,Chicago Cubs,15,Philadelphia Phillies,1.82,2.4
+22-29,Pittsburgh Pirates,1,Miami Marlins,8,Miami Marlins,2.17,1.9
+22-30,Cincinnati Reds,9,St.Louis Cardinals,5,Cincinnati Reds,2.31,1.73
+22-31,Los Angeles Dodgers,9,San Francisco Giants,6,Los Angeles Dodgers,1.82,2.24
+22-32,Houston Astros,7,New York Yankees,5,Houston Astros,1.79,2.22
+22-33,Oakland Athletics,5,Detroit Tigers,0,Oakland Athletics,1.63,2.48
+22-34,Oakland Athletics,2,Detroit Tigers,7,Detroit Tigers,2.36,1.71
+22-35,Houston Astros,3,New York Yankees,2,Houston Astros,1.78,2.2
+22-36,Miami Marlins,0,Texas Rangers,8,Texas Rangers,1.78,2.25
+22-38,San Diego Padres,1,Arizona Diamondbacks,3,Arizona Diamondbacks,1.66,2.44
+22-39,San Francisco Giants,9,Milwaukee Brewers,5,San Francisco Giants,1.69,2.43
+22-40,Colorado Rockies,3,Pittsburgh Pirates,8,Pittsburgh Pirates,1.62,2.66
+22-41,Texas Rangers,2,Seattle Mariners,6,Seattle Mariners,2.2,1.79
+22-42,Chicago Cubs,3,New York Mets,2,Chicago Cubs,2.3,1.73
+22-43,Houston Astros,3,Oakland Athletics,4,Oakland Athletics,1.38,3.5
+22-44,Minnesota Twins,0,Chicago White Sox,11,Chicago White Sox,2.2,1.86
+22-45,Miami Marlins,0,Philadelphia Phillies,4,Philadelphia Phillies,2.27,1.79
+22-46,Tampa Bay Rays,7,Baltimore Orioles,5,Tampa Bay Rays,1.7,2.36
+22-47,New York Yankees,13,Boston Red Sox,2,Boston Red Sox,1.59,2.67
+22-48,Washington Nationals,7,Atlanta Braves,3,Washington Nationals,3.44,1.38
+22-49,Toronto Blue Jays,4,Kansas City Royals,2,Toronto Blue Jays,1.36,3.9
+22-50,Los Angeles Angels,1,Los Angeles Dodgers,7,Los Angeles Dodgers,2.89,1.54
+21-Jan,Seattle Mariners,4,Texas Rangers,2,Seattle Mariners,2.12,1.84
+21-Feb,Oakland Athletics,4,Houston Astros,2,Oakland Athletics,2.93,1.49
+21-Mar,Colorado Rockies,6,Chicago White Sox,5,Colorado Rockies,2.17,1.84
+21-Apr,Los Angeles Dodgers,7,Washington Nationals,1,Los Angeles Dodgers,1.4,3.44
+21-May,Kansas City Royals,0,Los Angeles Angels,4,Los Angeles Angels,1.8,2.21
+21-Jun,Milwaukee Brewers,10,Minnesota Twins,4,Minnesota Twins,1.5,2.91
+21-Jul,Detroit Tigers,4,San Diego Padres,3,Detroit Tigers,2.28,1.75
+21-Aug,Philadelphia Phillies,7,Atlanta Braves,2,Philadelphia Phillies,2.31,1.73
+21-Sep,Los Angeles Dodgers,3,Washington Nationals,8,Washington Nationals,1.42,3.25
+21-Oct,Seattle Mariners,5,Texas Rangers,4,Seattle Mariners,1.69,2.56
+21-Nov,Arizona Diamondbacks,7,San Francisco Giants,3,Arizona Diamondbacks,2.79,1.83
+21-Dec,Oakland Athletics,5,Houston Astros,3,Oakland Athletics,2.7,1.64
+21-13,Colorado Rockies,1,Chicago White Sox,2,Chicago White Sox,2.2,1.96
+21-14,Kansas City Royals,0,Los Angeles Angels,6,Los Angeles Angels,1.84,2.2
+21-15,Milwaukee Brewers,7,Minnesota Twins,6,Milwaukee Brewers,1.91,2.67
+21-16,Boston Red Sox,3,Cleveland Guardians,8,Cleveland Guardians,1.78,2.33
+21-17,Detroit Tigers,4,San Diego Padres,6,San Diego Padres,2.66,1.74
+21-18,New York Mets,6,New York Yankees,3,New York Mets,2.04,1.97
+21-19,Toronto Blue Jays,10,St.Louis Cardinals,3,St.Louis Cardinals,1.47,3.1
+21-20,Baltimore Orioles,5,Tampa Bay Rays,3,Baltimore Orioles,2.78,1.8
+21-21,Philadelphia Phillies,3,Atlanta Braves,6,Atlanta Braves,2.25,1.84
+21-22,Cincinnati Reds,1,Miami Marlins,2,Miami Marlins,2.02,2.4
+21-23,Chicago Cubs,4,Pittsburgh Pirates,2,Chicago Cubs,1.57,2.7
+21-24,Los Angeles Dodgers,1,Washington Nationals,4,Washington Nationals,1.38,3.76
+21-25,Seattle Mariners,4,Texas Rangers,3,Seattle Mariners,1.68,2.43
+21-26,Arizona Diamondbacks,7,San Francisco Giants,0,Arizona Diamondbacks,1.95,2.03
+21-27,Oakland Athletics,7,Houston Astros,5,Oakland Athletics,3.1,1.5
+21-28,Kansas City Royals,7,Los Angeles Angels,0,Kansas City Royals,1.95,2
+21-29,Milwaukee Brewers,0,Colorado Rockies,2,Colorado Rockies,1.56,2.72
+21-30,Chicago Cubs,3,Pittsburgh Pirates,2,Chicago Cubs,1.74,2.5
+21-31,Boston Red Sox,3,Cleveland Guardians,1,Boston Red Sox,2.03,1.96
+21-32,Detroit Tigers,12,San Diego Padres,4,San Diego Padres,2.5,1.63
+21-33,Baltimore Orioles,5,Tampa Bay Rays,1,Baltimore Orioles,2.7,1.99
+21-34,Philadelphia Phillies,6,Atlanta Braves,4,Philadelphia Phillies,2.56,1.83
+21-35,Cincinnati Reds,11,Miami Marlins,2,Miami Marlins,1.95,2.19
+21-36,New York Mets,8,San Diego Padres,5,New York Mets,1.79,2.32
+21-37,Arizona Diamondbacks,3,Washington Nationals,4,Washington Nationals,1.87,2.14
+21-38,Los Angeles Dodgers,7,San Francisco Giants,4,Los Angeles Dodgers,1.47,3.02
+21-39,Seattle Mariners,5,Houston Astros,8,Houston Astros,2.07,1.93
+21-40,Oakland Athletics,8,Texas Rangers,11,Oakland Athletics,2.32,1.72
+21-41,Chicago White Sox,6,Cleveland Guardians,3,Chicago White Sox,1.71,2.39
+21-42,Kansas City Royals,4,Tampa Bay Rays,2,Kansas City Royals,2.36,1.72
+21-43,Milwaukee Brewers,10,Colorado Rockies,9,Colorado Rockies,1.55,2.76
+21-44,Cincinnati Reds,6,St.Louis Cardinals,3,Cincinnati Reds,2.5,1.65
+21-45,Detroit Tigers,1,Minnesota Twins,9,Minnesota Twins,2.52,1.64
+21-46,Atlanta Braves,1,Los Angeles Angels,9,Los Angeles Angels,1.48,3.02
+21-47,Baltimore Orioles,0,New York Yankees,6,New York Yankees,2.61,1.61
+21-48,Boston Red Sox,4,Toronto Blue Jays,8,Toronto Blue Jays,2.41,1.68
+21-49,Pittsburgh Pirates,5,Miami Marlins,6,Miami Marlins,2.57,1.64
+21-50,Philadelphia Phillies,3,Chicago Cubs,4,Chicago Cubs,1.88,2.2
+20-Jan,Atlanta Braves,1,Arizona Diamondbacks,0,Atlanta Braves,1.47,3.03
+20-Feb,Boston Red Sox,7,Milwaukee Brewers,2,Boston Red Sox,2.38,1.74
+20-Mar,New York Yankees,6,Kansas City Royals,8,Kansas City Royals,1.39,3.39
+20-Apr,Toronto Blue Jays,4,Detroit Tigers,1,Toronto Blue Jays,1.38,3.45
+20-May,Los Angeles Angels,9,Texas Rangers,7,Los Angeles Angels,1.83,2.17
+20-Jun,San Francisco Giants,5,Chicago Cubs,4,San Francisco Giants,1.77,2.67
+20-Jul,Colorado Rockies,5,Los Angeles Dodgers,3,Colorado Rockies,3,1.57
+20-Aug,Atlanta Braves,6,Arizona Diamondbacks,2,Atlanta Braves,1.5,2.98
+20-Sep,Chicago White Sox,3,Oakland Athletics,2,Chicago White Sox,1.61,3.3
+20-Oct,Pittsburgh Pirates,1,Philadelphia Phillies,2,Philadelphia Phillies,2.6,1.65
+20-Nov,San Diego Padres,4,Minnesota Twins,7,Minnesota Twins,1.81,2.25
+20-Dec,Washington Nationals,7,St.Louis Cardinals,6,Washington Nationals,2.25,1.79
+20-13,Houston Astros,4,Seattle Mariners,5,Seattle Mariners,1.71,2.76
+20-14,Cincinnati Reds,8,Baltimore Orioles,2,Cincinnati Reds,1.92,2.04
+20-15,Miami Marlins,0,New York Mets,4,New York Mets,2.71,1.66
+20-16,Boston Red Sox,4,Milwaukee Brewers,9,Milwaukee Brewers,2.06,1.95
+20-17,Toronto Blue Jays,5,Detroit Tigers,3,Toronto Blue Jays,1.39,3.54
+20-18,New York Yankees,8,Kansas City Royals,2,New York Yankees,1.37,3.59
+20-19,Tampa Bay Rays,6,Cleveland Guardians,4,Tampa Bay Rays,1.71,2.32
+20-20,San Francisco Giants,2,Chicago Cubs,4,Chicago Cubs,1.78,2.24
+20-21,San Diego Padres,10,Minnesota Twins,1,San Diego Padres,1.8,2.25
+20-22,Los Angeles Angels,2,Texas Rangers,7,Texas Rangers,1.97,2
+20-23,Colorado Rockies,4,Los Angeles Dodgers,5,Los Angeles Dodgers,3.07,1.47
+20-24,Chicago White Sox,3,Oakland Athletics,7,Oakland Athletics,1.55,2.87
+20-25,Houston Astros,11,Seattle Mariners,1,Houston Astros,1.56,2.76
+20-26,Atlanta Braves,5,Arizona Diamondbacks,2,Atlanta Braves,1.49,2.95
+20-27,Boston Red Sox,1,Milwaukee Brewers,4,Milwaukee Brewers,2.71,2
+20-28,Tampa Bay Rays,1,Cleveland Guardians,4,Cleveland Guardians,1.82,2.15
+20-29,Toronto Blue Jays,2,Detroit Tigers,4,Detroit Tigers,1.36,4.72
+20-30,New York Yankees,11,Kansas City Royals,5,Kansas City Royals,1.37,4.6
+20-31,Pittsburgh Pirates,2,Philadelphia Phillies,4,Philadelphia Phillies,2.45,1.86
+20-32,Washington Nationals,2,St.Louis Cardinals,6,St.Louis Cardinals,2.48,1.66
+20-33,Cincinnati Reds,2,Baltimore Orioles,6,Baltimore Orioles,2.24,1.95
+20-34,Miami Marlins,4,New York Mets,6,New York Mets,2.08,1.87
+20-35,San Francisco Giants,4,Chicago Cubs,2,San Francisco Giants,1.74,2.32
+20-36,Los Angeles Angels,0,Texas Rangers,2,Texas Rangers,1.83,2.98
+20-37,Colorado Rockies,0,Los Angeles Dodgers,13,Los Angeles Dodgers,2.82,1.53
+20-38,Houston Astros,4,Seattle Mariners,2,Houston Astros,1.75,2.65
+20-39,Boston Red Sox,4,Cleveland Guardians,2,Boston Red Sox,2.28,1.88
+20-40,Toronto Blue Jays,5,Detroit Tigers,3,Toronto Blue Jays,1.47,3.15
+20-41,New York Yankees,1,Kansas City Royals,0,New York Yankees,1.44,3.75
+20-42,Pittsburgh Pirates,7,Philadelphia Phillies,8,Philadelphia Phillies,2.76,1.76
+20-43,Baltimore Orioles,3,Tampa Bay Rays,0,Baltimore Orioles,1.83,2.18
+20-44,Cincinnati Reds,6,Miami Marlins,7,Miami Marlins,1.79,2.24
+20-45,Boston Red Sox,6,Cleveland Guardians,7,Cleveland Guardians,1.95,2.2
+20-46,New York Mets,3,New York Yankees,2,New York Mets,1.55,2.8
+20-47,Toronto Blue Jays,1,St.Louis Cardinals,6,St.Louis Cardinals,1.41,3.32
+20-48,Baltimore Orioles,4,Tampa Bay Rays,6,Tampa Bay Rays,1.92,2.06
+20-49,Cincinnati Reds,5,Miami Marlins,3,Cincinnati Reds,1.7,2.4
+20-50,Arizona Diamondbacks,5,San Francisco Giants,3,Arizona Diamondbacks,2.02,1.95
+19-Jan,San Diego Padres,9,Colorado Rockies,1,San Diego Padres,1.37,3.58
+19-Feb,Los Angeles Angels,1,Oakland Athletics,3,Oakland Athletics,1.83,3.15
+19-Mar,Pittsburgh Pirates,8,Milwaukee Brewers,7,Pittsburgh Pirates,3,1.5
+19-Apr,Miami Marlins,3,Cincinnati Reds,0,Miami Marlins,1.48,3
+19-May,Washington Nationals,5,New York Mets,9,New York Mets,3.6,1.36
+19-Jun,Chicago White Sox,4,Kansas City Royals,1,Chicago White Sox,1.77,2.36
+19-Jul,Houston Astros,6,Boston Red Sox,1,Houston Astros,1.55,2.85
+19-Aug,Texas Rangers,3,Baltimore Orioles,6,Baltimore Orioles,1.66,2.44
+19-Sep,Cleveland Guardians,7,Arizona Diamondbacks,4,Cleveland Guardians,1.48,3.05
+19-Oct,Minnesota Twins,4,Detroit Tigers,1,Minnesota Twins,1.49,3
+19-Nov,New York Yankees,3,Seattle Mariners,7,Seattle Mariners,1.6,2.62
+19-Dec,Atlanta Braves,1,Philadelphia Phillies,3,Philadelphia Phillies,1.79,2.24
+19-13,Tampa Bay Rays,3,Toronto Blue Jays,2,Tampa Bay Rays,2.18,1.84
+19-14,San Diego Padres,3,Colorado Rockies,2,San Diego Padres,1.55,2.68
+19-15,San Francisco Giants,5,Los Angeles Dodgers,9,Los Angeles Dodgers,2.45,1.66
+19-16,Los Angeles Angels,3,Oakland Athletics,1,Los Angeles Angels,1.87,2.11
+19-17,Chicago White Sox,9,Kansas City Royals,2,Chicago White Sox,1.6,2.55
+19-18,Houston Astros,1,Boston Red Sox,2,Boston Red Sox,1.5,2.98
+19-19,Texas Rangers,2,Baltimore Orioles,8,Baltimore Orioles,1.83,2.4
+19-20,St.Louis Cardinals,6,Chicago Cubs,0,St.Louis Cardinals,1.63,2.65
+19-21,Minnesota Twins,3,Detroit Tigers,5,Detroit Tigers,1.58,3.02
+19-22,Atlanta Braves,13,Philadelphia Phillies,1,Atlanta Braves,1.71,3.17
+19-23,Cleveland Guardians,3,Arizona Diamondbacks,6,Arizona Diamondbacks,1.76,2.26
+19-24,Tampa Bay Rays,1,Toronto Blue Jays,3,Toronto Blue Jays,2.2,1.8
+19-25,New York Yankees,6,Seattle Mariners,8,Seattle Mariners,1.61,2.55
+19-26,Pittsburgh Pirates,5,Milwaukee Brewers,3,Pittsburgh Pirates,3.58,1.39
+19-27,Washington Nationals,5,New York Mets,1,Washington Nationals,4.07,1.43
+19-28,Miami Marlins,1,Cincinnati Reds,2,Cincinnati Reds,1.72,2.75
+19-29,San Diego Padres,13,Colorado Rockies,5,Colorado Rockies,1.44,3.15
+19-30,San Francisco Giants,2,Los Angeles Dodgers,8,Los Angeles Dodgers,2.32,1.75
+19-31,San Diego Padres,4,Colorado Rockies,1,San Diego Padres,1.51,2.84
+19-32,Chicago White Sox,1,Kansas City Royals,2,Kansas City Royals,1.63,2.55
+19-33,Houston Astros,2,Boston Red Sox,3,Boston Red Sox,1.6,2.58
+19-34,Texas Rangers,2,Baltimore Orioles,7,Baltimore Orioles,1.8,2.59
+19-35,Minnesota Twins,5,Detroit Tigers,3,Minnesota Twins,1.76,2.67
+19-36,Cleveland Guardians,6,Arizona Diamondbacks,5,Cleveland Guardians,1.74,2.47
+19-37,New York Yankees,7,Seattle Mariners,2,New York Yankees,1.58,2.64
+19-38,Washington Nationals,3,New York Mets,7,New York Mets,3.4,1.41
+19-39,Miami Marlins,1,Cincinnati Reds,3,Cincinnati Reds,1.88,2.11
+19-40,San Francisco Giants,4,Chicago Cubs,0,San Francisco Giants,1.59,2.6
+19-41,San Diego Padres,3,Minnesota Twins,2,San Diego Padres,1.73,2.33
+19-42,Los Angeles Angels,2,Texas Rangers,5,Texas Rangers,1.81,2.21
+19-43,Colorado Rockies,3,Los Angeles Dodgers,7,Los Angeles Dodgers,0,0
+19-44,Chicago White Sox,4,Oakland Athletics,1,Chicago White Sox,1.4,3.51
+19-45,Houston Astros,3,Seattle Mariners,2,Houston Astros,1.75,2.32
+19-46,Cincinnati Reds,3,Baltimore Orioles,2,Cincinnati Reds,1.82,2.15
+19-47,Miami Marlins,3,New York Mets,9,New York Mets,2.23,1.78
+19-48,Tampa Bay Rays,3,Cleveland Guardians,5,Cleveland Guardians,1.45,3.45
+19-49,Pittsburgh Pirates,2,Philadelphia Phillies,8,Philadelphia Phillies,2.6,1.63
+19-50,Washington Nationals,0,St.Louis Cardinals,5,St.Louis Cardinals,2.1,1.88
+18-Jan,Minnesota Twins,2,Toronto Blue Jays,3,Toronto Blue Jays,2.65,1.59
+18-Feb,Detroit Tigers,0,Tampa Bay Rays,7,Tampa Bay Rays,2.65,1.58
+18-Mar,Baltimore Orioles,1,Pittsburgh Pirates,8,Pittsburgh Pirates,1.59,2.74
+18-Apr,Philadelphia Phillies,13,Washington Nationals,1,Philadelphia Phillies,1.33,3.92
+18-May,Cleveland Guardians,1,Houston Astros,0,Cleveland Guardians,2.28,1.79
+18-Jun,Seattle Mariners,1,Los Angeles Angels,7,Los Angeles Angels,1.72,2.35
+18-Jul,Los Angeles Dodgers,8,San Diego Padres,3,Los Angeles Dodgers,1.74,2.42
+18-Aug,Arizona Diamondbacks,2,Colorado Rockies,3,Colorado Rockies,1.62,2.65
+18-Sep,Milwaukee Brewers,5,Cincinnati Reds,7,Cincinnati Reds,1.58,3.2
+18-Oct,St.Louis Cardinals,1,New York Yankees,0,St.Louis Cardinals,2.05,2.07
+18-Nov,Kansas City Royals,5,Boston Red Sox,4,Kansas City Royals,2.35,1.74
+18-Dec,Minnesota Twins,7,Toronto Blue Jays,3,Minnesota Twins,2.35,1.93
+18-13,New York Mets,6,Atlanta Braves,2,New York Mets,1.79,2.17
+18-14,Oakland Athletics,3,San Francisco Giants,7,San Francisco Giants,3.19,1.48
+18-15,Texas Rangers,8,Chicago White Sox,0,Texas Rangers,2.25,1.87
+18-16,Cleveland Guardians,4,Houston Astros,1,Cleveland Guardians,2.42,1.68
+18-17,Detroit Tigers,9,Tampa Bay Rays,1,Detroit Tigers,3.23,1.42
+18-18,Philadelphia Phillies,11,Washington Nationals,5,Washington Nationals,1.38,3.54
+18-19,Baltimore Orioles,6,Pittsburgh Pirates,3,Baltimore Orioles,1.65,2.52
+18-20,Seattle Mariners,2,Los Angeles Angels,1,Seattle Mariners,1.52,2.93
+18-21,Chicago Cubs,4,Miami Marlins,0,Chicago Cubs,2,1.96
+18-22,New York Mets,8,Atlanta Braves,5,New York Mets,1.8,2.28
+18-23,Los Angeles Dodgers,8,San Diego Padres,1,Los Angeles Dodgers,1.66,2.52
+18-24,Seattle Mariners,3,Los Angeles Angels,4,Los Angeles Angels,1.54,2.74
+18-25,Arizona Diamondbacks,6,Colorado Rockies,5,Arizona Diamondbacks,1.8,2.5
+18-26,St.Louis Cardinals,4,New York Yankees,3,St.Louis Cardinals,2.41,1.83
+18-27,Kansas City Royals,4,Boston Red Sox,7,Boston Red Sox,2.15,1.91
+18-28,Milwaukee Brewers,5,Cincinnati Reds,1,Milwaukee Brewers,1.52,3.17
+18-29,Minnesota Twins,6,Toronto Blue Jays,5,Minnesota Twins,2.13,1.88
+18-30,Texas Rangers,1,Chicago White Sox,2,Chicago White Sox,2.63,1.8
+18-31,Cleveland Guardians,3,Houston Astros,9,Houston Astros,2.88,1.64
+18-32,Detroit Tigers,3,Tampa Bay Rays,5,Tampa Bay Rays,3.05,1.54
+18-33,New York Mets,6,Atlanta Braves,9,Atlanta Braves,1.79,2.25
+18-34,Baltimore Orioles,1,Pittsburgh Pirates,0,Baltimore Orioles,1.68,2.42
+18-35,Philadelphia Phillies,7,Washington Nationals,2,Philadelphia Phillies,1.55,3.05
+18-36,Chicago Cubs,2,Miami Marlins,1,Chicago Cubs,1.72,2.31
+18-37,Kansas City Royals,7,Boston Red Sox,3,Kansas City Royals,2.29,1.77
+18-38,Texas Rangers,3,Chicago White Sox,2,Texas Rangers,2.45,1.7
+18-39,St.Louis Cardinals,7,Chicago Cubs,2,St.Louis Cardinals,1.68,2.69
+18-40,Minnesota Twins,3,Toronto Blue Jays,9,Toronto Blue Jays,2.17,1.83
+18-41,Cleveland Guardians,0,Houston Astros,6,Houston Astros,2.68,1.58
+18-42,Detroit Tigers,2,Tampa Bay Rays,6,Tampa Bay Rays,2.62,1.61
+18-43,New York Mets,6,Atlanta Braves,4,New York Mets,1.86,2.14
+18-44,Philadelphia Phillies,5,Washington Nationals,4,Philadelphia Phillies,1.49,3.1
+18-45,San Diego Padres,3,Colorado Rockies,7,Colorado Rockies,1.37,3.78
+18-46,Los Angeles Angels,7,Oakland Athletics,8,Oakland Athletics,1.86,2.11
+18-47,San Francisco Giants,3,Los Angeles Dodgers,5,Los Angeles Dodgers,2.85,1.51
+18-48,St.Louis Cardinals,4,Chicago Cubs,3,St.Louis Cardinals,1.66,2.51
+18-49,Pittsburgh Pirates,5,Milwaukee Brewers,4,Pittsburgh Pirates,3.33,1.41
+18-50,San Francisco Giants,0,Los Angeles Dodgers,3,Los Angeles Dodgers,2.75,1.65
+17-Jan,Kansas City Royals,5,Chicago White Sox,3,Kansas City Royals,2.61,1.59
+17-Feb,Detroit Tigers,3,Cleveland Guardians,4,Cleveland Guardians,2.32,1.71
+17-Mar,Philadelphia Phillies,0,Miami Marlins,3,Miami Marlins,1.65,2.56
+17-Apr,Los Angeles Dodgers,8,Minnesota Twins,5,Los Angeles Dodgers,1.52,2.82
+17-May,Arizona Diamondbacks,4,Pittsburgh Pirates,6,Pittsburgh Pirates,1.71,2.65
+17-Jun,Colorado Rockies,5,St.Louis Cardinals,9,St.Louis Cardinals,2.43,1.8
+17-Jul,Houston Astros,4,Texas Rangers,8,Texas Rangers,1.33,3.98
+17-Aug,Kansas City Royals,8,Chicago White Sox,3,Kansas City Royals,2.55,1.74
+17-Sep,Boston Red Sox,4,Atlanta Braves,8,Atlanta Braves,2.37,1.69
+17-Oct,Detroit Tigers,2,Cleveland Guardians,3,Cleveland Guardians,2.54,1.62
+17-Nov,Philadelphia Phillies,4,Miami Marlins,3,Philadelphia Phillies,1.85,2.5
+17-Dec,San Diego Padres,13,San Francisco Giants,7,San Francisco Giants,1.63,2.54
+17-13,Seattle Mariners,4,New York Yankees,3,Seattle Mariners,2.15,1.87
+17-14,Oakland Athletics,4,Los Angeles Angels,5,Los Angeles Angels,1.78,2.24
+17-15,Chicago Cubs,4,Washington Nationals,2,Chicago Cubs,1.63,2.52
+17-16,Milwaukee Brewers,4,Tampa Bay Rays,3,Milwaukee Brewers,1.73,2.44
+17-17,New York Mets,10,Cincinnati Reds,2,Cincinnati Reds,1.34,4.2
+17-18,Los Angeles Dodgers,10,Minnesota Twins,3,Minnesota Twins,1.44,3.23
+17-19,Seattle Mariners,1,New York Yankees,0,Seattle Mariners,2.25,1.77
+17-20,Arizona Diamondbacks,6,Pittsburgh Pirates,4,Arizona Diamondbacks,1.65,2.54
+17-21,Oakland Athletics,1,Los Angeles Angels,5,Los Angeles Angels,2.59,1.59
+17-22,San Diego Padres,7,San Francisco Giants,4,San Diego Padres,1.6,2.67
+17-23,Colorado Rockies,16,St.Louis Cardinals,5,St.Louis Cardinals,2.55,1.64
+17-24,Houston Astros,7,Texas Rangers,5,Houston Astros,1.57,3.6
+17-25,Milwaukee Brewers,5,Tampa Bay Rays,3,Milwaukee Brewers,1.63,2.54
+17-26,Chicago Cubs,5,Washington Nationals,6,Washington Nationals,1.55,3
+17-27,Boston Red Sox,7,Atlanta Braves,9,Atlanta Braves,2.54,1.71
+17-28,Detroit Tigers,2,Cleveland Guardians,5,Cleveland Guardians,2.77,1.62
+17-29,Kansas City Royals,2,Chicago White Sox,3,Chicago White Sox,2.22,1.77
+17-30,New York Mets,6,Cincinnati Reds,2,New York Mets,1.33,3.98
+17-31,Baltimore Orioles,6,Toronto Blue Jays,5,Baltimore Orioles,2.58,1.66
+17-32,Philadelphia Phillies,4,Miami Marlins,1,Philadelphia Phillies,1.74,3.05
+17-33,Kansas City Royals,4,Chicago White Sox,2,Kansas City Royals,2.34,1.85
+17-34,Seattle Mariners,4,New York Yankees,9,New York Yankees,2.1,1.93
+17-35,Arizona Diamondbacks,3,Pittsburgh Pirates,0,Arizona Diamondbacks,1.62,3.12
+17-36,Oakland Athletics,0,Los Angeles Angels,1,Los Angeles Angels,2.55,2.23
+17-37,San Diego Padres,0,San Francisco Giants,1,San Francisco Giants,1.57,2.83
+17-38,Chicago Cubs,6,Washington Nationals,3,Chicago Cubs,1.54,2.88
+17-39,New York Mets,5,Cincinnati Reds,1,New York Mets,1.32,3.96
+17-40,Baltimore Orioles,7,Toronto Blue Jays,4,Baltimore Orioles,2.55,1.8
+17-41,Los Angeles Dodgers,4,San Diego Padres,0,Los Angeles Dodgers,1.77,2.34
+17-42,Arizona Diamondbacks,6,Colorado Rockies,4,Arizona Diamondbacks,1.66,2.45
+17-43,New York Mets,5,Atlanta Braves,2,New York Mets,1.71,2.44
+17-44,Seattle Mariners,6,Los Angeles Angels,3,Seattle Mariners,1.68,2.39
+17-45,Oakland Athletics,4,San Francisco Giants,6,San Francisco Giants,2.79,1.56
+17-46,Texas Rangers,2,Chicago White Sox,8,Chicago White Sox,2.25,1.77
+17-47,Chicago Cubs,0,Miami Marlins,3,Miami Marlins,1.79,2.21
+17-48,St.Louis Cardinals,12,New York Yankees,9,New York Yankees,2.18,1.79
+17-49,Kansas City Royals,13,Boston Red Sox,5,Boston Red Sox,2.44,1.71
+17-50,Milwaukee Brewers,2,Cincinnati Reds,4,Cincinnati Reds,1.37,3.88
+16-Jan,Boston Red Sox,3,New York Yankees,0,Boston Red Sox,2.2,1.83
+16-Feb,Los Angeles Angels,4,Minnesota Twins,2,Los Angeles Angels,2.22,1.77
+16-Mar,San Francisco Giants,8,Pittsburgh Pirates,7,San Francisco Giants,1.42,3.54
+16-Apr,Colorado Rockies,4,Arizona Diamondbacks,7,Arizona Diamondbacks,1.82,2.17
+16-May,Texas Rangers,5,Seattle Mariners,3,Texas Rangers,2.11,1.95
+16-Jun,St.Louis Cardinals,6,Milwaukee Brewers,3,St.Louis Cardinals,1.7,2.38
+16-Jul,Chicago White Sox,5,Detroit Tigers,3,Chicago White Sox,1.53,2.88
+16-Aug,Houston Astros,6,Oakland Athletics,3,Houston Astros,1.38,3.45
+16-Sep,Kansas City Royals,4,Los Angeles Dodgers,0,Kansas City Royals,3.1,1.46
+16-Oct,Cincinnati Reds,8,Chicago Cubs,5,Cincinnati Reds,2.34,1.72
+16-Nov,Miami Marlins,1,Atlanta Braves,3,Atlanta Braves,2.13,1.89
+16-Dec,New York Mets,6,Philadelphia Phillies,0,New York Mets,1.78,2.24
+16-13,Tampa Bay Rays,4,Baltimore Orioles,1,Tampa Bay Rays,1.59,2.59
+16-14,Toronto Blue Jays,2,Cleveland Guardians,7,Cleveland Guardians,1.69,2.43
+16-15,Washington Nationals,0,San Diego Padres,6,San Diego Padres,3.48,1.37
+16-16,Los Angeles Angels,5,Minnesota Twins,3,Los Angeles Angels,2.1,1.94
+16-17,San Francisco Giants,2,Pittsburgh Pirates,0,San Francisco Giants,1.41,3.34
+16-18,Colorado Rockies,0,Arizona Diamondbacks,6,Arizona Diamondbacks,2.31,2.1
+16-19,Boston Red Sox,2,New York Yankees,3,New York Yankees,2.61,1.71
+16-20,St.Louis Cardinals,2,Milwaukee Brewers,3,Milwaukee Brewers,2.33,2.2
+16-21,Texas Rangers,7,Seattle Mariners,4,Texas Rangers,2,2.09
+16-22,Chicago White Sox,6,Detroit Tigers,4,Chicago White Sox,1.58,2.85
+16-23,Houston Astros,8,Oakland Athletics,0,Houston Astros,1.37,3.7
+16-24,Kansas City Royals,3,Los Angeles Dodgers,13,Kansas City Royals,3.5,1.42
+16-25,Miami Marlins,2,Atlanta Braves,6,Atlanta Braves,2.6,1.58
+16-26,New York Mets,1,Philadelphia Phillies,0,New York Mets,1.74,3.05
+16-27,Washington Nationals,4,San Diego Padres,3,Washington Nationals,3.74,1.38
+16-28,Cincinnati Reds,2,Chicago Cubs,7,Chicago Cubs,2.2,2.09
+16-29,Tampa Bay Rays,8,Baltimore Orioles,2,Tampa Bay Rays,1.6,2.78
+16-30,Toronto Blue Jays,2,Cleveland Guardians,1,Toronto Blue Jays,1.91,2.09
+16-31,Miami Marlins,2,Atlanta Braves,5,Atlanta Braves,2.25,1.77
+16-32,San Francisco Giants,5,Pittsburgh Pirates,3,San Francisco Giants,1.36,3.78
+16-33,Los Angeles Angels,0,Minnesota Twins,4,Minnesota Twins,2.21,1.86
+16-34,Colorado Rockies,5,Arizona Diamondbacks,3,Colorado Rockies,2.25,2.12
+16-35,St.Louis Cardinals,3,Milwaukee Brewers,1,St.Louis Cardinals,2.1,2.52
+16-36,Houston Astros,7,Oakland Athletics,5,Houston Astros,1.31,4.32
+16-37,Kansas City Royals,3,Los Angeles Dodgers,8,Los Angeles Dodgers,3.26,1.42
+16-38,Texas Rangers,2,Seattle Mariners,6,Seattle Mariners,2.36,1.9
+16-39,Boston Red Sox,3,New York Yankees,2,Boston Red Sox,2.25,1.93
+16-40,Chicago White Sox,2,Detroit Tigers,0,Chicago White Sox,1.5,3
+16-41,New York Mets,1,Philadelphia Phillies,2,Philadelphia Phillies,1.54,3.26
+16-42,Tampa Bay Rays,3,Baltimore Orioles,10,Tampa Bay Rays,1.77,2.32
+16-43,Toronto Blue Jays,0,Cleveland Guardians,8,Cleveland Guardians,1.65,2.49
+16-44,Washington Nationals,5,San Diego Padres,10,Washington Nationals,3.57,1.43
+16-45,Miami Marlins,3,Atlanta Braves,4,Atlanta Braves,2.35,1.74
+16-46,Cincinnati Reds,2,Chicago Cubs,4,Chicago Cubs,1.9,2.05
+16-47,Boston Red Sox,4,Baltimore Orioles,3,Boston Red Sox,1.86,2.14
+16-48,Arizona Diamondbacks,9,Pittsburgh Pirates,3,Arizona Diamondbacks,1.6,2.59
+16-49,Colorado Rockies,8,St.Louis Cardinals,6,Colorado Rockies,2.03,1.93
+16-50,Houston Astros,7,Texas Rangers,3,Houston Astros,1.39,3.54
+15-Jan,San Francisco Giants,0,Arizona Diamondbacks,5,Arizona Diamondbacks,1.69,2.4
+15-Feb,Baltimore Orioles,2,Chicago Cubs,3,Chicago Cubs,1.64,2.49
+15-Mar,Chicago White Sox,5,Houston Astros,21,Chicago White Sox,2.23,1.79
+15-Apr,Milwaukee Brewers,5,Los Angeles Dodgers,3,Milwaukee Brewers,1.88,2.11
+15-May,Texas Rangers,10,Oakland Athletics,3,Oakland Athletics,1.53,2.81
+15-Jun,St.Louis Cardinals,13,Colorado Rockies,0,St.Louis Cardinals,1.46,3.2
+15-Jul,San Francisco Giants,2,Arizona Diamondbacks,3,Arizona Diamondbacks,1.68,3.07
+15-Aug,Chicago White Sox,2,Houston Astros,3,Houston Astros,2.36,1.8
+15-Sep,Milwaukee Brewers,1,Los Angeles Dodgers,2,Los Angeles Dodgers,2.46,1.86
+15-Oct,Texas Rangers,2,Oakland Athletics,7,Oakland Athletics,1.64,2.65
+15-Nov,St.Louis Cardinals,5,Colorado Rockies,1,St.Louis Cardinals,1.53,2.88
+15-Dec,Atlanta Braves,7,New York Mets,9,New York Mets,2.39,1.69
+15-13,Cleveland Guardians,8,Detroit Tigers,4,Cleveland Guardians,1.47,3.1
+15-14,New York Yankees,8,Tampa Bay Rays,7,New York Yankees,1.79,2.32
+15-15,Pittsburgh Pirates,3,Boston Red Sox,8,Boston Red Sox,2.43,1.69
+15-16,Miami Marlins,3,San Diego Padres,10,Miami Marlins,2.45,1.66
+15-17,Los Angeles Angels,7,Seattle Mariners,11,Los Angeles Angels,2.6,1.59
+15-18,Toronto Blue Jays,6,Baltimore Orioles,1,Toronto Blue Jays,1.62,2.65
+15-19,Minnesota Twins,4,Kansas City Royals,0,Minnesota Twins,1.52,2.97
+15-20,Washington Nationals,2,Chicago Cubs,3,Chicago Cubs,2.45,1.69
+15-21,Cincinnati Reds,1,Philadelphia Phillies,0,Cincinnati Reds,2.49,1.66
+15-22,San Francisco Giants,2,Arizona Diamondbacks,1,San Francisco Giants,1.82,2.8
+15-23,Los Angeles Angels,2,Seattle Mariners,8,Seattle Mariners,2.57,1.6
+15-24,Chicago White Sox,4,Houston Astros,3,Chicago White Sox,2.25,1.79
+15-25,Milwaukee Brewers,5,Los Angeles Dodgers,4,Milwaukee Brewers,2.45,2.09
+15-26,Texas Rangers,1,Oakland Athletics,5,Oakland Athletics,1.78,2.45
+15-27,St.Louis Cardinals,5,Colorado Rockies,4,St.Louis Cardinals,1.5,3.1
+15-28,Minnesota Twins,9,Kansas City Royals,0,Minnesota Twins,1.55,2.81
+15-29,Atlanta Braves,5,New York Mets,0,Atlanta Braves,2.2,2.46
+15-30,Cleveland Guardians,3,Detroit Tigers,4,Detroit Tigers,1.48,3
+15-31,Toronto Blue Jays,2,Baltimore Orioles,4,Baltimore Orioles,1.58,2.92
+15-32,New York Yankees,1,Tampa Bay Rays,3,Tampa Bay Rays,1.66,2.53
+15-33,Pittsburgh Pirates,3,Boston Red Sox,5,Boston Red Sox,2.25,1.78
+15-34,Washington Nationals,5,Chicago Cubs,7,Chicago Cubs,2.43,1.68
+15-35,Cincinnati Reds,4,Philadelphia Phillies,11,Cincinnati Reds,2.52,1.64
+15-36,Miami Marlins,4,San Diego Padres,3,Miami Marlins,2.33,1.72
+15-37,San Francisco Giants,6,Arizona Diamondbacks,1,San Francisco Giants,1.86,2.66
+15-38,Los Angeles Angels,2,Seattle Mariners,6,Seattle Mariners,2.4,2.01
+15-39,Chicago White Sox,4,Houston Astros,2,Chicago White Sox,2.15,1.87
+15-40,Milwaukee Brewers,0,Los Angeles Dodgers,4,Los Angeles Dodgers,2.5,2.05
+14-Jan,Baltimore Orioles,5,Boston Red Sox,3,Baltimore Orioles,2.23,1.96
+14-Feb,Arizona Diamondbacks,4,St.Louis Cardinals,6,St.Louis Cardinals,2.24,1.86
+14-Mar,Los Angeles Dodgers,10,Miami Marlins,3,Miami Marlins,1.64,2.5
+14-Apr,San Diego Padres,2,Washington Nationals,1,San Diego Padres,1.37,3.52
+14-May,Oakland Athletics,5,Seattle Mariners,3,Oakland Athletics,2.93,1.49
+14-Jun,Colorado Rockies,8,San Francisco Giants,9,San Francisco Giants,2.23,1.82
+14-Jul,Chicago Cubs,2,Milwaukee Brewers,5,Milwaukee Brewers,2.36,1.7
+14-Aug,Minnesota Twins,0,Texas Rangers,7,Texas Rangers,1.59,2.75
+14-Sep,Detroit Tigers,4,Los Angeles Angels,0,Detroit Tigers,2.65,1.57
+14-Oct,Tampa Bay Rays,3,Kansas City Royals,2,Tampa Bay Rays,1.59,2.65
+14-Nov,Atlanta Braves,4,Houston Astros,5,Houston Astros,1.69,2.47
+14-Dec,New York Yankees,4,Toronto Blue Jays,2,New York Yankees,1.9,2.11
+14-13,Philadelphia Phillies,9,New York Mets,10,Philadelphia Phillies,1.86,2.16
+14-14,Pittsburgh Pirates,5,Cincinnati Reds,9,Cincinnati Reds,1.89,2.06
+14-15,Los Angeles Dodgers,7,Miami Marlins,0,Los Angeles Dodgers,1.55,4
+14-16,San Diego Padres,2,Washington Nationals,1,San Diego Padres,1.35,3.98
+14-17,Arizona Diamondbacks,7,St.Louis Cardinals,16,Arizona Diamondbacks,2.39,1.71
+14-18,Colorado Rockies,4,San Francisco Giants,3,Colorado Rockies,2.66,1.74
+14-19,Atlanta Braves,5,Houston Astros,4,Atlanta Braves,1.68,2.49
+14-20,Oakland Athletics,4,Seattle Mariners,3,Oakland Athletics,2.75,1.57
+14-21,Philadelphia Phillies,4,New York Mets,1,Philadelphia Phillies,2.16,1.8
+14-22,Minnesota Twins,3,Texas Rangers,4,Texas Rangers,1.61,2.6
+14-23,Pittsburgh Pirates,1,Cincinnati Reds,10,Cincinnati Reds,1.83,2.32
+14-24,Cleveland Guardians,0,Chicago White Sox,2,Chicago White Sox,2.1,2.62
+14-25,Tampa Bay Rays,5,Kansas City Royals,2,Tampa Bay Rays,1.52,2.91
+14-26,Baltimore Orioles,3,Boston Red Sox,4,Boston Red Sox,2.24,1.83
+14-27,Chicago Cubs,6,Milwaukee Brewers,5,Chicago Cubs,2.15,1.86
+14-28,Detroit Tigers,4,Los Angeles Angels,3,Detroit Tigers,2.5,1.66
+14-29,New York Yankees,2,Toronto Blue Jays,5,Toronto Blue Jays,1.54,2.74
+14-30,Philadelphia Phillies,2,New York Mets,8,New York Mets,2.48,2.4
+14-31,Los Angeles Dodgers,2,Miami Marlins,1,Los Angeles Dodgers,1.38,3.54
+14-32,Arizona Diamondbacks,1,St.Louis Cardinals,5,St.Louis Cardinals,2.69,1.74
+14-33,Oakland Athletics,2,Seattle Mariners,10,Oakland Athletics,2.55,1.75
+14-34,San Diego Padres,3,Washington Nationals,6,Washington Nationals,1.3,4.2
+14-35,Colorado Rockies,7,San Francisco Giants,4,Colorado Rockies,2.5,1.66
+14-36,Minnesota Twins,2,Texas Rangers,1,Minnesota Twins,1.75,2.45
+14-37,Atlanta Braves,6,Houston Astros,2,Atlanta Braves,1.83,2.25
+14-38,Cleveland Guardians,5,Chicago White Sox,2,Cleveland Guardians,1.75,2.4
+14-39,Detroit Tigers,0,Los Angeles Angels,1,Los Angeles Angels,2.37,1.75
+14-40,Tampa Bay Rays,2,Kansas City Royals,3,Kansas City Royals,1.55,3
+14-41,Baltimore Orioles,15,Boston Red Sox,10,Baltimore Orioles,2,1.97
+14-42,New York Yankees,0,Toronto Blue Jays,4,Toronto Blue Jays,2,2.67
+14-43,Philadelphia Phillies,2,New York Mets,7,New York Mets,1.87,2.16
+14-44,Pittsburgh Pirates,5,Cincinnati Reds,4,Pittsburgh Pirates,2.04,1.96
+14-45,Chicago Cubs,8,Milwaukee Brewers,7,Chicago Cubs,2.27,1.78
+14-46,San Diego Padres,1,Washington Nationals,3,Washington Nationals,1.28,4.46
+14-47,Atlanta Braves,3,New York Mets,2,Atlanta Braves,2.21,1.78
+14-48,Tampa Bay Rays,7,Kansas City Royals,1,Tampa Bay Rays,1.56,2.7
+14-49,New York Yankees,2,Toronto Blue Jays,9,Toronto Blue Jays,1.76,2.46
+14-50,Pittsburgh Pirates,8,Boston Red Sox,2,Pittsburgh Pirates,2.37,1.72
+13-Jan,Washington Nationals,3,Cincinnati Reds,7,Cincinnati Reds,1.8,2.39
+13-Feb,Miami Marlins,6,Los Angeles Dodgers,10,Miami Marlins,3.52,1.57
+13-Mar,Oakland Athletics,4,New York Yankees,13,Oakland Athletics,2.93,1.49
+13-Apr,Houston Astros,6,Minnesota Twins,3,Houston Astros,1.65,2.46
+13-May,Boston Red Sox,5,Toronto Blue Jays,6,Toronto Blue Jays,2.6,1.59
+13-Jun,New York Mets,3,Colorado Rockies,1,New York Mets,1.28,4.92
+13-Jul,Baltimore Orioles,4,Chicago White Sox,3,Baltimore Orioles,2.14,1.92
+13-Aug,Philadelphia Phillies,4,Cincinnati Reds,0,Philadelphia Phillies,1.3,4.32
+13-Sep,Seattle Mariners,3,Cleveland Guardians,1,Seattle Mariners,2.17,1.91
+13-Oct,Chicago Cubs,3,St.Louis Cardinals,8,St.Louis Cardinals,1.96,2.08
+13-Nov,Tampa Bay Rays,8,Los Angeles Angels,3,Tampa Bay Rays,1.51,2.87
+13-Dec,Los Angeles Dodgers,12,Milwaukee Brewers,6,Milwaukee Brewers,1.4,3.46
+13-13,Houston Astros,5,Minnesota Twins,3,Houston Astros,1.52,3.1
+13-14,Kansas City Royals,5,Arizona Diamondbacks,3,Kansas City Royals,2.11,1.85
+13-15,Chicago Cubs,7,St.Louis Cardinals,1,Chicago Cubs,2.75,1.76
+13-16,Boston Red Sox,2,Toronto Blue Jays,3,Toronto Blue Jays,2.45,1.68
+13-17,Tampa Bay Rays,4,Los Angeles Angels,3,Tampa Bay Rays,1.54,3.4
+13-18,Baltimore Orioles,3,Chicago White Sox,5,Chicago White Sox,2.03,1.95
+13-19,Philadelphia Phillies,7,Cincinnati Reds,5,Philadelphia Phillies,1.42,3.55
+13-20,San Diego Padres,0,Cleveland Guardians,7,Cleveland Guardians,1.64,2.63
+13-21,Seattle Mariners,1,Washington Nationals,3,Washington Nationals,1.35,3.98
+13-22,Oakland Athletics,3,Miami Marlins,2,Oakland Athletics,2.12,1.86
+13-23,Colorado Rockies,4,Texas Rangers,16,Colorado Rockies,2.2,1.83
+13-24,Detroit Tigers,6,San Francisco Giants,1,Detroit Tigers,2.42,1.68
+13-25,Pittsburgh Pirates,2,Atlanta Braves,14,Pittsburgh Pirates,3.4,1.44
+13-26,Los Angeles Dodgers,10,Milwaukee Brewers,1,Los Angeles Dodgers,1.69,2.45
+13-27,Seattle Mariners,4,Washington Nationals,2,Seattle Mariners,1.39,3.7
+13-28,Oakland Athletics,3,Miami Marlins,5,Miami Marlins,2.33,1.83
+13-29,San Diego Padres,1,Cleveland Guardians,3,Cleveland Guardians,1.72,2.4
+13-30,Colorado Rockies,7,Texas Rangers,6,Colorado Rockies,2.05,2
+13-31,Houston Astros,4,Minnesota Twins,2,Houston Astros,1.42,3.7
+13-32,Kansas City Royals,3,Arizona Diamondbacks,7,Arizona Diamondbacks,2.11,1.87
+13-33,Chicago Cubs,3,St.Louis Cardinals,13,Chicago Cubs,2.19,1.76
+13-34,Boston Red Sox,3,Toronto Blue Jays,9,Toronto Blue Jays,2.35,1.76
+13-35,Detroit Tigers,1,San Francisco Giants,3,San Francisco Giants,2.98,1.6
+13-36,Tampa Bay Rays,11,Los Angeles Angels,1,Tampa Bay Rays,1.61,3.15
+13-37,Baltimore Orioles,5,Chicago White Sox,3,Baltimore Orioles,2.22,1.8
+13-38,New York Yankees,4,New York Mets,2,New York Yankees,1.83,2.22
+13-39,Philadelphia Phillies,7,Cincinnati Reds,6,Philadelphia Phillies,1.51,2.91
+13-40,Pittsburgh Pirates,1,Atlanta Braves,6,Atlanta Braves,3.4,1.42
+13-41,Chicago Cubs,2,St.Louis Cardinals,0,Chicago Cubs,2.69,1.81
+13-42,Los Angeles Dodgers,0,Milwaukee Brewers,4,Milwaukee Brewers,1.68,3.4
+13-43,Oakland Athletics,0,Miami Marlins,3,Miami Marlins,2.34,1.75
+13-44,Chicago Cubs,0,St.Louis Cardinals,1,St.Louis Cardinals,2.5,1.63
+13-45,Minnesota Twins,1,Texas Rangers,2,Texas Rangers,1.54,2.81
+13-46,Tampa Bay Rays,2,Los Angeles Angels,1,Tampa Bay Rays,1.55,3.07
+13-47,New York Yankees,4,New York Mets,2,New York Yankees,2.46,1.66
+13-48,Philadelphia Phillies,4,Cincinnati Reds,1,Philadelphia Phillies,1.46,3.17
+13-49,Pittsburgh Pirates,1,Atlanta Braves,2,Atlanta Braves,3.25,1.53
+13-50,Kansas City Royals,6,Chicago White Sox,4,Kansas City Royals,2.4,1.72
+01-Dec,Arizona Diamondbacks,13,Philadelphia Phillies,7,Philadelphia Phillies,2.62,1.76
+02-Dec,Los Angeles Angels,4,New York Yankees,3,Los Angeles Angels,2.55,1.63
+03-Dec,Milwaukee Brewers,7,Pittsburgh Pirates,5,Milwaukee Brewers,1.31,3.98
+04-Dec,Minnesota Twins,4,Boston Red Sox,2,Minnesota Twins,1.93,2.15
+05-Dec,Toronto Blue Jays,5,Chicago Cubs,4,Toronto Blue Jays,1.43,3.2
+06-Dec,Cincinnati Reds,4,St.Louis Cardinals,13,Cincinnati Reds,2.97,1.49
+07-Dec,Miami Marlins,2,Los Angeles Dodgers,3,Los Angeles Dodgers,2.52,1.65
+08-Dec,St.Louis Cardinals,6,Atlanta Braves,3,St.Louis Cardinals,1.77,2.32
+09-Dec,Seattle Mariners,4,Cleveland Guardians,0,Seattle Mariners,1.69,2.4
+10-Dec,Oakland Athletics,4,New York Yankees,1,Oakland Athletics,2.85,1.51
+11-Dec,Texas Rangers,8,Detroit Tigers,9,Detroit Tigers,1.64,2.52
+12-Dec,Chicago White Sox,2,Arizona Diamondbacks,3,Arizona Diamondbacks,1.58,2.74
+13-Dec,Houston Astros,3,Baltimore Orioles,1,Houston Astros,1.46,3.1
+14-Dec,Kansas City Royals,15,San Diego Padres,7,San Diego Padres,2.75,1.55
+15-Dec,Milwaukee Brewers,9,Chicago Cubs,7,Milwaukee Brewers,1.64,2.62
+16-Dec,Minnesota Twins,8,San Francisco Giants,3,Minnesota Twins,1.93,2.04
+17-Dec,New York Mets,0,Colorado Rockies,1,Colorado Rockies,1.32,4.08
+18-Dec,Toronto Blue Jays,3,Los Angeles Angels,8,Los Angeles Angels,1.42,3.5
+19-Dec,Boston Red Sox,4,Tampa Bay Rays,12,Boston Red Sox,1.95,2.04
+20-Dec,Philadelphia Phillies,0,Pittsburgh Pirates,5,Pittsburgh Pirates,1.43,3.34
+21-Dec,Washington Nationals,3,Cincinnati Reds,2,Washington Nationals,2.06,1.91
+22-Dec,Miami Marlins,1,Los Angeles Dodgers,8,Los Angeles Dodgers,3.34,1.43
+23-Dec,Seattle Mariners,3,Cleveland Guardians,4,Cleveland Guardians,1.66,2.61
+24-Dec,Oakland Athletics,3,New York Yankees,2,Oakland Athletics,3.01,1.48
+25-Dec,Minnesota Twins,3,San Francisco Giants,2,Minnesota Twins,1.83,2.3
+26-Dec,St.Louis Cardinals,6,Atlanta Braves,5,St.Louis Cardinals,1.98,2.02
+27-Dec,Chicago White Sox,5,Arizona Diamondbacks,10,Chicago White Sox,1.99,2.55
+28-Dec,Houston Astros,1,Baltimore Orioles,3,Baltimore Orioles,1.58,3.15
+29-Dec,Kansas City Royals,3,San Diego Padres,4,San Diego Padres,2.93,1.55
+30-Dec,Milwaukee Brewers,7,Chicago Cubs,0,Milwaukee Brewers,1.6,2.78
+31-Dec,New York Mets,3,Colorado Rockies,0,New York Mets,1.43,3.75
+12-32,Texas Rangers,2,Detroit Tigers,11,Texas Rangers,1.89,2.45
+12-33,Washington Nationals,2,Cincinnati Reds,6,Cincinnati Reds,2,2.23
+12-34,Miami Marlins,2,Los Angeles Dodgers,1,Miami Marlins,3.25,1.56
+12-35,Philadelphia Phillies,6,Pittsburgh Pirates,0,Philadelphia Phillies,1.37,3.62
+12-36,Boston Red Sox,5,Tampa Bay Rays,1,Boston Red Sox,2.09,1.88
+12-37,Toronto Blue Jays,0,Los Angeles Angels,2,Los Angeles Angels,1.72,2.38
+12-38,Seattle Mariners,3,Cleveland Guardians,2,Seattle Mariners,2.07,1.91
+12-39,Oakland Athletics,2,New York Yankees,3,New York Yankees,3.24,1.42
+12-40,St.Louis Cardinals,4,Atlanta Braves,11,St.Louis Cardinals,2.52,1.9
+01-Nov,St.Louis Cardinals,8,Chicago Cubs,0,St.Louis Cardinals,1.45,3.2
+02-Nov,Chicago White Sox,4,Minnesota Twins,3,Chicago White Sox,2.24,2.2
+03-Nov,Atlanta Braves,8,Miami Marlins,1,Atlanta Braves,1.58,2.7
+04-Nov,Boston Red Sox,9,Texas Rangers,1,Boston Red Sox,1.56,2.7
+05-Nov,Cleveland Guardians,1,Seattle Mariners,6,Seattle Mariners,2.21,1.81
+06-Nov,Detroit Tigers,5,Kansas City Royals,4,Detroit Tigers,1.93,2.04
+07-Nov,New York Mets,7,Washington Nationals,3,New York Mets,1.38,4.5
+08-Nov,Tampa Bay Rays,9,New York Yankees,0,Tampa Bay Rays,1.81,2.22
+09-Nov,Baltimore Orioles,5,Oakland Athletics,2,Baltimore Orioles,1.63,2.52
+10-Nov,Cincinnati Reds,3,Colorado Rockies,2,Cincinnati Reds,1.85,2.15
+11-Nov,Pittsburgh Pirates,0,Toronto Blue Jays,4,Toronto Blue Jays,3.12,1.49
+12-Nov,Arizona Diamondbacks,5,Milwaukee Brewers,0,Arizona Diamondbacks,2.21,1.86
+13-Nov,Atlanta Braves,3,Colorado Rockies,0,Atlanta Braves,1.26,4.46
+14-Nov,Boston Red Sox,9,Texas Rangers,8,Boston Red Sox,1.63,2.65
+15-Nov,Cleveland Guardians,0,Baltimore Orioles,3,Baltimore Orioles,1.58,2.63
+16-Nov,New York Mets,5,Los Angeles Dodgers,3,New York Mets,2.25,1.8
+17-Nov,Washington Nationals,7,Oakland Athletics,5,Washington Nationals,1.94,2.02
+18-Nov,Chicago White Sox,7,Kansas City Royals,1,Chicago White Sox,1.57,2.78
+19-Nov,Detroit Tigers,0,Seattle Mariners,7,Seattle Mariners,2.39,1.71
+20-Nov,Arizona Diamondbacks,2,Philadelphia Phillies,18,Arizona Diamondbacks,2.22,1.77
+21-Nov,Los Angeles Angels,3,New York Yankees,2,Los Angeles Angels,2.71,1.55
+22-Nov,Chicago White Sox,4,Kansas City Royals,2,Chicago White Sox,1.53,2.93
+23-Nov,Minnesota Twins,5,Boston Red Sox,6,Boston Red Sox,1.84,2.13
+24-Nov,Atlanta Braves,3,Colorado Rockies,2,Atlanta Braves,1.31,4.25
+25-Nov,Detroit Tigers,3,Seattle Mariners,5,Seattle Mariners,2.43,1.68
+26-Nov,New York Mets,2,Los Angeles Dodgers,1,New York Mets,2.2,2.48
+27-Nov,Toronto Blue Jays,5,Chicago Cubs,7,Chicago Cubs,1.46,3.07
+28-Nov,Washington Nationals,5,Oakland Athletics,1,Washington Nationals,1.98,2
+29-Nov,Cincinnati Reds,3,St.Louis Cardinals,5,St.Louis Cardinals,3.07,1.46
+30-Nov,Miami Marlins,1,Tampa Bay Rays,2,Tampa Bay Rays,2.47,1.65
+11-31,Cleveland Guardians,0,Baltimore Orioles,4,Baltimore Orioles,1.61,2.67
+11-32,San Francisco Giants,4,San Diego Padres,5,San Diego Padres,2.36,1.75
+11-33,Milwaukee Brewers,6,Pittsburgh Pirates,1,Milwaukee Brewers,1.37,3.7
+11-34,Texas Rangers,3,Houston Astros,5,Houston Astros,2.25,1.78
+11-35,San Francisco Giants,3,San Diego Padres,4,San Diego Padres,2.29,1.81
+11-36,Arizona Diamondbacks,12,Philadelphia Phillies,3,Philadelphia Phillies,2.2,1.83
+11-37,Los Angeles Angels,4,New York Yankees,7,New York Yankees,2.7,1.65
+11-38,Chicago White Sox,7,Kansas City Royals,9,Kansas City Royals,1.79,2.65
+11-39,Milwaukee Brewers,2,Pittsburgh Pirates,4,Pittsburgh Pirates,1.62,2.55
+11-40,Texas Rangers,2,Houston Astros,4,Houston Astros,2.35,1.74
+11-41,Minnesota Twins,10,Boston Red Sox,5,Boston Red Sox,1.8,2.18
+11-42,Atlanta Braves,2,Colorado Rockies,3,Colorado Rockies,1.33,4.06
+11-43,Detroit Tigers,3,Seattle Mariners,9,Seattle Mariners,2.58,1.62
+11-44,New York Mets,3,Los Angeles Dodgers,4,Los Angeles Dodgers,2.24,2.15
+11-45,Toronto Blue Jays,5,Chicago Cubs,3,Toronto Blue Jays,1.48,2.97
+11-46,Washington Nationals,6,Oakland Athletics,10,Washington Nationals,1.98,2.04
+11-47,Cincinnati Reds,5,St.Louis Cardinals,1,Cincinnati Reds,2.9,1.5
+11-48,Miami Marlins,2,Tampa Bay Rays,7,Tampa Bay Rays,2.8,1.56
+11-49,Cleveland Guardians,5,Baltimore Orioles,1,Cleveland Guardians,1.71,2.45
+11-50,San Francisco Giants,5,San Diego Padres,6,San Diego Padres,2.05,2.15
+01-Oct,Baltimore Orioles,9,Toronto Blue Jays,6,Baltimore Orioles,2.25,1.99
+02-Oct,Philadelphia Phillies,3,Miami Marlins,2,Philadelphia Phillies,1.55,3.07
+03-Oct,Tampa Bay Rays,8,Boston Red Sox,4,Tampa Bay Rays,1.75,2.28
+04-Oct,Pittsburgh Pirates,8,New York Mets,2,Pittsburgh Pirates,2.93,1.49
+05-Oct,Los Angeles Dodgers,4,San Francisco Giants,7,San Francisco Giants,1.45,3.1
+06-Oct,Los Angeles Angels,10,Detroit Tigers,0,Los Angeles Angels,1.68,2.71
+07-Oct,Kansas City Royals,5,Cleveland Guardians,6,Cleveland Guardians,2.6,1.79
+08-Oct,Houston Astros,1,Texas Rangers,0,Houston Astros,1.58,3.2
+09-Oct,San Diego Padres,0,Arizona Diamondbacks,5,Arizona Diamondbacks,1.6,3.03
+10-Oct,Seattle Mariners,2,Chicago White Sox,3,Chicago White Sox,2.14,2.25
+11-Oct,St.Louis Cardinals,0,Washington Nationals,6,Washington Nationals,1.4,3.54
+12-Oct,Colorado Rockies,4,Milwaukee Brewers,6,Milwaukee Brewers,2.28,1.79
+13-Oct,Tampa Bay Rays,4,Boston Red Sox,3,Tampa Bay Rays,1.95,2
+14-Oct,Baltimore Orioles,4,Toronto Blue Jays,8,Toronto Blue Jays,2.32,1.81
+15-Oct,Baltimore Orioles,3,Toronto Blue Jays,7,Toronto Blue Jays,2.5,1.77
+16-Oct,New York Yankees,5,Minnesota Twins,2,New York Yankees,1.64,2.57
+17-Oct,Los Angeles Dodgers,9,San Diego Padres,4,Los Angeles Dodgers,1.66,2.52
+18-Oct,Arizona Diamondbacks,5,Milwaukee Brewers,1,Arizona Diamondbacks,1.61,2.57
+19-Oct,Los Angeles Angels,1,Houston Astros,9,Houston Astros,2.71,1.59
+20-Oct,San Francisco Giants,5,Philadelphia Phillies,3,San Francisco Giants,1.93,2.08
+21-Oct,Cincinnati Reds,10,Colorado Rockies,0,Cincinnati Reds,1.97,2.05
+22-Oct,Cleveland Guardians,3,Seattle Mariners,6,Seattle Mariners,2.1,1.86
+23-Oct,St.Louis Cardinals,2,Chicago Cubs,0,St.Louis Cardinals,1.57,2.74
+24-Oct,Chicago White Sox,1,Minnesota Twins,5,Minnesota Twins,1.8,2.25
+25-Oct,Detroit Tigers,2,Kansas City Royals,3,Kansas City Royals,1.83,2.16
+26-Oct,New York Mets,1,Washington Nationals,7,Washington Nationals,1.37,3.78
+27-Oct,Tampa Bay Rays,1,New York Yankees,2,New York Yankees,2.11,1.89
+28-Oct,Atlanta Braves,7,Miami Marlins,1,Atlanta Braves,1.41,3.34
+29-Oct,Baltimore Orioles,0,Oakland Athletics,5,Oakland Athletics,1.56,2.68
+30-Oct,Boston Red Sox,5,Texas Rangers,2,Boston Red Sox,1.91,2.1
+31-Oct,Cincinnati Reds,4,Colorado Rockies,8,Colorado Rockies,1.91,2.17
+10-32,Pittsburgh Pirates,3,Toronto Blue Jays,4,Toronto Blue Jays,2.88,1.5
+10-33,Los Angeles Dodgers,12,San Diego Padres,1,Los Angeles Dodgers,1.46,3.2
+10-34,Los Angeles Angels,2,Houston Astros,1,Los Angeles Angels,2.4,2.21
+10-35,Arizona Diamondbacks,6,Milwaukee Brewers,8,Milwaukee Brewers,2.7,1.57
+10-36,Atlanta Braves,2,Miami Marlins,1,Atlanta Braves,1.61,3.2
+10-37,Cleveland Guardians,0,Seattle Mariners,4,Seattle Mariners,2.47,1.74
+10-38,New York Mets,1,Washington Nationals,7,Washington Nationals,1.31,4.46
+10-39,St.Louis Cardinals,8,Chicago Cubs,4,St.Louis Cardinals,1.5,2.94
+10-40,Chicago White Sox,13,Minnesota Twins,0,Chicago White Sox,1.8,2.27
+01-Sep,New York Yankees,10,Tampa Bay Rays,3,Tampa Bay Rays,1.99,2
+02-Sep,Oakland Athletics,3,Chicago White Sox,5,Chicago White Sox,2.6,1.6
+03-Sep,San Diego Padres,5,Los Angeles Dodgers,4,San Diego Padres,2.43,1.69
+04-Sep,Seattle Mariners,4,Atlanta Braves,6,Atlanta Braves,2.15,1.9
+05-Sep,Colorado Rockies,13,Arizona Diamondbacks,10,Colorado Rockies,1.95,2.11
+06-Sep,Houston Astros,4,Los Angeles Angels,3,Houston Astros,1.74,2.97
+07-Sep,Kansas City Royals,2,Detroit Tigers,10,Kansas City Royals,1.77,2.22
+08-Sep,Milwaukee Brewers,2,Cincinnati Reds,8,Cincinnati Reds,1.68,2.7
+09-Sep,Minnesota Twins,6,Cleveland Guardians,7,Cleveland Guardians,2.05,2.02
+10-Sep,Texas Rangers,3,Toronto Blue Jays,4,Toronto Blue Jays,2.7,1.68
+11-Sep,Baltimore Orioles,3,Boston Red Sox,2,Baltimore Orioles,1.85,2.13
+12-Sep,New York Yankees,2,Tampa Bay Rays,4,Tampa Bay Rays,2.02,2.04
+13-Sep,Philadelphia Phillies,5,Washington Nationals,3,Philadelphia Phillies,1.52,3.1
+14-Sep,Miami Marlins,6,New York Mets,3,Miami Marlins,2.46,1.66
+15-Sep,Pittsburgh Pirates,8,St.Louis Cardinals,2,Pittsburgh Pirates,2.8,1.56
+16-Sep,Chicago Cubs,4,San Francisco Giants,2,Chicago Cubs,2.32,1.71
+17-Sep,Oakland Athletics,2,Chicago White Sox,14,Oakland Athletics,2.86,1.64
+18-Sep,Milwaukee Brewers,4,San Francisco Giants,2,Milwaukee Brewers,1.56,2.66
+19-Sep,New York Yankees,3,Minnesota Twins,4,Minnesota Twins,1.72,2.31
+20-Sep,Philadelphia Phillies,5,Miami Marlins,6,Miami Marlins,1.83,2.22
+21-Sep,Milwaukee Brewers,2,San Francisco Giants,1,Milwaukee Brewers,1.55,2.81
+22-Sep,Chicago Cubs,3,Cincinnati Reds,4,Cincinnati Reds,1.75,2.25
+23-Sep,St.Louis Cardinals,6,Washington Nationals,11,St.Louis Cardinals,1.41,3.4
+24-Sep,San Diego Padres,6,Arizona Diamondbacks,3,San Diego Padres,1.47,3.15
+25-Sep,Houston Astros,4,Texas Rangers,3,Houston Astros,1.36,3.7
+26-Sep,Kansas City Royals,2,Cleveland Guardians,1,Kansas City Royals,2.25,1.77
+27-Sep,St.Louis Cardinals,6,Washington Nationals,5,St.Louis Cardinals,1.36,3.92
+28-Sep,Chicago Cubs,1,Cincinnati Reds,7,Cincinnati Reds,1.71,2.36
+29-Sep,Baltimore Orioles,1,Toronto Blue Jays,4,Toronto Blue Jays,2.25,1.75
+30-Sep,New York Yankees,7,Minnesota Twins,1,New York Yankees,1.54,2.79
+9-31,Philadelphia Phillies,4,Miami Marlins,3,Philadelphia Phillies,1.76,2.5
+9-32,Tampa Bay Rays,1,Boston Red Sox,0,Tampa Bay Rays,1.63,2.62
+9-33,Pittsburgh Pirates,0,New York Mets,10,New York Mets,4.23,1.27
+9-34,Los Angeles Dodgers,7,San Francisco Giants,3,Los Angeles Dodgers,1.46,3.2
+9-35,Seattle Mariners,6,Chicago White Sox,9,Chicago White Sox,1.54,2.74
+9-36,Los Angeles Angels,4,Detroit Tigers,5,Detroit Tigers,1.52,2.93
+9-37,Oakland Athletics,3,Atlanta Braves,7,Atlanta Braves,3.74,1.34
+9-38,Colorado Rockies,8,Milwaukee Brewers,4,Colorado Rockies,2.24,1.77
+9-39,New York Yankees,5,Minnesota Twins,4,New York Yankees,1.72,2.95
+9-40,Pittsburgh Pirates,1,New York Mets,5,New York Mets,2.92,1.5
+9-41,Los Angeles Dodgers,6,San Francisco Giants,3,Los Angeles Dodgers,1.41,3.73
+9-42,Oakland Athletics,9,Atlanta Braves,10,Oakland Athletics,3.2,1.46
+9-43,San Diego Padres,6,Arizona Diamondbacks,5,San Diego Padres,1.69,2.75
+9-44,Seattle Mariners,3,Chicago White Sox,0,Seattle Mariners,1.7,2.39
+9-45,Los Angeles Angels,5,Detroit Tigers,4,Los Angeles Angels,1.79,2.75
+9-46,Colorado Rockies,10,Milwaukee Brewers,7,Milwaukee Brewers,2.72,1.71
+9-47,Houston Astros,3,Texas Rangers,4,Texas Rangers,1.46,3.2
+9-48,Kansas City Royals,1,Cleveland Guardians,4,Cleveland Guardians,2.8,1.53
+9-49,St.Louis Cardinals,4,Washington Nationals,1,St.Louis Cardinals,1.42,3.5
+9-50,Chicago Cubs,9,Cincinnati Reds,3,Chicago Cubs,1.67,2.46
+01-Aug,St.Louis Cardinals,4,Milwaukee Brewers,8,Milwaukee Brewers,2,2.78
+02-Aug,Minnesota Twins,6,Kansas City Royals,3,Minnesota Twins,1.58,2.7
+03-Aug,Boston Red Sox,6,New York Yankees,7,New York Yankees,2.43,1.76
+04-Aug,New York Mets,1,Chicago Cubs,4,Chicago Cubs,1.25,5.15
+05-Aug,Toronto Blue Jays,7,Tampa Bay Rays,2,Toronto Blue Jays,1.6,2.52
+06-Aug,Washington Nationals,3,Baltimore Orioles,4,Baltimore Orioles,2.45,1.71
+07-Aug,Cincinnati Reds,0,Pittsburgh Pirates,1,Pittsburgh Pirates,1.78,2.22
+08-Aug,Detroit Tigers,3,Houston Astros,6,Houston Astros,3.2,1.46
+09-Aug,Miami Marlins,1,Philadelphia Phillies,2,Philadelphia Phillies,2.15,2.14
+10-Aug,Cleveland Guardians,3,Los Angeles Angels,1,Cleveland Guardians,1.83,2.16
+11-Aug,Toronto Blue Jays,2,Tampa Bay Rays,4,Tampa Bay Rays,1.93,2.03
+12-Aug,Cincinnati Reds,1,Pittsburgh Pirates,6,Pittsburgh Pirates,1.75,2.25
+13-Aug,San Francisco Giants,3,Atlanta Braves,2,San Francisco Giants,2.77,1.64
+14-Aug,Arizona Diamondbacks,0,Los Angeles Dodgers,6,Los Angeles Dodgers,2.92,1.5
+15-Aug,Miami Marlins,10,Texas Rangers,6,Texas Rangers,2.09,1.85
+16-Aug,New York Mets,2,Chicago Cubs,5,Chicago Cubs,1.35,4.2
+17-Aug,Toronto Blue Jays,3,Tampa Bay Rays,2,Toronto Blue Jays,1.63,2.5
+18-Aug,Cincinnati Reds,3,Pittsburgh Pirates,6,Pittsburgh Pirates,1.79,2.18
+19-Aug,Detroit Tigers,0,Houston Astros,7,Houston Astros,3.1,1.46
+20-Aug,Cleveland Guardians,5,Los Angeles Angels,4,Cleveland Guardians,1.91,2.25
+21-Aug,Miami Marlins,2,Texas Rangers,3,Texas Rangers,2.07,2.12
+22-Aug,Chicago Cubs,2,San Francisco Giants,4,San Francisco Giants,1.91,2.06
+23-Aug,San Diego Padres,2,Los Angeles Dodgers,11,San Diego Padres,2.18,1.85
+24-Aug,Seattle Mariners,8,Atlanta Braves,7,Seattle Mariners,2.18,1.84
+25-Aug,Oakland Athletics,10,Chicago White Sox,3,Chicago White Sox,2.5,1.65
+26-Aug,Colorado Rockies,6,Arizona Diamondbacks,12,Colorado Rockies,2.47,1.64
+27-Aug,Texas Rangers,4,Toronto Blue Jays,1,Texas Rangers,2.05,1.9
+28-Aug,Houston Astros,12,Los Angeles Angels,4,Los Angeles Angels,1.37,3.46
+29-Aug,Kansas City Royals,4,Detroit Tigers,0,Kansas City Royals,1.67,2.47
+30-Aug,Milwaukee Brewers,7,Cincinnati Reds,6,Milwaukee Brewers,1.37,3.54
+31-Aug,Minnesota Twins,1,Cleveland Guardians,4,Cleveland Guardians,2.29,1.73
+8-32,Miami Marlins,3,New York Mets,9,New York Mets,2.27,1.74
+8-33,New York Yankees,10,Tampa Bay Rays,4,Tampa Bay Rays,1.83,2.18
+8-34,Pittsburgh Pirates,3,St.Louis Cardinals,4,St.Louis Cardinals,2.56,1.66
+8-35,Baltimore Orioles,0,Boston Red Sox,1,Boston Red Sox,1.87,2.1
+8-36,Philadelphia Phillies,7,Washington Nationals,5,Philadelphia Phillies,1.34,3.78
+8-37,Seattle Mariners,3,Atlanta Braves,1,Seattle Mariners,2.09,1.87
+8-38,San Diego Padres,4,Los Angeles Dodgers,8,Los Angeles Dodgers,2.26,1.8
+8-39,Colorado Rockies,4,Arizona Diamondbacks,1,Colorado Rockies,2.45,2.02
+8-40,Pittsburgh Pirates,5,St.Louis Cardinals,7,St.Louis Cardinals,2.8,1.58
+8-41,Houston Astros,1,Los Angeles Angels,6,Los Angeles Angels,1.8,2.27
+8-42,Milwaukee Brewers,5,Cincinnati Reds,1,Milwaukee Brewers,1.44,3.35
+8-43,Minnesota Twins,4,Cleveland Guardians,6,Cleveland Guardians,2.06,1.93
+8-44,Texas Rangers,7,Toronto Blue Jays,11,Texas Rangers,2.82,1.52
+8-45,Miami Marlins,3,New York Mets,11,Miami Marlins,2.43,1.71
+8-46,Philadelphia Phillies,8,Washington Nationals,5,Philadelphia Phillies,1.42,3.55
+8-47,Baltimore Orioles,4,Boston Red Sox,17,Baltimore Orioles,1.96,2
+8-48,Kansas City Royals,4,Detroit Tigers,8,Detroit Tigers,1.84,2.2
+8-49,Oakland Athletics,2,Chicago White Sox,10,Oakland Athletics,2.78,1.54
+8-50,Chicago Cubs,2,San Francisco Giants,5,San Francisco Giants,2.08,1.89
+01-Jul,Tampa Bay Rays,5,Texas Rangers,1,Tampa Bay Rays,1.8,2.7
+02-Jul,Boston Red Sox,0,Kansas City Royals,9,Kansas City Royals,1.76,2.31
+03-Jul,Washington Nationals,5,Miami Marlins,3,Washington Nationals,2.17,1.81
+04-Jul,Toronto Blue Jays,6,Baltimore Orioles,3,Toronto Blue Jays,1.65,2.55
+05-Jul,Chicago Cubs,1,Colorado Rockies,3,Colorado Rockies,1.74,2.36
+06-Jul,St.Louis Cardinals,5,Cincinnati Reds,1,St.Louis Cardinals,1.63,3.2
+07-Jul,Cleveland Guardians,5,Minnesota Twins,1,Cleveland Guardians,1.55,2.68
+08-Jul,San Francisco Giants,0,Los Angeles Dodgers,5,Los Angeles Dodgers,2.45,1.65
+09-Jul,Arizona Diamondbacks,3,San Diego Padres,12,Arizona Diamondbacks,2.72,1.95
+10-Jul,Los Angeles Angels,8,Seattle Mariners,7,Los Angeles Angels,2.45,1.9
+11-Jul,St.Louis Cardinals,6,Cincinnati Reds,5,St.Louis Cardinals,1.37,3.54
+12-Jul,Houston Astros,5,Oakland Athletics,0,Houston Astros,1.35,4.08
+13-Jul,Milwaukee Brewers,7,New York Yankees,6,Milwaukee Brewers,2.05,1.95
+14-Jul,Atlanta Braves,7,Philadelphia Phillies,2,Atlanta Braves,1.9,2.87
+15-Jul,Boston Red Sox,2,Kansas City Royals,1,Boston Red Sox,1.62,3.05
+16-Jul,Cleveland Guardians,4,Minnesota Twins,3,Cleveland Guardians,1.72,2.43
+17-Jul,Detroit Tigers,3,Chicago White Sox,2,Detroit Tigers,2.33,1.71
+18-Jul,New York Mets,4,Pittsburgh Pirates,3,New York Mets,1.42,3.55
+19-Jul,Tampa Bay Rays,3,Texas Rangers,4,Texas Rangers,1.73,2.4
+20-Jul,Toronto Blue Jays,6,Baltimore Orioles,3,Toronto Blue Jays,1.64,2.52
+21-Jul,Washington Nationals,5,Miami Marlins,4,Washington Nationals,2.16,1.84
+22-Jul,Chicago Cubs,2,Colorado Rockies,1,Chicago Cubs,1.82,2.23
+23-Jul,Arizona Diamondbacks,4,San Diego Padres,0,Arizona Diamondbacks,2.51,1.64
+24-Jul,St.Louis Cardinals,2,Cincinnati Reds,3,Cincinnati Reds,1.36,3.62
+25-Jul,Minnesota Twins,3,Kansas City Royals,2,Minnesota Twins,1.61,2.61
+26-Jul,Houston Astros,5,Oakland Athletics,2,Houston Astros,1.34,3.9
+27-Jul,New York Mets,7,Pittsburgh Pirates,1,New York Mets,1.4,3.4
+28-Jul,Miami Marlins,5,Philadelphia Phillies,3,Miami Marlins,2.16,1.82
+29-Jul,Toronto Blue Jays,0,Tampa Bay Rays,11,Tampa Bay Rays,1.78,2.27
+30-Jul,Cleveland Guardians,2,Chicago White Sox,8,Chicago White Sox,2.35,1.72
+31-Jul,Arizona Diamondbacks,5,Los Angeles Dodgers,3,Arizona Diamondbacks,2.1,1.88
+7-32,Texas Rangers,7,Oakland Athletics,8,Oakland Athletics,1.66,2.45
+7-33,St.Louis Cardinals,4,Milwaukee Brewers,1,St.Louis Cardinals,2.14,1.85
+7-34,Minnesota Twins,4,Kansas City Royals,0,Minnesota Twins,1.58,2.78
+7-35,Boston Red Sox,3,New York Yankees,5,New York Yankees,2.16,1.84
+7-36,New York Mets,3,Chicago Cubs,6,Chicago Cubs,1.5,2.91
+7-37,Toronto Blue Jays,5,Tampa Bay Rays,1,Toronto Blue Jays,1.9,2.25
+7-38,Washington Nationals,2,Baltimore Orioles,6,Baltimore Orioles,2.34,1.71
+7-39,Miami Marlins,1,Philadelphia Phillies,6,Philadelphia Phillies,2.3,1.82
+7-40,Seattle Mariners,6,San Diego Padres,1,Seattle Mariners,1.63,2.57
+7-41,San Francisco Giants,4,Atlanta Braves,1,San Francisco Giants,2.15,1.83
+7-42,Chicago White Sox,0,Colorado Rockies,3,Colorado Rockies,1.42,3.26
+7-43,Cleveland Guardians,5,Los Angeles Angels,3,Cleveland Guardians,1.92,2.07
+7-44,Detroit Tigers,1,Houston Astros,2,Houston Astros,3.27,1.48
+7-45,Cincinnati Reds,4,Pittsburgh Pirates,10,Cincinnati Reds,1.68,2.38
+7-46,San Francisco Giants,1,Atlanta Braves,5,Atlanta Braves,2.46,1.83
+7-47,Arizona Diamondbacks,0,Los Angeles Dodgers,4,Los Angeles Dodgers,2.85,1.57
+7-48,Seattle Mariners,0,San Diego Padres,2,San Diego Padres,1.93,2.4
+7-49,Chicago White Sox,4,Colorado Rockies,2,Chicago White Sox,1.55,3.05
+7-50,Texas Rangers,8,Oakland Athletics,7,Texas Rangers,1.83,2.4
+01-Jun,Los Angeles Dodgers,2,Arizona Diamondbacks,5,Arizona Diamondbacks,1.36,3.6
+02-Jun,Oakland Athletics,4,Seattle Mariners,1,Oakland Athletics,3.15,1.46
+03-Jun,San Diego Padres,5,St.Louis Cardinals,0,San Diego Padres,1.91,2.07
+04-Jun,Colorado Rockies,3,San Francisco Giants,6,San Francisco Giants,2.15,2.11
+05-Jun,Chicago White Sox,7,Cleveland Guardians,10,Chicago White Sox,1.76,2.65
+06-Jun,Kansas City Royals,5,Minnesota Twins,4,Kansas City Royals,2.2,1.93
+07-Jun,Texas Rangers,2,Los Angeles Angels,5,Los Angeles Angels,2.13,2.15
+08-Jun,Milwaukee Brewers,5,New York Mets,7,New York Mets,2.06,1.9
+09-Jun,Atlanta Braves,3,Washington Nationals,2,Atlanta Braves,1.3,4.08
+10-Jun,Baltimore Orioles,2,Detroit Tigers,3,Detroit Tigers,1.6,2.62
+11-Jun,New York Yankees,9,Pittsburgh Pirates,8,New York Yankees,1.33,4.08
+12-Jun,Philadelphia Phillies,11,Toronto Blue Jays,18,Toronto Blue Jays,0,0
+13-Jun,Cincinnati Reds,3,Boston Red Sox,5,Boston Red Sox,2.14,1.88
+14-Jun,Miami Marlins,1,Chicago Cubs,2,Chicago Cubs,1.67,2.53
+15-Jun,Tampa Bay Rays,0,Houston Astros,5,Houston Astros,2.05,2.41
+16-Jun,Los Angeles Dodgers,6,Arizona Diamondbacks,5,Los Angeles Dodgers,1.54,2.87
+17-Jun,Los Angeles Dodgers,5,Arizona Diamondbacks,2,Los Angeles Dodgers,1.37,3.54
+18-Jun,Colorado Rockies,7,San Francisco Giants,10,Colorado Rockies,2.11,1.87
+19-Jun,Milwaukee Brewers,2,New York Mets,7,New York Mets,1.89,2.07
+20-Jun,Atlanta Braves,5,Washington Nationals,2,Atlanta Braves,1.3,4.2
+21-Jun,Baltimore Orioles,0,Detroit Tigers,11,Detroit Tigers,1.52,2.86
+22-Jun,Miami Marlins,10,Chicago Cubs,3,Chicago Cubs,1.75,2.3
+23-Jun,Tampa Bay Rays,0,Houston Astros,4,Houston Astros,1.88,2.15
+24-Jun,Los Angeles Angels,1,Seattle Mariners,9,Seattle Mariners,2.2,1.82
+25-Jun,Cleveland Guardians,11,Minnesota Twins,4,Minnesota Twins,1.87,2.11
+26-Jun,San Francisco Giants,3,Los Angeles Dodgers,4,Los Angeles Dodgers,2.62,1.59
+27-Jun,Arizona Diamondbacks,1,San Diego Padres,6,San Diego Padres,2.35,1.7
+28-Jun,Los Angeles Angels,5,Seattle Mariners,1,Los Angeles Angels,1.81,2.17
+29-Jun,Chicago Cubs,3,Colorado Rockies,4,Colorado Rockies,1.85,2.16
+30-Jun,St.Louis Cardinals,0,Cincinnati Reds,3,Cincinnati Reds,1.43,3.2
+6-31,Houston Astros,11,Oakland Athletics,2,Oakland Athletics,1.3,4.08
+6-32,Milwaukee Brewers,8,New York Yankees,12,Milwaukee Brewers,2.6,1.62
+6-33,Cleveland Guardians,0,Minnesota Twins,3,Minnesota Twins,1.96,1.99
+6-34,New York Mets,7,Pittsburgh Pirates,3,New York Mets,1.24,5.15
+6-35,Toronto Blue Jays,4,Baltimore Orioles,5,Baltimore Orioles,1.52,2.91
+6-36,Atlanta Braves,5,Philadelphia Phillies,2,Atlanta Braves,1.43,3.2
+6-37,Boston Red Sox,13,Kansas City Royals,3,Kansas City Royals,1.53,2.85
+6-38,Washington Nationals,1,Miami Marlins,3,Miami Marlins,2.55,1.61
+6-39,Tampa Bay Rays,5,Texas Rangers,3,Tampa Bay Rays,1.53,2.85
+6-40,Detroit Tigers,5,Chicago White Sox,11,Detroit Tigers,2.41,1.7
+6-41,Los Angeles Angels,2,Seattle Mariners,1,Los Angeles Angels,1.95,2.1
+6-42,San Francisco Giants,2,Los Angeles Dodgers,7,Los Angeles Dodgers,3.78,1.6
+6-43,Arizona Diamondbacks,0,San Diego Padres,2,San Diego Padres,2.25,2.07
+6-44,Atlanta Braves,4,Philadelphia Phillies,3,Atlanta Braves,2,1.99
+6-45,St.Louis Cardinals,1,Cincinnati Reds,0,St.Louis Cardinals,1.49,2.86
+6-46,Cleveland Guardians,7,Minnesota Twins,6,Cleveland Guardians,1.74,2.25
+6-47,Houston Astros,5,Oakland Athletics,8,Oakland Athletics,1.37,3.9
+6-48,Milwaukee Brewers,4,New York Yankees,1,Milwaukee Brewers,1.72,2.32
+6-49,New York Mets,5,Pittsburgh Pirates,1,New York Mets,1.35,4.5
+6-50,Detroit Tigers,3,Chicago White Sox,4,Chicago White Sox,2.45,1.67
+01-May,Cincinnati Reds,2,Milwaukee Brewers,10,Cincinnati Reds,2.86,1.64
+02-May,Pittsburgh Pirates,6,Chicago Cubs,0,Pittsburgh Pirates,1.97,1.97
+03-May,Miami Marlins,4,Washington Nationals,1,Miami Marlins,1.55,2.97
+04-May,Tampa Bay Rays,1,Toronto Blue Jays,3,Toronto Blue Jays,1.99,2.2
+05-May,Oakland Athletics,10,New York Mets,4,New York Mets,4.32,1.28
+06-May,Philadelphia Phillies,3,Atlanta Braves,6,Atlanta Braves,2.11,1.85
+07-May,New York Yankees,7,Boston Red Sox,5,New York Yankees,1.66,2.45
+08-May,Los Angeles Dodgers,0,St.Louis Cardinals,11,St.Louis Cardinals,1.65,2.65
+09-May,Arizona Diamondbacks,5,San Francisco Giants,6,San Francisco Giants,2.56,2.1
+10-May,Oakland Athletics,2,New York Mets,9,New York Mets,3.15,1.48
+11-May,Chicago White Sox,3,Detroit Tigers,5,Detroit Tigers,1.57,2.65
+12-May,Colorado Rockies,4,San Diego Padres,3,Colorado Rockies,2.7,1.64
+13-May,Kansas City Royals,5,Seattle Mariners,1,Kansas City Royals,1.81,2.2
+14-May,Minnesota Twins,2,Los Angeles Angels,4,Los Angeles Angels,2.58,2.15
+15-May,Texas Rangers,3,Cleveland Guardians,6,Cleveland Guardians,2.05,2.16
+16-May,Tampa Bay Rays,10,Toronto Blue Jays,6,Toronto Blue Jays,1.9,2.36
+17-May,Baltimore Orioles,6,Houston Astros,0,Baltimore Orioles,2.6,1.8
+18-May,New York Yankees,5,Boston Red Sox,4,New York Yankees,1.58,3.2
+19-May,Philadelphia Phillies,9,Atlanta Braves,1,Philadelphia Phillies,2.15,2.49
+20-May,Cincinnati Reds,3,Milwaukee Brewers,5,Milwaukee Brewers,2.8,1.65
+21-May,Miami Marlins,5,Washington Nationals,2,Miami Marlins,1.74,2.85
+22-May,Pittsburgh Pirates,5,Chicago Cubs,6,Chicago Cubs,1.9,2.1
+23-May,Los Angeles Dodgers,3,Arizona Diamondbacks,2,Los Angeles Dodgers,1.48,3.1
+24-May,Chicago White Sox,2,Cleveland Guardians,4,Cleveland Guardians,2.36,1.72
+25-May,New York Yankees,5,Boston Red Sox,4,New York Yankees,1.69,2.85
+26-May,Philadelphia Phillies,1,Atlanta Braves,0,Philadelphia Phillies,2.28,2.2
+27-May,Baltimore Orioles,2,Houston Astros,0,Baltimore Orioles,2.78,1.66
+28-May,Cincinnati Reds,1,Milwaukee Brewers,5,Milwaukee Brewers,2.55,1.65
+29-May,Tampa Bay Rays,10,Toronto Blue Jays,5,Toronto Blue Jays,2.07,1.88
+30-May,Pittsburgh Pirates,2,Chicago Cubs,3,Chicago Cubs,1.95,2.09
+31-May,San Diego Padres,4,St.Louis Cardinals,5,St.Louis Cardinals,1.7,2.43
+5-32,Oakland Athletics,5,Seattle Mariners,9,Seattle Mariners,3.16,1.46
+5-33,Colorado Rockies,0,San Francisco Giants,3,San Francisco Giants,2.09,1.91
+5-34,Kansas City Royals,4,Minnesota Twins,1,Kansas City Royals,2.13,1.84
+5-35,Texas Rangers,5,Los Angeles Angels,3,Texas Rangers,1.69,2.68
+5-36,Los Angeles Dodgers,1,Arizona Diamondbacks,6,Arizona Diamondbacks,1.45,3.74
+5-37,Oakland Athletics,2,Seattle Mariners,1,Oakland Athletics,2.98,1.48
+5-38,San Diego Padres,1,St.Louis Cardinals,0,San Diego Padres,1.82,2.24
+5-39,Colorado Rockies,1,San Francisco Giants,6,San Francisco Giants,2.25,1.78
+5-40,Chicago White Sox,2,Cleveland Guardians,8,Cleveland Guardians,2.15,2.18
+5-41,Kansas City Royals,5,Minnesota Twins,2,Kansas City Royals,2.18,1.85
+5-42,Texas Rangers,7,Los Angeles Angels,2,Texas Rangers,1.72,2.34
+5-43,Baltimore Orioles,8,Detroit Tigers,1,Baltimore Orioles,1.7,2.36
+5-44,New York Yankees,14,Pittsburgh Pirates,2,Pittsburgh Pirates,1.37,3.54
+5-45,Philadelphia Phillies,4,Toronto Blue Jays,3,Philadelphia Phillies,1.93,2.02
+5-46,Cincinnati Reds,5,Boston Red Sox,1,Cincinnati Reds,2.34,1.71
+5-47,Miami Marlins,3,Chicago Cubs,4,Chicago Cubs,1.91,2.1
+5-48,Tampa Bay Rays,2,Houston Astros,5,Houston Astros,2.19,1.83
+5-49,Milwaukee Brewers,6,New York Mets,0,Milwaukee Brewers,2.21,1.79
+5-50,Atlanta Braves,2,Washington Nationals,3,Washington Nationals,1.42,3.27
+01-Apr,Chicago Cubs,4,Philadelphia Phillies,2,Chicago Cubs,2.68,1.57
+02-Apr,Boston Red Sox,3,Baltimore Orioles,1,Boston Red Sox,1.83,2.4
+03-Apr,New York Mets,5,Miami Marlins,4,New York Mets,1.54,2.74
+04-Apr,Toronto Blue Jays,3,New York Yankees,8,New York Yankees,2.16,1.85
+05-Apr,Washington Nationals,3,Atlanta Braves,2,Washington Nationals,2.81,1.52
+06-Apr,Detroit Tigers,2,Kansas City Royals,1,Detroit Tigers,1.81,2.23
+07-Apr,Cleveland Guardians,2,Tampa Bay Rays,1,Cleveland Guardians,1.9,2.19
+08-Apr,Pittsburgh Pirates,4,Cincinnati Reds,3,Pittsburgh Pirates,1.87,2.09
+09-Apr,San Francisco Giants,5,Colorado Rockies,2,San Francisco Giants,1.53,2.81
+10-Apr,San Diego Padres,4,Los Angeles Dodgers,3,San Diego Padres,2.2,2
+11-Apr,Seattle Mariners,0,Texas Rangers,5,Texas Rangers,1.53,2.91
+12-Apr,Los Angeles Angels,4,Oakland Athletics,3,Los Angeles Angels,1.52,2.88
+13-Apr,Houston Astros,10,Arizona Diamondbacks,2,Arizona Diamondbacks,1.52,2.89
+14-Apr,Chicago Cubs,2,Philadelphia Phillies,1,Chicago Cubs,2.55,1.63
+15-Apr,Milwaukee Brewers,2,St.Louis Cardinals,6,St.Louis Cardinals,2.07,2.2
+16-Apr,Minnesota Twins,4,Chicago White Sox,0,Minnesota Twins,2.1,1.87
+17-Apr,Boston Red Sox,13,Baltimore Orioles,9,Baltimore Orioles,1.85,2.11
+18-Apr,New York Mets,4,Miami Marlins,6,Miami Marlins,1.56,2.89
+19-Apr,Toronto Blue Jays,2,New York Yankees,5,New York Yankees,2.05,2.04
+20-Apr,Washington Nationals,2,Atlanta Braves,8,Atlanta Braves,2.88,1.5
+21-Apr,Detroit Tigers,4,Kansas City Royals,3,Detroit Tigers,1.9,2.13
+22-Apr,Pittsburgh Pirates,4,Cincinnati Reds,1,Pittsburgh Pirates,1.94,2.04
+23-Apr,Cleveland Guardians,5,Tampa Bay Rays,6,Tampa Bay Rays,1.83,2.38
+24-Apr,Boston Red Sox,8,Baltimore Orioles,14,Boston Red Sox,1.87,2.13
+25-Apr,Toronto Blue Jays,3,New York Yankees,2,Toronto Blue Jays,1.9,2.1
+26-Apr,Washington Nationals,0,Atlanta Braves,8,Atlanta Braves,3.17,1.44
+27-Apr,Pittsburgh Pirates,8,Cincinnati Reds,3,Pittsburgh Pirates,1.86,2.36
+28-Apr,New York Yankees,2,Boston Red Sox,0,New York Yankees,1.58,2.64
+29-Apr,Los Angeles Dodgers,4,St.Louis Cardinals,1,Los Angeles Dodgers,1.69,2.41
+30-Apr,Oakland Athletics,4,New York Mets,13,Oakland Athletics,3.7,1.37
+4-31,Arizona Diamondbacks,2,San Francisco Giants,3,San Francisco Giants,1.84,2.18
+4-32,Colorado Rockies,6,San Diego Padres,13,Colorado Rockies,2.36,1.72
+4-33,Texas Rangers,4,Cleveland Guardians,10,Texas Rangers,2.17,1.81
+4-34,Chicago White Sox,1,Detroit Tigers,4,Detroit Tigers,1.48,3.02
+4-35,Kansas City Royals,13,Seattle Mariners,12,Kansas City Royals,2.6,1.6
+4-36,Minnesota Twins,3,Los Angeles Angels,10,Minnesota Twins,2.02,1.99
+4-37,Cincinnati Reds,2,Milwaukee Brewers,1,Cincinnati Reds,2.33,1.71
+4-38,Miami Marlins,1,Washington Nationals,6,Washington Nationals,1.62,2.62
+4-39,Pittsburgh Pirates,3,Chicago Cubs,8,Chicago Cubs,1.8,2.2
+4-40,Tampa Bay Rays,1,Toronto Blue Jays,7,Toronto Blue Jays,1.75,2.32
+4-41,Baltimore Orioles,3,Houston Astros,6,Houston Astros,2.45,1.68
+4-42,Philadelphia Phillies,7,Atlanta Braves,8,Atlanta Braves,2.25,1.77
+4-43,Los Angeles Dodgers,6,St.Louis Cardinals,2,Los Angeles Dodgers,1.66,2.57
+4-44,Arizona Diamondbacks,5,San Francisco Giants,2,Arizona Diamondbacks,1.86,2.16
+4-45,Colorado Rockies,3,San Diego Padres,9,San Diego Padres,2.98,1.66
+4-46,Chicago White Sox,2,Detroit Tigers,7,Detroit Tigers,1.62,3.2
+4-47,Kansas City Royals,5,Seattle Mariners,6,Seattle Mariners,2.6,1.6
+4-48,Minnesota Twins,8,Los Angeles Angels,4,Minnesota Twins,1.86,2.25
+4-49,Baltimore Orioles,10,Houston Astros,11,Houston Astros,2.8,1.64
+4-50,Texas Rangers,2,Cleveland Guardians,4,Cleveland Guardians,2.25,1.83
+01-Mar,New York Yankees,1,Baltimore Orioles,3,Baltimore Orioles,1.83,2.19
+02-Mar,Detroit Tigers,5,Minnesota Twins,2,Detroit Tigers,2.03,1.97
+03-Mar,Los Angeles Dodgers,6,Colorado Rockies,4,Los Angeles Dodgers,1.4,3.4
+04-Mar,Los Angeles Angels,3,Texas Rangers,2,Los Angeles Angels,1.79,2.27
+05-Mar,San Diego Padres,5,Chicago White Sox,2,San Diego Padres,1.92,2.4
+06-Mar,Atlanta Braves,4,New York Mets,2,Atlanta Braves,2.09,2.05
+07-Mar,Houston Astros,2,Tampa Bay Rays,1,Houston Astros,1.72,2.5
+08-Mar,St.Louis Cardinals,13,Pittsburgh Pirates,3,Pittsburgh Pirates,1.47,3.05
+09-Mar,Milwaukee Brewers,3,Miami Marlins,4,Miami Marlins,1.6,2.65
+10-Mar,Washington Nationals,2,Philadelphia Phillies,8,Philadelphia Phillies,2.76,1.54
+11-Mar,Cleveland Guardians,1,Kansas City Royals,7,Kansas City Royals,1.61,2.85
+12-Mar,Detroit Tigers,3,Minnesota Twins,2,Detroit Tigers,2.16,1.83
+13-Mar,Seattle Mariners,5,Oakland Athletics,1,Seattle Mariners,1.46,3.05
+14-Mar,San Francisco Giants,4,Arizona Diamondbacks,8,Arizona Diamondbacks,1.85,2.14
+15-Mar,Toronto Blue Jays,10,Boston Red Sox,0,Toronto Blue Jays,1.67,2.5
+16-Mar,Chicago Cubs,2,Cincinnati Reds,1,Chicago Cubs,1.8,2.28
+17-Mar,New York Yankees,8,Baltimore Orioles,0,New York Yankees,1.47,3.25
+18-Mar,Washington Nationals,13,Philadelphia Phillies,4,Philadelphia Phillies,2.75,1.53
+19-Mar,San Francisco Giants,10,Arizona Diamondbacks,4,Arizona Diamondbacks,1.77,2.23
+20-Mar,Los Angeles Dodgers,10,Colorado Rockies,1,Los Angeles Dodgers,1.38,4.92
+21-Mar,San Diego Padres,1,Chicago White Sox,3,Chicago White Sox,1.83,3.05
+22-Mar,Seattle Mariners,2,Oakland Athletics,1,Seattle Mariners,1.44,3.2
+23-Mar,Los Angeles Angels,4,Texas Rangers,1,Los Angeles Angels,1.68,2.46
+24-Mar,St.Louis Cardinals,2,Pittsburgh Pirates,1,St.Louis Cardinals,1.52,3.15
+25-Mar,Houston Astros,3,Tampa Bay Rays,7,Tampa Bay Rays,1.62,2.62
+26-Mar,Milwaukee Brewers,1,Miami Marlins,0,Milwaukee Brewers,1.58,2.65
+27-Mar,Atlanta Braves,5,New York Mets,2,Atlanta Braves,2.11,1.93
+28-Mar,Cleveland Guardians,6,Kansas City Royals,3,Cleveland Guardians,1.76,2.7
+29-Mar,Detroit Tigers,0,Minnesota Twins,7,Minnesota Twins,2.38,1.76
+30-Mar,Toronto Blue Jays,9,Boston Red Sox,0,Toronto Blue Jays,1.68,2.82
+31-Mar,New York Yankees,1,Baltimore Orioles,2,Baltimore Orioles,1.6,2.85
+3-32,Chicago Cubs,6,Cincinnati Reds,1,Chicago Cubs,1.67,2.57
+3-33,Washington Nationals,1,Philadelphia Phillies,5,Philadelphia Phillies,2.81,1.59
+3-34,San Francisco Giants,6,Colorado Rockies,4,San Francisco Giants,1.46,3.24
+3-35,San Diego Padres,2,Los Angeles Dodgers,5,Los Angeles Dodgers,2.3,1.77
+3-36,Seattle Mariners,10,Texas Rangers,9,Texas Rangers,1.85,2.13
+3-37,Los Angeles Angels,4,Oakland Athletics,2,Los Angeles Angels,1.39,3.52
+3-38,Milwaukee Brewers,2,Miami Marlins,4,Miami Marlins,1.62,2.53
+3-39,Cleveland Guardians,2,Tampa Bay Rays,1,Cleveland Guardians,2.16,1.85
+3-40,Chicago Cubs,2,Philadelphia Phillies,0,Chicago Cubs,2.65,1.57
+3-41,Boston Red Sox,5,Baltimore Orioles,3,Boston Red Sox,1.71,2.36
+3-42,Detroit Tigers,10,Kansas City Royals,3,Kansas City Royals,1.82,2.18
+3-43,Minnesota Twins,3,Chicago White Sox,4,Chicago White Sox,2.03,1.95
+3-44,San Francisco Giants,6,Colorado Rockies,3,San Francisco Giants,1.65,2.85
+3-45,San Diego Padres,0,Los Angeles Dodgers,1,Los Angeles Dodgers,2.35,1.72
+3-46,Seattle Mariners,3,Texas Rangers,1,Seattle Mariners,1.8,2.52
+3-47,Los Angeles Angels,4,Oakland Athletics,1,Los Angeles Angels,1.58,3.15
+3-48,Houston Astros,2,Arizona Diamondbacks,5,Arizona Diamondbacks,1.65,2.5
+3-49,Milwaukee Brewers,5,St.Louis Cardinals,1,Milwaukee Brewers,1.58,2.66
+3-50,Minnesota Twins,8,Chicago White Sox,4,Minnesota Twins,2,2
+01-Feb,Milwaukee Brewers,2,Arizona Diamondbacks,4,Arizona Diamondbacks,1.61,2.54
+02-Feb,Baltimore Orioles,1,Toronto Blue Jays,5,Toronto Blue Jays,1.71,2.54
+03-Feb,Pittsburgh Pirates,5,St.Louis Cardinals,3,Pittsburgh Pirates,1.85,2.27
+04-Feb,Texas Rangers,4,New York Yankees,2,Texas Rangers,2.03,1.99
+05-Feb,Oakland Athletics,3,Los Angeles Angels,2,Oakland Athletics,3.05,1.46
+06-Feb,Baltimore Orioles,5,Toronto Blue Jays,4,Baltimore Orioles,1.75,2.44
+07-Feb,Los Angeles Dodgers,2,Colorado Rockies,5,Colorado Rockies,1.28,4.32
+08-Feb,Oakland Athletics,2,Los Angeles Angels,1,Oakland Athletics,3.05,1.71
+09-Feb,San Diego Padres,6,San Francisco Giants,2,San Diego Padres,1.75,2.34
+10-Feb,Seattle Mariners,9,Detroit Tigers,6,Seattle Mariners,1.6,2.57
+11-Feb,Chicago White Sox,8,Minnesota Twins,3,Chicago White Sox,1.77,2.22
+12-Feb,Houston Astros,10,Philadelphia Phillies,0,Houston Astros,1.54,3.15
+13-Feb,Texas Rangers,3,New York Yankees,2,Texas Rangers,2.81,1.5
+14-Feb,Milwaukee Brewers,3,Arizona Diamondbacks,0,Milwaukee Brewers,2.05,1.91
+15-Feb,Boston Red Sox,6,Tampa Bay Rays,0,Boston Red Sox,2.06,1.92
+16-Feb,New York Mets,8,Washington Nationals,0,New York Mets,1.4,3.55
+17-Feb,Cincinnati Reds,3,Chicago Cubs,2,Cincinnati Reds,2.02,1.96
+18-Feb,Miami Marlins,1,Atlanta Braves,2,Atlanta Braves,2.57,1.66
+19-Feb,Pittsburgh Pirates,7,St.Louis Cardinals,8,St.Louis Cardinals,2.06,1.92
+20-Feb,Cleveland Guardians,5,Kansas City Royals,3,Cleveland Guardians,1.55,2.71
+21-Feb,Seattle Mariners,7,Detroit Tigers,6,Seattle Mariners,1.68,2.42
+22-Feb,New York Mets,4,Washington Nationals,2,New York Mets,1.38,3.7
+23-Feb,Texas Rangers,4,New York Yankees,5,New York Yankees,1.99,2.03
+24-Feb,Los Angeles Dodgers,1,Colorado Rockies,2,Colorado Rockies,1.3,4.32
+25-Feb,Oakland Athletics,5,Los Angeles Angels,4,Oakland Athletics,2.48,1.74
+26-Feb,San Diego Padres,7,San Francisco Giants,4,San Diego Padres,1.58,2.79
+27-Feb,Seattle Mariners,3,Detroit Tigers,4,Detroit Tigers,1.4,3.34
+28-Feb,Chicago White Sox,3,Minnesota Twins,2,Chicago White Sox,1.91,2.1
+2-29,Houston Astros,0,Philadelphia Phillies,3,Philadelphia Phillies,1.87,2.11
+2-30,Milwaukee Brewers,6,Arizona Diamondbacks,5,Milwaukee Brewers,1.95,3.29
+2-31,Boston Red Sox,4,Tampa Bay Rays,3,Boston Red Sox,2.29,1.86
+2-32,Baltimore Orioles,1,Toronto Blue Jays,5,Toronto Blue Jays,2.11,1.89
+2-33,Texas Rangers,1,New York Yankees,3,New York Yankees,2.37,1.7
+2-34,Cincinnati Reds,3,Chicago Cubs,1,Cincinnati Reds,1.88,2.07
+2-35,Miami Marlins,4,Atlanta Braves,0,Miami Marlins,2.4,1.68
+2-36,Pittsburgh Pirates,3,St.Louis Cardinals,2,Pittsburgh Pirates,2.45,1.68
+2-37,Cleveland Guardians,2,Kansas City Royals,5,Kansas City Royals,1.57,2.71
+2-38,Atlanta Braves,5,New York Mets,3,Atlanta Braves,1.81,2.22
+2-39,Los Angeles Dodgers,1,Colorado Rockies,4,Colorado Rockies,1.41,3.46
+2-40,San Diego Padres,1,Chicago White Sox,2,Chicago White Sox,1.7,2.42
+01-Jan,Houston Astros,4,Philadelphia Phillies,1,Houston Astros,1.73,2.36
+02-Jan,Philadelphia Phillies,2,Houston Astros,3,Houston Astros,2.41,1.7
+03-Jan,Philadelphia Phillies,0,Houston Astros,5,Houston Astros,2.09,2.09
+04-Jan,Philadelphia Phillies,7,Houston Astros,0,Philadelphia Phillies,2.14,1.88
+05-Jan,Houston Astros,5,Philadelphia Phillies,2,Houston Astros,1.73,2.36
+06-Jan,Houston Astros,5,Philadelphia Phillies,6,Philadelphia Phillies,1.66,2.5
+07-Jan,New York Yankees,5,Houston Astros,6,Houston Astros,1.91,2.09
+08-Jan,Philadelphia Phillies,4,San Diego Padres,3,Philadelphia Phillies,1.75,2.3
+09-Jan,Philadelphia Phillies,10,San Diego Padres,6,San Diego Padres,1.94,2.02
+10-Jan,New York Yankees,0,Houston Astros,5,Houston Astros,1.75,2.36
+11-Jan,Philadelphia Phillies,4,San Diego Padres,2,Philadelphia Phillies,2.13,1.82
+12-Jan,Houston Astros,3,New York Yankees,2,Houston Astros,1.74,2.34
+13-Jan,Houston Astros,4,New York Yankees,2,Houston Astros,1.6,2.8
+14-Jan,San Diego Padres,8,Philadelphia Phillies,5,San Diego Padres,0,0
+15-Jan,San Diego Padres,0,Philadelphia Phillies,2,Philadelphia Phillies,1.88,2.1
+16-Jan,New York Yankees,5,Cleveland Guardians,1,New York Yankees,1.64,2.62
+17-Jan,Cleveland Guardians,2,New York Yankees,4,New York Yankees,2.49,1.67
+18-Jan,San Diego Padres,5,Los Angeles Dodgers,3,San Diego Padres,2.1,1.88
+19-Jan,Cleveland Guardians,6,New York Yankees,5,Cleveland Guardians,2.08,1.97
+20-Jan,Seattle Mariners,0,Houston Astros,1,Houston Astros,2.03,1.94
+21-Jan,Philadelphia Phillies,8,Atlanta Braves,3,Philadelphia Phillies,2.16,1.83
+22-Jan,San Diego Padres,2,Los Angeles Dodgers,1,San Diego Padres,2.17,1.81
+23-Jan,Philadelphia Phillies,9,Atlanta Braves,1,Philadelphia Phillies,2.09,1.99
+24-Jan,New York Yankees,2,Cleveland Guardians,4,Cleveland Guardians,1.7,2.45
+25-Jan,Houston Astros,4,Seattle Mariners,2,Houston Astros,1.71,2.44
+26-Jan,Los Angeles Dodgers,3,San Diego Padres,5,San Diego Padres,1.56,2.67
+27-Jan,Atlanta Braves,3,Philadelphia Phillies,0,Atlanta Braves,1.77,2.34
+28-Jan,Los Angeles Dodgers,5,San Diego Padres,3,Los Angeles Dodgers,1.43,3.22
+29-Jan,New York Yankees,4,Cleveland Guardians,1,New York Yankees,1.55,2.8
+30-Jan,Houston Astros,8,Seattle Mariners,7,Houston Astros,1.49,3.18
+30-Jan,Houston Astros,8,Seattle Mariners,7,Houston Astros,1.49,3.18

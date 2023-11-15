@@ -1,0 +1,2157 @@
+,timeGame,team1Name,team1Score,team1Odds,team2Name,team2Score,team2Odds
+0,16:05,Chicago Cubs,5,1.66,Oakland Athletics,4,2.15
+1,16:05,Los Angeles Dodgers,6,1.55,Cleveland Guardians,2,2.36
+2,16:05,San Francisco Giants,3,1.53,Arizona Diamondbacks,5,2.41
+3,16:05,Texas Rangers,14,2.20,Chicago White Sox,5,1.64
+4,13:05,Atlanta Braves,7,1.78,Tampa Bay Rays,7,1.98
+5,13:05,Boston Red Sox,4,1.70,Minnesota Twins,10,2.08
+6,13:05,Detroit Tigers,6,1.46,Pittsburgh Pirates,6,2.61
+7,13:05,Houston Astros,10,1.75,St.Louis Cardinals,3,2.02
+8,13:05,Miami Marlins,3,1.95,Washington Nationals,2,1.80
+9,13:05,Philadelphia Phillies,8,1.56,Toronto Blue Jays,7,2.34
+10,18:10,New York Mets,2,1.52,Houston Astros,0,2.46
+11,16:10,Arizona Diamondbacks,1,1.96,Texas Rangers,4,1.80
+12,16:10,Los Angeles Angels,7,1.66,Colorado Rockies,4,2.17
+13,16:10,Milwaukee Brewers,3,2.33,Chicago White Sox,4,1.57
+14,16:10,Seattle Mariners,5,1.69,Chicago Cubs,5,2.12
+15,16:05,Cleveland Guardians,6,1.70,San Diego Padres,1,2.09
+16,16:05,Kansas City Royals,5,1.57,Oakland Athletics,3,2.34
+17,16:05,Los Angeles Dodgers,8,1.48,Cincinnati Reds,10,2.55
+18,13:07,Toronto Blue Jays,9,1.51,New York Yankees,2,2.47
+19,13:05,Minnesota Twins,0,1.73,Atlanta Braves,4,2.05
+20,16:05,Chicago Cubs,5,1.66,Oakland Athletics,4,2.15
+21,16:05,Los Angeles Dodgers,6,1.55,Cleveland Guardians,2,2.36
+22,16:05,San Francisco Giants,3,1.53,Arizona Diamondbacks,5,2.41
+23,16:05,Texas Rangers,14,2.20,Chicago White Sox,5,1.64
+24,13:05,Atlanta Braves,7,1.78,Tampa Bay Rays,7,1.98
+25,13:05,Boston Red Sox,4,1.70,Minnesota Twins,10,2.08
+26,13:05,Detroit Tigers,6,1.46,Pittsburgh Pirates,6,2.61
+27,13:05,Houston Astros,10,1.75,St.Louis Cardinals,3,2.02
+28,13:05,Miami Marlins,3,1.95,Washington Nationals,2,1.80
+29,13:05,Philadelphia Phillies,8,1.56,Toronto Blue Jays,7,2.34
+30,18:10,New York Mets,2,1.52,Houston Astros,0,2.46
+31,16:10,Arizona Diamondbacks,1,1.96,Texas Rangers,4,1.80
+32,16:10,Los Angeles Angels,7,1.66,Colorado Rockies,4,2.17
+33,16:10,Milwaukee Brewers,3,2.33,Chicago White Sox,4,1.57
+34,16:10,Seattle Mariners,5,1.69,Chicago Cubs,5,2.12
+35,16:05,Cleveland Guardians,6,1.70,San Diego Padres,1,2.09
+36,16:05,Kansas City Royals,5,1.57,Oakland Athletics,3,2.34
+37,16:05,Los Angeles Dodgers,8,1.48,Cincinnati Reds,10,2.55
+38,13:07,Toronto Blue Jays,9,1.51,New York Yankees,2,2.47
+39,13:05,Minnesota Twins,0,1.73,Atlanta Braves,4,2.05
+40,16:05,Chicago Cubs,5,1.66,Oakland Athletics,4,2.15
+41,16:05,Los Angeles Dodgers,6,1.55,Cleveland Guardians,2,2.36
+42,16:05,San Francisco Giants,3,1.53,Arizona Diamondbacks,5,2.41
+43,16:05,Texas Rangers,14,2.20,Chicago White Sox,5,1.64
+44,13:05,Atlanta Braves,7,1.78,Tampa Bay Rays,7,1.98
+45,13:05,Boston Red Sox,4,1.70,Minnesota Twins,10,2.08
+46,13:05,Detroit Tigers,6,1.46,Pittsburgh Pirates,6,2.61
+47,13:05,Houston Astros,10,1.75,St.Louis Cardinals,3,2.02
+48,13:05,Miami Marlins,3,1.95,Washington Nationals,2,1.80
+49,13:05,Philadelphia Phillies,8,1.56,Toronto Blue Jays,7,2.34
+50,18:10,New York Mets,2,1.52,Houston Astros,0,2.46
+51,16:10,Arizona Diamondbacks,1,1.96,Texas Rangers,4,1.80
+52,16:10,Los Angeles Angels,7,1.66,Colorado Rockies,4,2.17
+53,16:10,Milwaukee Brewers,3,2.33,Chicago White Sox,4,1.57
+54,16:10,Seattle Mariners,5,1.69,Chicago Cubs,5,2.12
+55,16:05,Cleveland Guardians,6,1.70,San Diego Padres,1,2.09
+56,16:05,Kansas City Royals,5,1.57,Oakland Athletics,3,2.34
+57,16:05,Los Angeles Dodgers,8,1.48,Cincinnati Reds,10,2.55
+58,13:07,Toronto Blue Jays,9,1.51,New York Yankees,2,2.47
+59,13:05,Minnesota Twins,0,1.73,Atlanta Braves,4,2.05
+60,16:05,Chicago Cubs,5,1.66,Oakland Athletics,4,2.15
+61,16:05,Los Angeles Dodgers,6,1.55,Cleveland Guardians,2,2.36
+62,16:05,San Francisco Giants,3,1.53,Arizona Diamondbacks,5,2.41
+63,16:05,Texas Rangers,14,2.20,Chicago White Sox,5,1.64
+64,13:05,Atlanta Braves,7,1.78,Tampa Bay Rays,7,1.98
+65,13:05,Boston Red Sox,4,1.70,Minnesota Twins,10,2.08
+66,13:05,Detroit Tigers,6,1.46,Pittsburgh Pirates,6,2.61
+67,13:05,Houston Astros,10,1.75,St.Louis Cardinals,3,2.02
+68,13:05,Miami Marlins,3,1.95,Washington Nationals,2,1.80
+69,13:05,Philadelphia Phillies,8,1.56,Toronto Blue Jays,7,2.34
+70,18:10,New York Mets,2,1.52,Houston Astros,0,2.46
+71,16:10,Arizona Diamondbacks,1,1.96,Texas Rangers,4,1.80
+72,16:10,Los Angeles Angels,7,1.66,Colorado Rockies,4,2.17
+73,16:10,Milwaukee Brewers,3,2.33,Chicago White Sox,4,1.57
+74,16:10,Seattle Mariners,5,1.69,Chicago Cubs,5,2.12
+75,16:05,Cleveland Guardians,6,1.70,San Diego Padres,1,2.09
+76,16:05,Kansas City Royals,5,1.57,Oakland Athletics,3,2.34
+77,16:05,Los Angeles Dodgers,8,1.48,Cincinnati Reds,10,2.55
+78,13:07,Toronto Blue Jays,9,1.51,New York Yankees,2,2.47
+79,13:05,Minnesota Twins,0,1.73,Atlanta Braves,4,2.05
+80,13:05,Baltimore Orioles,5,2.05,Detroit Tigers,4,1.77
+81,13:05,Miami Marlins,3,1.81,Houston Astros,4,1.93
+82,13:05,Minnesota Twins,6,1.72,Boston Red Sox,3,2.12
+83,13:05,New York Yankees,7,1.46,Pittsburgh Pirates,4,2.59
+84,21:05,Kansas City Royals,5,1.99,Los Angeles Dodgers,10,1.77
+85,18:05,Baltimore Orioles,14,1.66,Pittsburgh Pirates,5,2.16
+86,16:10,Colorado Rockies,8,1.84,Texas Rangers,7,1.92
+87,16:10,Milwaukee Brewers,7,1.56,Seattle Mariners,7,2.36
+88,16:10,San Diego Padres,2,1.59,Chicago Cubs,2,2.29
+89,16:05,Chicago White Sox,3,1.61,Los Angeles Angels,12,2.25
+90,16:05,Cleveland Guardians,9,1.62,Oakland Athletics,2,2.24
+91,16:05,San Francisco Giants,1,1.69,Cincinnati Reds,2,2.12
+92,13:10,New York Mets,4,1.54,Washington Nationals,2,2.40
+93,13:05,Atlanta Braves,8,1.69,Minnesota Twins,6,2.11
+94,13:05,Boston Red Sox,5,1.71,Tampa Bay Rays,3,2.08
+95,13:05,Detroit Tigers,14,1.71,Philadelphia Phillies,8,2.07
+96,13:05,New York Yankees,9,1.81,Toronto Blue Jays,10,1.94
+97,13:05,St.Louis Cardinals,2,1.91,Miami Marlins,9,1.85
+98,21:40,Seattle Mariners,3,1.79,Chicago White Sox,0,1.96
+99,21:05,Los Angeles Dodgers,5,1.61,San Diego Padres,5,2.28
+100,13:05,Baltimore Orioles,5,2.05,Detroit Tigers,4,1.77
+101,13:05,Miami Marlins,3,1.81,Houston Astros,4,1.93
+102,13:05,Minnesota Twins,6,1.72,Boston Red Sox,3,2.12
+103,13:05,New York Yankees,7,1.46,Pittsburgh Pirates,4,2.59
+104,21:05,Kansas City Royals,5,1.99,Los Angeles Dodgers,10,1.77
+105,18:05,Baltimore Orioles,14,1.66,Pittsburgh Pirates,5,2.16
+106,16:10,Colorado Rockies,8,1.84,Texas Rangers,7,1.92
+107,16:10,Milwaukee Brewers,7,1.56,Seattle Mariners,7,2.36
+108,16:10,San Diego Padres,2,1.59,Chicago Cubs,2,2.29
+109,16:05,Chicago White Sox,3,1.61,Los Angeles Angels,12,2.25
+110,16:05,Cleveland Guardians,9,1.62,Oakland Athletics,2,2.24
+111,16:05,San Francisco Giants,1,1.69,Cincinnati Reds,2,2.12
+112,13:10,New York Mets,4,1.54,Washington Nationals,2,2.40
+113,13:05,Atlanta Braves,8,1.69,Minnesota Twins,6,2.11
+114,13:05,Boston Red Sox,5,1.71,Tampa Bay Rays,3,2.08
+115,13:05,Detroit Tigers,14,1.71,Philadelphia Phillies,8,2.07
+116,13:05,New York Yankees,9,1.81,Toronto Blue Jays,10,1.94
+117,13:05,St.Louis Cardinals,2,1.91,Miami Marlins,9,1.85
+118,21:40,Seattle Mariners,3,1.79,Chicago White Sox,0,1.96
+119,21:05,Los Angeles Dodgers,5,1.61,San Diego Padres,5,2.28
+120,13:05,Atlanta Braves,1,1.77,Tampa Bay Rays,5,1.99
+121,13:05,Boston Red Sox,4,1.65,Minnesota Twins,3,2.17
+122,13:05,Pittsburgh Pirates,4,1.82,Baltimore Orioles,4,1.93
+123,21:05,Cleveland Guardians,1,2.46,Los Angeles Dodgers,12,1.52
+124,18:35,New York Yankees,3,1.75,Toronto Blue Jays,11,2.02
+125,18:10,New York Mets,3,1.84,Houston Astros,5,1.91
+126,16:10,Colorado Rockies,2,1.73,Arizona Diamondbacks,9,2.07
+127,16:10,San Diego Padres,4,1.63,Milwaukee Brewers,2,2.25
+128,16:05,Chicago Cubs,8,2.04,Seattle Mariners,5,1.74
+129,16:05,Chicago White Sox,7,1.56,Texas Rangers,0,2.37
+130,16:05,Kansas City Royals,5,1.67,San Francisco Giants,9,2.17
+131,16:05,Oakland Athletics,5,1.86,Cincinnati Reds,4,1.89
+132,13:05,Baltimore Orioles,7,1.88,Tampa Bay Rays,6,1.89
+133,13:05,Boston Red Sox,10,1.75,Atlanta Braves,7,2.01
+134,13:05,Minnesota Twins,9,1.44,Pittsburgh Pirates,4,2.69
+135,13:05,Philadelphia Phillies,1,1.64,Detroit Tigers,7,2.20
+136,13:05,Washington Nationals,8,2.14,St.Louis Cardinals,29,1.68
+137,21:05,Los Angeles Dodgers,6,1.43,Oakland Athletics,4,2.73
+138,18:40,Miami Marlins,0,1.93,New York Mets,10,1.83
+139,16:10,Colorado Rockies,2,1.78,Los Angeles Angels,8,1.99
+140,13:05,Atlanta Braves,1,1.77,Tampa Bay Rays,5,1.99
+141,13:05,Boston Red Sox,4,1.65,Minnesota Twins,3,2.17
+142,13:05,Pittsburgh Pirates,4,1.82,Baltimore Orioles,4,1.93
+143,21:05,Cleveland Guardians,1,2.46,Los Angeles Dodgers,12,1.52
+144,18:35,New York Yankees,3,1.75,Toronto Blue Jays,11,2.02
+145,18:10,New York Mets,3,1.84,Houston Astros,5,1.91
+146,16:10,Colorado Rockies,2,1.73,Arizona Diamondbacks,9,2.07
+147,16:10,San Diego Padres,4,1.63,Milwaukee Brewers,2,2.25
+148,16:05,Chicago Cubs,8,2.04,Seattle Mariners,5,1.74
+149,16:05,Chicago White Sox,7,1.56,Texas Rangers,0,2.37
+150,16:05,Kansas City Royals,5,1.67,San Francisco Giants,9,2.17
+151,16:05,Oakland Athletics,5,1.86,Cincinnati Reds,4,1.89
+152,13:05,Baltimore Orioles,7,1.88,Tampa Bay Rays,6,1.89
+153,13:05,Boston Red Sox,10,1.75,Atlanta Braves,7,2.01
+154,13:05,Minnesota Twins,9,1.44,Pittsburgh Pirates,4,2.69
+155,13:05,Philadelphia Phillies,1,1.64,Detroit Tigers,7,2.20
+156,13:05,Washington Nationals,8,2.14,St.Louis Cardinals,29,1.68
+157,21:05,Los Angeles Dodgers,6,1.43,Oakland Athletics,4,2.73
+158,18:40,Miami Marlins,0,1.93,New York Mets,10,1.83
+159,16:10,Colorado Rockies,2,1.78,Los Angeles Angels,8,1.99
+160,21:05,Los Angeles Angels,5,2.08,Los Angeles Dodgers,1,1.70
+161,16:10,Arizona Diamondbacks,4,1.83,Cincinnati Reds,15,1.94
+162,16:10,Milwaukee Brewers,2,1.49,Texas Rangers,13,2.57
+163,16:05,Chicago White Sox,4,1.45,Colorado Rockies,13,2.65
+164,16:05,Kansas City Royals,8,1.60,Seattle Mariners,10,2.27
+165,16:05,Oakland Athletics,8,2.27,San Diego Padres,2,1.60
+166,13:10,New York Mets,8,1.52,Miami Marlins,4,2.47
+167,13:07,Toronto Blue Jays,7,1.56,New York Yankees,5,2.36
+168,13:05,Atlanta Braves,3,1.75,Boston Red Sox,6,2.01
+169,13:05,Minnesota Twins,8,1.46,Baltimore Orioles,2,2.62
+170,13:05,Philadelphia Phillies,8,1.61,Detroit Tigers,7,2.24
+171,13:05,Pittsburgh Pirates,2,2.31,Tampa Bay Rays,9,1.58
+172,13:05,Washington Nationals,9,2.36,Houston Astros,6,1.55
+173,21:40,Seattle Mariners,4,2.00,Milwaukee Brewers,3,1.77
+174,21:10,Arizona Diamondbacks,8,2.16,Chicago White Sox,4,1.66
+175,21:05,Cincinnati Reds,6,1.66,San Diego Padres,3,2.14
+176,21:05,Texas Rangers,3,2.13,Cleveland Guardians,1,1.69
+177,16:05,Oakland Athletics,11,1.60,Colorado Rockies,11,2.27
+178,21:05,Los Angeles Angels,5,2.08,Los Angeles Dodgers,1,1.70
+179,16:10,Arizona Diamondbacks,4,1.83,Cincinnati Reds,15,1.94
+180,16:10,Milwaukee Brewers,2,1.49,Texas Rangers,13,2.57
+181,16:05,Chicago White Sox,4,1.45,Colorado Rockies,13,2.65
+182,16:05,Kansas City Royals,8,1.60,Seattle Mariners,10,2.27
+183,16:05,Oakland Athletics,8,2.27,San Diego Padres,2,1.60
+184,13:10,New York Mets,8,1.52,Miami Marlins,4,2.47
+185,13:07,Toronto Blue Jays,7,1.56,New York Yankees,5,2.36
+186,13:05,Atlanta Braves,3,1.75,Boston Red Sox,6,2.01
+187,13:05,Minnesota Twins,8,1.46,Baltimore Orioles,2,2.62
+188,13:05,Philadelphia Phillies,8,1.61,Detroit Tigers,7,2.24
+189,13:05,Pittsburgh Pirates,2,2.31,Tampa Bay Rays,9,1.58
+190,13:05,Washington Nationals,9,2.36,Houston Astros,6,1.55
+191,21:40,Seattle Mariners,4,2.00,Milwaukee Brewers,3,1.77
+192,21:10,Arizona Diamondbacks,8,2.16,Chicago White Sox,4,1.66
+193,21:05,Cincinnati Reds,6,1.66,San Diego Padres,3,2.14
+194,21:05,Texas Rangers,3,2.13,Cleveland Guardians,1,1.69
+195,16:05,Oakland Athletics,11,1.60,Colorado Rockies,11,2.27
+196,13:10,Detroit Tigers,2,2.17,Chicago White Sox,5,1.74
+197,13:10,Tampa Bay Rays,5,1.44,Baltimore Orioles,3,2.92
+198,21:40,Arizona Diamondbacks,0,2.24,San Diego Padres,3,1.69
+199,21:38,Los Angeles Angels,6,1.83,Houston Astros,13,2.05
+200,19:20,Atlanta Braves,7,1.54,Cincinnati Reds,6,2.57
+201,19:07,Toronto Blue Jays,10,1.58,Texas Rangers,8,2.47
+202,19:05,Washington Nationals,3,2.38,New York Mets,7,1.62
+203,16:35,San Francisco Giants,6,1.68,Miami Marlins,5,2.27
+204,16:10,Colorado Rockies,3,2.78,Los Angeles Dodgers,5,1.47
+205,16:10,Minnesota Twins,1,1.82,Seattle Mariners,2,2.04
+206,15:10,Tampa Bay Rays,2,1.51,Baltimore Orioles,1,2.67
+207,15:05,Philadelphia Phillies,9,1.51,Oakland Athletics,5,2.68
+208,13:10,Detroit Tigers,5,2.17,Chicago White Sox,4,1.73
+209,13:05,New York Yankees,6,1.57,Boston Red Sox,5,2.52
+210,21:40,Arizona Diamondbacks,4,2.19,San Diego Padres,2,1.73
+211,21:38,Los Angeles Angels,1,1.80,Houston Astros,3,2.07
+212,20:08,Atlanta Braves,3,1.56,Cincinnati Reds,6,2.51
+213,19:05,Washington Nationals,1,2.08,New York Mets,5,1.79
+214,16:15,St.Louis Cardinals,9,1.61,Pittsburgh Pirates,0,2.41
+215,16:10,Kansas City Royals,3,2.06,Cleveland Guardians,1,1.81
+216,13:10,Detroit Tigers,2,2.17,Chicago White Sox,5,1.74
+217,13:10,Tampa Bay Rays,5,1.44,Baltimore Orioles,3,2.92
+218,21:40,Arizona Diamondbacks,0,2.24,San Diego Padres,3,1.69
+219,21:38,Los Angeles Angels,6,1.83,Houston Astros,13,2.05
+220,19:20,Atlanta Braves,7,1.54,Cincinnati Reds,6,2.57
+221,19:07,Toronto Blue Jays,10,1.58,Texas Rangers,8,2.47
+222,19:05,Washington Nationals,3,2.38,New York Mets,7,1.62
+223,16:35,San Francisco Giants,6,1.68,Miami Marlins,5,2.27
+224,16:10,Colorado Rockies,3,2.78,Los Angeles Dodgers,5,1.47
+225,16:10,Minnesota Twins,1,1.82,Seattle Mariners,2,2.04
+226,15:10,Tampa Bay Rays,2,1.51,Baltimore Orioles,1,2.67
+227,15:05,Philadelphia Phillies,9,1.51,Oakland Athletics,5,2.68
+228,13:10,Detroit Tigers,5,2.17,Chicago White Sox,4,1.73
+229,13:05,New York Yankees,6,1.57,Boston Red Sox,5,2.52
+230,21:40,Arizona Diamondbacks,4,2.19,San Diego Padres,2,1.73
+231,21:38,Los Angeles Angels,1,1.80,Houston Astros,3,2.07
+232,20:08,Atlanta Braves,3,1.56,Cincinnati Reds,6,2.51
+233,19:05,Washington Nationals,1,2.08,New York Mets,5,1.79
+234,16:15,St.Louis Cardinals,9,1.61,Pittsburgh Pirates,0,2.41
+235,16:10,Kansas City Royals,3,2.06,Cleveland Guardians,1,1.81
+236,19:40,Minnesota Twins,2,2.27,Los Angeles Dodgers,7,1.67
+237,19:20,Atlanta Braves,16,1.57,Washington Nationals,4,2.50
+238,19:07,Los Angeles Angels,4,1.66,Miami Marlins,3,2.31
+239,19:05,Baltimore Orioles,4,2.43,Milwaukee Brewers,5,1.60
+240,19:05,New York Yankees,4,1.77,Toronto Blue Jays,0,2.13
+241,18:45,Philadelphia Phillies,0,1.69,New York Mets,2,2.24
+242,18:40,Tampa Bay Rays,9,1.49,Oakland Athletics,8,2.75
+243,16:12,Pittsburgh Pirates,1,2.01,Chicago Cubs,2,1.85
+244,16:10,Chicago White Sox,3,1.85,Seattle Mariners,2,2.01
+245,16:10,Cincinnati Reds,5,1.91,Cleveland Guardians,10,1.95
+246,13:10,Detroit Tigers,3,2.06,Boston Red Sox,5,1.82
+247,21:45,San Francisco Giants,2,1.64,San Diego Padres,4,2.33
+248,21:38,Los Angeles Angels,6,1.79,Miami Marlins,2,2.08
+249,19:40,Minnesota Twins,4,1.77,Seattle Mariners,0,2.13
+250,19:20,Atlanta Braves,2,1.43,Washington Nationals,11,2.95
+251,19:05,New York Yankees,0,1.84,Toronto Blue Jays,3,2.03
+252,18:45,Philadelphia Phillies,5,1.68,New York Mets,4,2.25
+253,18:40,Tampa Bay Rays,2,1.44,Oakland Athletics,13,2.93
+254,17:10,Detroit Tigers,3,2.07,Boston Red Sox,1,1.81
+255,16:05,Texas Rangers,4,1.75,Colorado Rockies,6,2.13
+256,19:40,Minnesota Twins,2,2.27,Los Angeles Dodgers,7,1.67
+257,19:20,Atlanta Braves,16,1.57,Washington Nationals,4,2.50
+258,19:07,Los Angeles Angels,4,1.66,Miami Marlins,3,2.31
+259,19:05,Baltimore Orioles,4,2.43,Milwaukee Brewers,5,1.60
+260,19:05,New York Yankees,4,1.77,Toronto Blue Jays,0,2.13
+261,18:45,Philadelphia Phillies,0,1.69,New York Mets,2,2.24
+262,18:40,Tampa Bay Rays,9,1.49,Oakland Athletics,8,2.75
+263,16:12,Pittsburgh Pirates,1,2.01,Chicago Cubs,2,1.85
+264,16:10,Chicago White Sox,3,1.85,Seattle Mariners,2,2.01
+265,16:10,Cincinnati Reds,5,1.91,Cleveland Guardians,10,1.95
+266,13:10,Detroit Tigers,3,2.06,Boston Red Sox,5,1.82
+267,21:45,San Francisco Giants,2,1.64,San Diego Padres,4,2.33
+268,21:38,Los Angeles Angels,6,1.79,Miami Marlins,2,2.08
+269,19:40,Minnesota Twins,4,1.77,Seattle Mariners,0,2.13
+270,19:20,Atlanta Braves,2,1.43,Washington Nationals,11,2.95
+271,19:05,New York Yankees,0,1.84,Toronto Blue Jays,3,2.03
+272,18:45,Philadelphia Phillies,5,1.68,New York Mets,4,2.25
+273,18:40,Tampa Bay Rays,2,1.44,Oakland Athletics,13,2.93
+274,17:10,Detroit Tigers,3,2.07,Boston Red Sox,1,1.81
+275,16:05,Texas Rangers,4,1.75,Colorado Rockies,6,2.13
+276,18:10,Cleveland Guardians,2,1.92,San Francisco Giants,4,1.93
+277,18:10,Miami Marlins,3,1.71,Philadelphia Phillies,10,2.21
+278,16:10,Boston Red Sox,4,1.71,Minnesota Twins,0,2.21
+279,16:10,Kansas City Royals,3,1.67,Detroit Tigers,1,2.29
+280,16:05,San Diego Padres,2,1.90,Atlanta Braves,5,1.96
+281,15:07,Toronto Blue Jays,5,1.47,Oakland Athletics,7,2.80
+282,14:10,Chicago White Sox,3,1.74,Tampa Bay Rays,2,2.18
+283,13:10,New York Mets,2,1.61,Arizona Diamondbacks,3,2.40
+284,22:10,Los Angeles Dodgers,3,1.36,Cincinnati Reds,1,3.31
+285,21:42,Seattle Mariners,11,2.05,Houston Astros,1,1.81
+286,21:40,San Diego Padres,2,1.89,Atlanta Braves,5,1.97
+287,20:40,Colorado Rockies,6,1.82,Chicago Cubs,5,2.05
+288,20:10,Kansas City Royals,1,1.78,Detroit Tigers,2,2.11
+289,20:10,Milwaukee Brewers,1,1.65,St.Louis Cardinals,10,2.33
+290,20:05,Texas Rangers,6,2.01,Los Angeles Angels,9,1.85
+291,19:10,Chicago White Sox,3,1.71,Tampa Bay Rays,2,2.22
+292,19:10,Cleveland Guardians,1,2.32,San Francisco Giants,4,1.65
+293,19:07,Toronto Blue Jays,4,1.50,Oakland Athletics,1,2.71
+294,19:05,Baltimore Orioles,2,2.76,New York Yankees,1,1.49
+295,18:40,Miami Marlins,7,1.77,Philadelphia Phillies,1,2.11
+296,18:10,Cleveland Guardians,2,1.92,San Francisco Giants,4,1.93
+297,18:10,Miami Marlins,3,1.71,Philadelphia Phillies,10,2.21
+298,16:10,Boston Red Sox,4,1.71,Minnesota Twins,0,2.21
+299,16:10,Kansas City Royals,3,1.67,Detroit Tigers,1,2.29
+300,16:05,San Diego Padres,2,1.90,Atlanta Braves,5,1.96
+301,15:07,Toronto Blue Jays,5,1.47,Oakland Athletics,7,2.80
+302,14:10,Chicago White Sox,3,1.74,Tampa Bay Rays,2,2.18
+303,13:10,New York Mets,2,1.61,Arizona Diamondbacks,3,2.40
+304,22:10,Los Angeles Dodgers,3,1.36,Cincinnati Reds,1,3.31
+305,21:42,Seattle Mariners,11,2.05,Houston Astros,1,1.81
+306,21:40,San Diego Padres,2,1.89,Atlanta Braves,5,1.97
+307,20:40,Colorado Rockies,6,1.82,Chicago Cubs,5,2.05
+308,20:10,Kansas City Royals,1,1.78,Detroit Tigers,2,2.11
+309,20:10,Milwaukee Brewers,1,1.65,St.Louis Cardinals,10,2.33
+310,20:05,Texas Rangers,6,2.01,Los Angeles Angels,9,1.85
+311,19:10,Chicago White Sox,3,1.71,Tampa Bay Rays,2,2.22
+312,19:10,Cleveland Guardians,1,2.32,San Francisco Giants,4,1.65
+313,19:07,Toronto Blue Jays,4,1.50,Oakland Athletics,1,2.71
+314,19:05,Baltimore Orioles,2,2.76,New York Yankees,1,1.49
+315,18:40,Miami Marlins,7,1.77,Philadelphia Phillies,1,2.11
+316,16:10,San Diego Padres,6,1.52,Cincinnati Reds,0,2.67
+317,15:10,Colorado Rockies,6,1.98,Philadelphia Phillies,9,1.89
+318,15:10,Los Angeles Dodgers,5,1.76,Atlanta Braves,1,2.14
+319,14:10,Cleveland Guardians,11,1.62,Chicago White Sox,1,2.42
+320,13:40,Milwaukee Brewers,4,1.41,Pittsburgh Pirates,2,3.03
+321,22:10,Los Angeles Dodgers,1,1.64,Atlanta Braves,3,2.36
+322,21:40,Oakland Athletics,2,1.82,Baltimore Orioles,1,2.06
+323,21:40,San Diego Padres,6,1.47,Cincinnati Reds,2,2.83
+324,21:40,Seattle Mariners,6,1.68,Texas Rangers,2,2.27
+325,20:40,Colorado Rockies,6,2.16,Philadelphia Phillies,5,1.74
+326,20:10,Houston Astros,2,1.63,Los Angeles Angels,7,2.35
+327,20:10,Kansas City Royals,4,2.09,Minnesota Twins,3,1.78
+328,19:40,Chicago Cubs,5,2.09,Tampa Bay Rays,6,1.79
+329,19:40,Milwaukee Brewers,5,1.38,Pittsburgh Pirates,2,3.19
+330,19:10,Boston Red Sox,2,1.76,Toronto Blue Jays,1,2.12
+331,19:05,Washington Nationals,1,1.78,Arizona Diamondbacks,0,2.08
+332,18:40,Detroit Tigers,2,2.86,New York Yankees,4,1.46
+333,18:40,Miami Marlins,1,2.00,St.Louis Cardinals,5,1.87
+334,18:10,New York Mets,3,2.00,San Francisco Giants,1,2.00
+335,15:10,New York Mets,5,1.79,San Francisco Giants,4,2.06
+336,16:10,San Diego Padres,6,1.52,Cincinnati Reds,0,2.67
+337,15:10,Colorado Rockies,6,1.98,Philadelphia Phillies,9,1.89
+338,15:10,Los Angeles Dodgers,5,1.76,Atlanta Braves,1,2.14
+339,14:10,Cleveland Guardians,11,1.62,Chicago White Sox,1,2.42
+340,13:40,Milwaukee Brewers,4,1.41,Pittsburgh Pirates,2,3.03
+341,22:10,Los Angeles Dodgers,1,1.64,Atlanta Braves,3,2.36
+342,21:40,Oakland Athletics,2,1.82,Baltimore Orioles,1,2.06
+343,21:40,San Diego Padres,6,1.47,Cincinnati Reds,2,2.83
+344,21:40,Seattle Mariners,6,1.68,Texas Rangers,2,2.27
+345,20:40,Colorado Rockies,6,2.16,Philadelphia Phillies,5,1.74
+346,20:10,Houston Astros,2,1.63,Los Angeles Angels,7,2.35
+347,20:10,Kansas City Royals,4,2.09,Minnesota Twins,3,1.78
+348,19:40,Chicago Cubs,5,2.09,Tampa Bay Rays,6,1.79
+349,19:40,Milwaukee Brewers,5,1.38,Pittsburgh Pirates,2,3.19
+350,19:10,Boston Red Sox,2,1.76,Toronto Blue Jays,1,2.12
+351,19:05,Washington Nationals,1,1.78,Arizona Diamondbacks,0,2.08
+352,18:40,Detroit Tigers,2,2.86,New York Yankees,4,1.46
+353,18:40,Miami Marlins,1,2.00,St.Louis Cardinals,5,1.87
+354,18:10,New York Mets,3,2.00,San Francisco Giants,1,2.00
+355,15:10,New York Mets,5,1.79,San Francisco Giants,4,2.06
+356,21:07,Los Angeles Angels,4,1.37,Baltimore Orioles,5,3.22
+357,20:40,San Diego Padres,3,2.20,Los Angeles Dodgers,2,1.73
+358,20:10,Arizona Diamondbacks,5,2.37,New York Mets,2,1.63
+359,19:20,Atlanta Braves,7,1.63,Miami Marlins,9,2.37
+360,18:40,Detroit Tigers,2,1.85,Colorado Rockies,3,2.01
+361,18:10,Tampa Bay Rays,3,1.68,Boston Red Sox,2,2.29
+362,16:10,Cincinnati Reds,0,1.84,St.Louis Cardinals,5,2.03
+363,16:10,Houston Astros,2,2.13,Toronto Blue Jays,3,1.78
+364,16:07,Oakland Athletics,0,1.68,Texas Rangers,2,2.28
+365,16:05,Minnesota Twins,9,1.67,Chicago White Sox,2,2.30
+366,16:05,Philadelphia Phillies,3,1.70,Milwaukee Brewers,5,2.25
+367,14:20,Chicago Cubs,21,1.58,Pittsburgh Pirates,0,2.48
+368,13:10,Detroit Tigers,13,1.71,Colorado Rockies,0,2.21
+369,13:05,New York Yankees,5,1.52,Cleveland Guardians,4,2.65
+370,13:05,Washington Nationals,2,2.49,San Francisco Giants,5,1.58
+371,21:40,Arizona Diamondbacks,5,2.08,New York Mets,6,1.80
+372,21:40,Oakland Athletics,1,2.17,Texas Rangers,8,1.74
+373,21:40,San Diego Padres,1,2.30,Los Angeles Dodgers,6,1.66
+374,21:40,Seattle Mariners,4,1.75,Kansas City Royals,1,2.15
+375,21:38,Los Angeles Angels,3,1.52,Baltimore Orioles,5,2.68
+376,21:07,Los Angeles Angels,4,1.37,Baltimore Orioles,5,3.22
+377,20:40,San Diego Padres,3,2.20,Los Angeles Dodgers,2,1.73
+378,20:10,Arizona Diamondbacks,5,2.37,New York Mets,2,1.63
+379,19:20,Atlanta Braves,7,1.63,Miami Marlins,9,2.37
+380,18:40,Detroit Tigers,2,1.85,Colorado Rockies,3,2.01
+381,18:10,Tampa Bay Rays,3,1.68,Boston Red Sox,2,2.29
+382,16:10,Cincinnati Reds,0,1.84,St.Louis Cardinals,5,2.03
+383,16:10,Houston Astros,2,2.13,Toronto Blue Jays,3,1.78
+384,16:07,Oakland Athletics,0,1.68,Texas Rangers,2,2.28
+385,16:05,Minnesota Twins,9,1.67,Chicago White Sox,2,2.30
+386,16:05,Philadelphia Phillies,3,1.70,Milwaukee Brewers,5,2.25
+387,14:20,Chicago Cubs,21,1.58,Pittsburgh Pirates,0,2.48
+388,13:10,Detroit Tigers,13,1.71,Colorado Rockies,0,2.21
+389,13:05,New York Yankees,5,1.52,Cleveland Guardians,4,2.65
+390,13:05,Washington Nationals,2,2.49,San Francisco Giants,5,1.58
+391,21:40,Arizona Diamondbacks,5,2.08,New York Mets,6,1.80
+392,21:40,Oakland Athletics,1,2.17,Texas Rangers,8,1.74
+393,21:40,San Diego Padres,1,2.30,Los Angeles Dodgers,6,1.66
+394,21:40,Seattle Mariners,4,1.75,Kansas City Royals,1,2.15
+395,21:38,Los Angeles Angels,3,1.52,Baltimore Orioles,5,2.68
+396,19:40,Minnesota Twins,5,1.52,Detroit Tigers,0,2.65
+397,19:20,Atlanta Braves,3,1.50,Chicago Cubs,6,2.72
+398,19:07,Toronto Blue Jays,1,1.80,Boston Red Sox,7,2.08
+399,19:05,New York Yankees,5,1.39,Baltimore Orioles,2,3.16
+400,19:05,Washington Nationals,1,2.26,Miami Marlins,2,1.69
+401,18:45,Philadelphia Phillies,7,1.48,Colorado Rockies,3,2.77
+402,18:40,Cincinnati Reds,5,2.44,San Diego Padres,8,1.60
+403,18:40,Tampa Bay Rays,3,1.69,Seattle Mariners,2,2.26
+404,18:35,Pittsburgh Pirates,1,2.48,Milwaukee Brewers,3,1.58
+405,15:40,Arizona Diamondbacks,3,2.62,Los Angeles Dodgers,1,1.53
+406,14:10,Chicago White Sox,7,1.53,Kansas City Royals,3,2.62
+407,13:15,St.Louis Cardinals,10,2.01,New York Mets,5,1.86
+408,21:45,San Francisco Giants,8,1.39,Oakland Athletics,2,3.18
+409,21:40,Arizona Diamondbacks,5,2.90,Los Angeles Dodgers,3,1.45
+410,21:38,Los Angeles Angels,4,1.59,Cleveland Guardians,1,2.46
+411,20:05,Texas Rangers,1,1.97,Houston Astros,5,1.89
+412,19:45,St.Louis Cardinals,0,2.07,New York Mets,3,1.81
+413,19:40,Minnesota Twins,5,1.67,Detroit Tigers,4,2.29
+414,19:20,Atlanta Braves,3,1.56,Chicago Cubs,1,2.55
+415,19:10,Chicago White Sox,0,1.63,Kansas City Royals,6,2.39
+416,19:40,Minnesota Twins,5,1.52,Detroit Tigers,0,2.65
+417,19:20,Atlanta Braves,3,1.50,Chicago Cubs,6,2.72
+418,19:07,Toronto Blue Jays,1,1.80,Boston Red Sox,7,2.08
+419,19:05,New York Yankees,5,1.39,Baltimore Orioles,2,3.16
+420,19:05,Washington Nationals,1,2.26,Miami Marlins,2,1.69
+421,18:45,Philadelphia Phillies,7,1.48,Colorado Rockies,3,2.77
+422,18:40,Cincinnati Reds,5,2.44,San Diego Padres,8,1.60
+423,18:40,Tampa Bay Rays,3,1.69,Seattle Mariners,2,2.26
+424,18:35,Pittsburgh Pirates,1,2.48,Milwaukee Brewers,3,1.58
+425,15:40,Arizona Diamondbacks,3,2.62,Los Angeles Dodgers,1,1.53
+426,14:10,Chicago White Sox,7,1.53,Kansas City Royals,3,2.62
+427,13:15,St.Louis Cardinals,10,2.01,New York Mets,5,1.86
+428,21:45,San Francisco Giants,8,1.39,Oakland Athletics,2,3.18
+429,21:40,Arizona Diamondbacks,5,2.90,Los Angeles Dodgers,3,1.45
+430,21:38,Los Angeles Angels,4,1.59,Cleveland Guardians,1,2.46
+431,20:05,Texas Rangers,1,1.97,Houston Astros,5,1.89
+432,19:45,St.Louis Cardinals,0,2.07,New York Mets,3,1.81
+433,19:40,Minnesota Twins,5,1.67,Detroit Tigers,4,2.29
+434,19:20,Atlanta Braves,3,1.56,Chicago Cubs,1,2.55
+435,19:10,Chicago White Sox,0,1.63,Kansas City Royals,6,2.39
+436,13:37,Toronto Blue Jays,3,1.58,Houston Astros,2,2.51
+437,13:35,Pittsburgh Pirates,2,2.54,San Diego Padres,5,1.56
+438,13:10,Tampa Bay Rays,3,1.77,Minnesota Twins,9,2.14
+439,13:05,Baltimore Orioles,9,2.22,Boston Red Sox,5,1.71
+440,22:10,Los Angeles Dodgers,1,1.28,Detroit Tigers,5,3.95
+441,20:10,Colorado Rockies,4,1.69,Cincinnati Reds,3,2.27
+442,19:10,Kansas City Royals,0,2.96,New York Yankees,3,1.44
+443,19:10,Milwaukee Brewers,9,1.60,Chicago Cubs,1,2.43
+444,19:10,New York Mets,1,1.75,Philadelphia Phillies,4,2.16
+445,19:05,Baltimore Orioles,2,2.61,Boston Red Sox,1,1.53
+446,19:05,Texas Rangers,3,2.02,Atlanta Braves,1,1.86
+447,18:35,Pittsburgh Pirates,7,2.41,San Diego Padres,6,1.61
+448,18:10,Miami Marlins,3,1.88,Seattle Mariners,1,1.99
+449,16:10,Tampa Bay Rays,1,1.47,Minnesota Twins,9,2.80
+450,16:07,Oakland Athletics,1,2.33,Cleveland Guardians,3,1.65
+451,16:05,Chicago White Sox,4,1.83,Los Angeles Angels,0,2.04
+452,16:05,San Francisco Giants,9,1.43,Washington Nationals,3,2.97
+453,15:07,Toronto Blue Jays,2,1.66,Houston Astros,1,2.34
+454,14:15,St.Louis Cardinals,0,1.63,Arizona Diamondbacks,2,2.38
+455,22:15,San Francisco Giants,4,1.45,Washington Nationals,14,2.89
+456,13:37,Toronto Blue Jays,3,1.58,Houston Astros,2,2.51
+457,13:35,Pittsburgh Pirates,2,2.54,San Diego Padres,5,1.56
+458,13:10,Tampa Bay Rays,3,1.77,Minnesota Twins,9,2.14
+459,13:05,Baltimore Orioles,9,2.22,Boston Red Sox,5,1.71
+460,22:10,Los Angeles Dodgers,1,1.28,Detroit Tigers,5,3.95
+461,20:10,Colorado Rockies,4,1.69,Cincinnati Reds,3,2.27
+462,19:10,Kansas City Royals,0,2.96,New York Yankees,3,1.44
+463,19:10,Milwaukee Brewers,9,1.60,Chicago Cubs,1,2.43
+464,19:10,New York Mets,1,1.75,Philadelphia Phillies,4,2.16
+465,19:05,Baltimore Orioles,2,2.61,Boston Red Sox,1,1.53
+466,19:05,Texas Rangers,3,2.02,Atlanta Braves,1,1.86
+467,18:35,Pittsburgh Pirates,7,2.41,San Diego Padres,6,1.61
+468,18:10,Miami Marlins,3,1.88,Seattle Mariners,1,1.99
+469,16:10,Tampa Bay Rays,1,1.47,Minnesota Twins,9,2.80
+470,16:07,Oakland Athletics,1,2.33,Cleveland Guardians,3,1.65
+471,16:05,Chicago White Sox,4,1.83,Los Angeles Angels,0,2.04
+472,16:05,San Francisco Giants,9,1.43,Washington Nationals,3,2.97
+473,15:07,Toronto Blue Jays,2,1.66,Houston Astros,1,2.34
+474,14:15,St.Louis Cardinals,0,1.63,Arizona Diamondbacks,2,2.38
+475,22:15,San Francisco Giants,4,1.45,Washington Nationals,14,2.89
+476,22:10,Los Angeles Dodgers,9,1.57,San Francisco Giants,1,2.50
+477,20:40,Colorado Rockies,5,1.66,Washington Nationals,2,2.31
+478,19:40,Chicago Cubs,3,2.23,Chicago White Sox,4,1.71
+479,19:40,Milwaukee Brewers,18,1.34,Cincinnati Reds,4,3.45
+480,19:10,Boston Red Sox,5,1.79,Los Angeles Angels,10,2.12
+481,19:07,Toronto Blue Jays,2,2.32,New York Yankees,1,1.65
+482,19:05,Baltimore Orioles,9,2.22,Minnesota Twins,4,1.71
+483,18:45,Philadelphia Phillies,1,1.53,Texas Rangers,2,2.61
+484,16:30,Detroit Tigers,2,1.71,Pittsburgh Pirates,7,2.17
+485,16:10,Cleveland Guardians,6,2.20,San Diego Padres,5,1.68
+486,15:37,Oakland Athletics,0,2.11,Tampa Bay Rays,3,1.79
+487,14:10,Houston Astros,7,1.44,Seattle Mariners,2,2.97
+488,13:10,Cleveland Guardians,4,2.18,San Diego Padres,5,1.73
+489,13:10,Detroit Tigers,3,1.63,Pittsburgh Pirates,2,2.35
+490,13:10,Kansas City Royals,0,2.24,St.Louis Cardinals,10,1.71
+491,13:10,New York Mets,2,1.75,Atlanta Braves,9,2.17
+492,12:40,Miami Marlins,7,1.59,Arizona Diamondbacks,8,2.46
+493,22:10,Los Angeles Dodgers,3,1.70,San Francisco Giants,1,2.23
+494,21:40,Oakland Athletics,7,2.09,Tampa Bay Rays,10,1.79
+495,20:40,Colorado Rockies,2,1.68,Washington Nationals,10,2.28
+496,22:10,Los Angeles Dodgers,9,1.57,San Francisco Giants,1,2.50
+497,20:40,Colorado Rockies,5,1.66,Washington Nationals,2,2.31
+498,19:40,Chicago Cubs,3,2.23,Chicago White Sox,4,1.71
+499,19:40,Milwaukee Brewers,18,1.34,Cincinnati Reds,4,3.45
+500,19:10,Boston Red Sox,5,1.79,Los Angeles Angels,10,2.12
+501,19:07,Toronto Blue Jays,2,2.32,New York Yankees,1,1.65
+502,19:05,Baltimore Orioles,9,2.22,Minnesota Twins,4,1.71
+503,18:45,Philadelphia Phillies,1,1.53,Texas Rangers,2,2.61
+504,16:30,Detroit Tigers,2,1.71,Pittsburgh Pirates,7,2.17
+505,16:10,Cleveland Guardians,6,2.20,San Diego Padres,5,1.68
+506,15:37,Oakland Athletics,0,2.11,Tampa Bay Rays,3,1.79
+507,14:10,Houston Astros,7,1.44,Seattle Mariners,2,2.97
+508,13:10,Cleveland Guardians,4,2.18,San Diego Padres,5,1.73
+509,13:10,Detroit Tigers,3,1.63,Pittsburgh Pirates,2,2.35
+510,13:10,Kansas City Royals,0,2.24,St.Louis Cardinals,10,1.71
+511,13:10,New York Mets,2,1.75,Atlanta Braves,9,2.17
+512,12:40,Miami Marlins,7,1.59,Arizona Diamondbacks,8,2.46
+513,22:10,Los Angeles Dodgers,3,1.70,San Francisco Giants,1,2.23
+514,21:40,Oakland Athletics,7,2.09,Tampa Bay Rays,10,1.79
+515,20:40,Colorado Rockies,2,1.68,Washington Nationals,10,2.28
+516,16:35,New York Yankees,2,1.51,Texas Rangers,4,2.68
+517,16:10,Arizona Diamondbacks,4,1.65,Colorado Rockies,0,2.37
+518,16:10,San Diego Padres,3,1.64,Miami Marlins,2,2.36
+519,16:10,Seattle Mariners,2,1.87,Tampa Bay Rays,1,2.00
+520,16:07,Los Angeles Angels,5,1.48,Washington Nationals,4,2.78
+521,16:05,San Francisco Giants,4,1.74,St.Louis Cardinals,3,2.18
+522,15:35,Philadelphia Phillies,1,2.29,New York Mets,6,1.66
+523,14:10,Houston Astros,5,1.54,Detroit Tigers,0,2.59
+524,14:10,Minnesota Twins,4,1.64,Oakland Athletics,3,2.36
+525,13:40,Cincinnati Reds,7,1.71,Pittsburgh Pirates,3,2.22
+526,13:40,Cleveland Guardians,4,2.71,Toronto Blue Jays,3,1.50
+527,13:35,Atlanta Braves,9,1.71,Milwaukee Brewers,2,2.22
+528,13:35,Baltimore Orioles,4,1.90,Kansas City Royals,6,1.96
+529,13:35,New York Yankees,2,1.43,Texas Rangers,1,2.97
+530,12:35,Philadelphia Phillies,3,2.33,New York Mets,2,1.65
+531,11:35,Boston Red Sox,2,1.58,Chicago White Sox,3,2.48
+532,21:10,Seattle Mariners,2,2.16,Tampa Bay Rays,8,1.74
+533,21:07,Los Angeles Angels,3,1.61,Washington Nationals,7,2.42
+534,20:40,San Diego Padres,0,1.83,Miami Marlins,8,2.04
+535,20:10,Arizona Diamondbacks,1,1.80,Colorado Rockies,4,2.08
+536,16:35,New York Yankees,2,1.51,Texas Rangers,4,2.68
+537,16:10,Arizona Diamondbacks,4,1.65,Colorado Rockies,0,2.37
+538,16:10,San Diego Padres,3,1.64,Miami Marlins,2,2.36
+539,16:10,Seattle Mariners,2,1.87,Tampa Bay Rays,1,2.00
+540,16:07,Los Angeles Angels,5,1.48,Washington Nationals,4,2.78
+541,16:05,San Francisco Giants,4,1.74,St.Louis Cardinals,3,2.18
+542,15:35,Philadelphia Phillies,1,2.29,New York Mets,6,1.66
+543,14:10,Houston Astros,5,1.54,Detroit Tigers,0,2.59
+544,14:10,Minnesota Twins,4,1.64,Oakland Athletics,3,2.36
+545,13:40,Cincinnati Reds,7,1.71,Pittsburgh Pirates,3,2.22
+546,13:40,Cleveland Guardians,4,2.71,Toronto Blue Jays,3,1.50
+547,13:35,Atlanta Braves,9,1.71,Milwaukee Brewers,2,2.22
+548,13:35,Baltimore Orioles,4,1.90,Kansas City Royals,6,1.96
+549,13:35,New York Yankees,2,1.43,Texas Rangers,1,2.97
+550,12:35,Philadelphia Phillies,3,2.33,New York Mets,2,1.65
+551,11:35,Boston Red Sox,2,1.58,Chicago White Sox,3,2.48
+552,21:10,Seattle Mariners,2,2.16,Tampa Bay Rays,8,1.74
+553,21:07,Los Angeles Angels,3,1.61,Washington Nationals,7,2.42
+554,20:40,San Diego Padres,0,1.83,Miami Marlins,8,2.04
+555,20:10,Arizona Diamondbacks,1,1.80,Colorado Rockies,4,2.08
+556,20:10,Chicago White Sox,7,1.68,New York Yankees,15,2.26
+557,20:05,Texas Rangers,3,1.70,Kansas City Royals,1,2.25
+558,18:35,Pittsburgh Pirates,0,1.74,Cincinnati Reds,4,2.18
+559,15:10,Minnesota Twins,0,2.17,Houston Astros,5,1.73
+560,13:15,St.Louis Cardinals,2,1.50,Baltimore Orioles,3,2.73
+561,13:10,Detroit Tigers,3,1.84,Oakland Athletics,5,2.04
+562,13:10,Minnesota Twins,3,2.20,Houston Astros,11,1.77
+563,13:05,Washington Nationals,1,2.34,New York Mets,4,1.65
+564,20:05,Texas Rangers,2,1.75,Kansas City Royals,8,2.17
+565,19:45,St.Louis Cardinals,10,1.45,Baltimore Orioles,1,2.91
+566,19:20,Atlanta Braves,5,1.88,Boston Red Sox,3,1.99
+567,19:10,Detroit Tigers,0,1.77,Oakland Athletics,9,2.14
+568,19:07,Los Angeles Angels,2,1.86,Tampa Bay Rays,4,2.01
+569,19:05,Washington Nationals,8,2.53,New York Mets,3,1.56
+570,16:10,San Diego Padres,5,1.63,Chicago Cubs,7,2.39
+571,15:45,San Francisco Giants,7,1.48,Colorado Rockies,1,2.80
+572,15:40,Arizona Diamondbacks,3,1.97,Miami Marlins,11,1.89
+573,15:40,Seattle Mariners,2,1.69,Philadelphia Phillies,4,2.26
+574,12:35,Cincinnati Reds,14,2.70,Milwaukee Brewers,11,1.50
+575,12:35,New York Yankees,5,1.76,Toronto Blue Jays,3,2.17
+576,20:10,Chicago White Sox,7,1.68,New York Yankees,15,2.26
+577,20:05,Texas Rangers,3,1.70,Kansas City Royals,1,2.25
+578,18:35,Pittsburgh Pirates,0,1.74,Cincinnati Reds,4,2.18
+579,15:10,Minnesota Twins,0,2.17,Houston Astros,5,1.73
+580,13:15,St.Louis Cardinals,2,1.50,Baltimore Orioles,3,2.73
+581,13:10,Detroit Tigers,3,1.84,Oakland Athletics,5,2.04
+582,13:10,Minnesota Twins,3,2.20,Houston Astros,11,1.77
+583,13:05,Washington Nationals,1,2.34,New York Mets,4,1.65
+584,20:05,Texas Rangers,2,1.75,Kansas City Royals,8,2.17
+585,19:45,St.Louis Cardinals,10,1.45,Baltimore Orioles,1,2.91
+586,19:20,Atlanta Braves,5,1.88,Boston Red Sox,3,1.99
+587,19:10,Detroit Tigers,0,1.77,Oakland Athletics,9,2.14
+588,19:07,Los Angeles Angels,2,1.86,Tampa Bay Rays,4,2.01
+589,19:05,Washington Nationals,8,2.53,New York Mets,3,1.56
+590,16:10,San Diego Padres,5,1.63,Chicago Cubs,7,2.39
+591,15:45,San Francisco Giants,7,1.48,Colorado Rockies,1,2.80
+592,15:40,Arizona Diamondbacks,3,1.97,Miami Marlins,11,1.89
+593,15:40,Seattle Mariners,2,1.69,Philadelphia Phillies,4,2.26
+594,12:35,Cincinnati Reds,14,2.70,Milwaukee Brewers,11,1.50
+595,12:35,New York Yankees,5,1.76,Toronto Blue Jays,3,2.17
+596,19:05,Baltimore Orioles,2,2.59,New York Yankees,6,1.54
+597,18:40,Miami Marlins,8,1.54,Washington Nationals,2,2.61
+598,18:40,Tampa Bay Rays,2,1.49,Detroit Tigers,3,2.74
+599,19:08,St.Louis Cardinals,15,2.20,San Francisco Giants,6,1.72
+600,16:10,Arizona Diamondbacks,2,1.80,Chicago Cubs,3,2.07
+601,16:10,Los Angeles Dodgers,5,1.72,Philadelphia Phillies,4,2.21
+602,16:07,Oakland Athletics,1,2.11,Los Angeles Angels,4,1.78
+603,15:10,Colorado Rockies,7,1.71,Kansas City Royals,8,2.25
+604,14:35,Texas Rangers,7,1.90,Boston Red Sox,1,1.97
+605,14:10,Chicago White Sox,1,2.06,New York Yankees,5,1.81
+606,14:10,Minnesota Twins,3,1.71,Cleveland Guardians,1,2.23
+607,13:40,Detroit Tigers,5,1.72,Baltimore Orioles,1,2.21
+608,13:40,Miami Marlins,3,2.49,Milwaukee Brewers,7,1.58
+609,13:40,New York Mets,7,1.69,Seattle Mariners,8,2.25
+610,13:40,Tampa Bay Rays,3,2.02,Toronto Blue Jays,0,1.85
+611,13:35,Pittsburgh Pirates,1,1.67,Cincinnati Reds,0,2.29
+612,13:35,Washington Nationals,0,2.67,Houston Astros,8,1.52
+613,11:35,Atlanta Braves,3,1.82,San Diego Padres,7,2.08
+614,22:10,Los Angeles Dodgers,3,1.53,Philadelphia Phillies,8,2.63
+615,21:40,Oakland Athletics,1,2.47,Los Angeles Angels,9,1.59
+616,19:05,Baltimore Orioles,2,2.59,New York Yankees,6,1.54
+617,18:40,Miami Marlins,8,1.54,Washington Nationals,2,2.61
+618,18:40,Tampa Bay Rays,2,1.49,Detroit Tigers,3,2.74
+619,19:08,St.Louis Cardinals,15,2.20,San Francisco Giants,6,1.72
+620,16:10,Arizona Diamondbacks,2,1.80,Chicago Cubs,3,2.07
+621,16:10,Los Angeles Dodgers,5,1.72,Philadelphia Phillies,4,2.21
+622,16:07,Oakland Athletics,1,2.11,Los Angeles Angels,4,1.78
+623,15:10,Colorado Rockies,7,1.71,Kansas City Royals,8,2.25
+624,14:35,Texas Rangers,7,1.90,Boston Red Sox,1,1.97
+625,14:10,Chicago White Sox,1,2.06,New York Yankees,5,1.81
+626,14:10,Minnesota Twins,3,1.71,Cleveland Guardians,1,2.23
+627,13:40,Detroit Tigers,5,1.72,Baltimore Orioles,1,2.21
+628,13:40,Miami Marlins,3,2.49,Milwaukee Brewers,7,1.58
+629,13:40,New York Mets,7,1.69,Seattle Mariners,8,2.25
+630,13:40,Tampa Bay Rays,3,2.02,Toronto Blue Jays,0,1.85
+631,13:35,Pittsburgh Pirates,1,1.67,Cincinnati Reds,0,2.29
+632,13:35,Washington Nationals,0,2.67,Houston Astros,8,1.52
+633,11:35,Atlanta Braves,3,1.82,San Diego Padres,7,2.08
+634,22:10,Los Angeles Dodgers,3,1.53,Philadelphia Phillies,8,2.63
+635,21:40,Oakland Athletics,1,2.47,Los Angeles Angels,9,1.59
+636,14:20,Chicago Cubs,6,1.70,Arizona Diamondbacks,10,2.23
+637,20:10,Houston Astros,5,1.47,Texas Rangers,1,2.82
+638,19:40,Chicago Cubs,1,1.82,Arizona Diamondbacks,3,2.06
+639,19:10,Boston Red Sox,12,1.81,Seattle Mariners,6,2.07
+640,14:10,Kansas City Royals,4,2.21,Chicago White Sox,7,1.71
+641,13:10,Cleveland Guardians,2,1.76,Cincinnati Reds,4,2.14
+642,13:10,New York Mets,7,1.53,St.Louis Cardinals,6,2.67
+643,13:05,Philadelphia Phillies,0,1.95,San Diego Padres,2,1.91
+644,12:35,Baltimore Orioles,9,2.72,New York Yankees,6,1.50
+645,20:10,Kansas City Royals,6,2.29,Chicago White Sox,2,1.67
+646,20:05,Texas Rangers,6,2.61,Los Angeles Angels,5,1.54
+647,19:40,Chicago Cubs,2,1.62,Pittsburgh Pirates,3,2.40
+648,19:10,New York Mets,11,1.46,St.Louis Cardinals,4,2.82
+649,19:07,Toronto Blue Jays,1,1.42,Seattle Mariners,5,3.05
+650,19:05,Baltimore Orioles,2,3.23,New York Yankees,3,1.38
+651,18:45,Philadelphia Phillies,3,1.66,San Diego Padres,0,2.32
+652,18:40,Miami Marlins,4,1.56,Washington Nationals,5,2.55
+653,18:10,Boston Red Sox,5,2.14,Houston Astros,1,1.76
+654,16:10,Los Angeles Dodgers,5,1.33,Arizona Diamondbacks,3,3.56
+655,15:37,Oakland Athletics,4,2.44,Minnesota Twins,14,1.60
+656,14:20,Chicago Cubs,6,1.70,Arizona Diamondbacks,10,2.23
+657,20:10,Houston Astros,5,1.47,Texas Rangers,1,2.82
+658,19:40,Chicago Cubs,1,1.82,Arizona Diamondbacks,3,2.06
+659,19:10,Boston Red Sox,12,1.81,Seattle Mariners,6,2.07
+660,14:10,Kansas City Royals,4,2.21,Chicago White Sox,7,1.71
+661,13:10,Cleveland Guardians,2,1.76,Cincinnati Reds,4,2.14
+662,13:10,New York Mets,7,1.53,St.Louis Cardinals,6,2.67
+663,13:05,Philadelphia Phillies,0,1.95,San Diego Padres,2,1.91
+664,12:35,Baltimore Orioles,9,2.72,New York Yankees,6,1.50
+665,20:10,Kansas City Royals,6,2.29,Chicago White Sox,2,1.67
+666,20:05,Texas Rangers,6,2.61,Los Angeles Angels,5,1.54
+667,19:40,Chicago Cubs,2,1.62,Pittsburgh Pirates,3,2.40
+668,19:10,New York Mets,11,1.46,St.Louis Cardinals,4,2.82
+669,19:07,Toronto Blue Jays,1,1.42,Seattle Mariners,5,3.05
+670,19:05,Baltimore Orioles,2,3.23,New York Yankees,3,1.38
+671,18:45,Philadelphia Phillies,3,1.66,San Diego Padres,0,2.32
+672,18:40,Miami Marlins,4,1.56,Washington Nationals,5,2.55
+673,18:10,Boston Red Sox,5,2.14,Houston Astros,1,1.76
+674,16:10,Los Angeles Dodgers,5,1.33,Arizona Diamondbacks,3,3.56
+675,15:37,Oakland Athletics,4,2.44,Minnesota Twins,14,1.60
+676,19:45,St.Louis Cardinals,7,1.86,Toronto Blue Jays,3,2.00
+677,19:40,Minnesota Twins,5,1.46,Detroit Tigers,4,2.86
+678,19:20,Atlanta Braves,3,2.08,Philadelphia Phillies,7,1.79
+679,19:05,New York Yankees,4,1.34,Baltimore Orioles,6,3.46
+680,19:05,Washington Nationals,1,2.88,Los Angeles Dodgers,10,1.45
+681,18:40,Cincinnati Reds,4,2.10,Chicago Cubs,7,1.79
+682,18:35,Pittsburgh Pirates,2,1.73,Colorado Rockies,1,2.18
+683,19:08,New York Yankees,0,1.56,Chicago White Sox,5,2.47
+684,16:07,Los Angeles Angels,4,1.49,Oakland Athletics,1,2.78
+685,16:05,San Francisco Giants,1,1.71,San Diego Padres,10,2.22
+686,15:10,Colorado Rockies,0,1.99,New York Mets,2,1.86
+687,15:05,New York Yankees,1,1.62,Chicago White Sox,3,2.41
+688,14:20,Chicago Cubs,5,1.76,Arizona Diamondbacks,4,2.15
+689,14:10,Houston Astros,5,1.52,Texas Rangers,2,2.67
+690,14:10,Kansas City Royals,6,1.88,Minnesota Twins,7,1.99
+691,14:10,Milwaukee Brewers,2,1.41,Washington Nationals,8,3.12
+692,13:40,Cleveland Guardians,2,1.53,Detroit Tigers,4,2.63
+693,13:40,Miami Marlins,4,1.82,Atlanta Braves,3,2.05
+694,13:37,Toronto Blue Jays,2,1.42,Cincinnati Reds,3,3.04
+695,13:35,Baltimore Orioles,7,2.46,Tampa Bay Rays,6,1.59
+696,19:45,St.Louis Cardinals,7,1.86,Toronto Blue Jays,3,2.00
+697,19:40,Minnesota Twins,5,1.46,Detroit Tigers,4,2.86
+698,19:20,Atlanta Braves,3,2.08,Philadelphia Phillies,7,1.79
+699,19:05,New York Yankees,4,1.34,Baltimore Orioles,6,3.46
+700,19:05,Washington Nationals,1,2.88,Los Angeles Dodgers,10,1.45
+701,18:40,Cincinnati Reds,4,2.10,Chicago Cubs,7,1.79
+702,18:35,Pittsburgh Pirates,2,1.73,Colorado Rockies,1,2.18
+703,19:08,New York Yankees,0,1.56,Chicago White Sox,5,2.47
+704,16:07,Los Angeles Angels,4,1.49,Oakland Athletics,1,2.78
+705,16:05,San Francisco Giants,1,1.71,San Diego Padres,10,2.22
+706,15:10,Colorado Rockies,0,1.99,New York Mets,2,1.86
+707,15:05,New York Yankees,1,1.62,Chicago White Sox,3,2.41
+708,14:20,Chicago Cubs,5,1.76,Arizona Diamondbacks,4,2.15
+709,14:10,Houston Astros,5,1.52,Texas Rangers,2,2.67
+710,14:10,Kansas City Royals,6,1.88,Minnesota Twins,7,1.99
+711,14:10,Milwaukee Brewers,2,1.41,Washington Nationals,8,3.12
+712,13:40,Cleveland Guardians,2,1.53,Detroit Tigers,4,2.63
+713,13:40,Miami Marlins,4,1.82,Atlanta Braves,3,2.05
+714,13:37,Toronto Blue Jays,2,1.42,Cincinnati Reds,3,3.04
+715,13:35,Baltimore Orioles,7,2.46,Tampa Bay Rays,6,1.59
+716,20:10,Minnesota Twins,10,1.55,Kansas City Royals,7,2.56
+717,19:20,Atlanta Braves,6,1.70,Miami Marlins,4,2.23
+718,19:10,Boston Red Sox,8,1.55,Baltimore Orioles,12,2.56
+719,19:10,New York Mets,8,1.57,Philadelphia Phillies,6,2.49
+720,19:10,Tampa Bay Rays,0,1.77,New York Yankees,2,2.12
+721,18:40,Cincinnati Reds,5,2.81,San Francisco Giants,1,1.48
+722,21:40,Arizona Diamondbacks,1,2.53,Los Angeles Dodgers,14,1.56
+723,21:40,Oakland Athletics,1,1.87,Texas Rangers,4,2.00
+724,21:38,Los Angeles Angels,3,1.60,Toronto Blue Jays,6,2.41
+725,20:10,Chicago White Sox,7,2.10,Boston Red Sox,16,1.79
+726,19:45,St.Louis Cardinals,3,1.84,Milwaukee Brewers,4,2.04
+727,19:40,Minnesota Twins,2,1.54,Kansas City Royals,3,2.58
+728,19:20,Atlanta Braves,1,1.99,Philadelphia Phillies,4,1.88
+729,19:10,Detroit Tigers,4,1.75,Cleveland Guardians,3,2.13
+730,19:05,Washington Nationals,7,1.91,Colorado Rockies,3,1.95
+731,18:40,Tampa Bay Rays,2,2.02,New York Yankees,7,1.85
+732,12:35,Cincinnati Reds,20,2.00,Chicago Cubs,5,1.88
+733,21:38,Los Angeles Angels,2,1.57,Texas Rangers,7,2.50
+734,20:10,Chicago White Sox,3,1.65,Boston Red Sox,1,2.33
+735,20:10,Houston Astros,2,1.55,Cleveland Guardians,1,2.57
+736,20:10,Minnesota Twins,10,1.55,Kansas City Royals,7,2.56
+737,19:20,Atlanta Braves,6,1.70,Miami Marlins,4,2.23
+738,19:10,Boston Red Sox,8,1.55,Baltimore Orioles,12,2.56
+739,19:10,New York Mets,8,1.57,Philadelphia Phillies,6,2.49
+740,19:10,Tampa Bay Rays,0,1.77,New York Yankees,2,2.12
+741,18:40,Cincinnati Reds,5,2.81,San Francisco Giants,1,1.48
+742,21:40,Arizona Diamondbacks,1,2.53,Los Angeles Dodgers,14,1.56
+743,21:40,Oakland Athletics,1,1.87,Texas Rangers,4,2.00
+744,21:38,Los Angeles Angels,3,1.60,Toronto Blue Jays,6,2.41
+745,20:10,Chicago White Sox,7,2.10,Boston Red Sox,16,1.79
+746,19:45,St.Louis Cardinals,3,1.84,Milwaukee Brewers,4,2.04
+747,19:40,Minnesota Twins,2,1.54,Kansas City Royals,3,2.58
+748,19:20,Atlanta Braves,1,1.99,Philadelphia Phillies,4,1.88
+749,19:10,Detroit Tigers,4,1.75,Cleveland Guardians,3,2.13
+750,19:05,Washington Nationals,7,1.91,Colorado Rockies,3,1.95
+751,18:40,Tampa Bay Rays,2,2.02,New York Yankees,7,1.85
+752,12:35,Cincinnati Reds,20,2.00,Chicago Cubs,5,1.88
+753,21:38,Los Angeles Angels,2,1.57,Texas Rangers,7,2.50
+754,20:10,Chicago White Sox,3,1.65,Boston Red Sox,1,2.33
+755,20:10,Houston Astros,2,1.55,Cleveland Guardians,1,2.57
+756,20:10,Arizona Diamondbacks,6,2.03,Atlanta Braves,2,1.83
+757,20:05,Texas Rangers,9,2.22,Tampa Bay Rays,5,1.71
+758,19:40,Chicago Cubs,1,2.12,Milwaukee Brewers,3,1.77
+759,19:10,Boston Red Sox,0,1.57,Baltimore Orioles,10,2.52
+760,19:10,New York Mets,13,1.57,Washington Nationals,5,2.51
+761,18:10,Cleveland Guardians,7,1.66,Kansas City Royals,3,2.31
+762,16:10,Colorado Rockies,7,2.32,Miami Marlins,1,1.66
+763,16:07,Oakland Athletics,1,2.39,Houston Astros,5,1.63
+764,16:05,Philadelphia Phillies,4,2.00,San Francisco Giants,5,1.86
+765,14:15,St.Louis Cardinals,6,1.81,San Diego Padres,3,2.07
+766,13:10,Detroit Tigers,7,2.23,Minnesota Twins,5,1.70
+767,13:05,Chicago Cubs,6,2.17,Milwaukee Brewers,7,1.74
+768,19:08,New York Mets,5,2.07,Philadelphia Phillies,4,1.81
+769,16:10,Arizona Diamondbacks,1,2.79,Los Angeles Dodgers,3,1.48
+770,16:10,San Diego Padres,4,1.57,Pittsburgh Pirates,2,2.54
+771,16:10,Seattle Mariners,1,2.25,Houston Astros,2,1.70
+772,16:07,Los Angeles Angels,10,1.64,Toronto Blue Jays,11,2.36
+773,16:07,Oakland Athletics,6,2.02,Texas Rangers,5,1.84
+774,14:15,St.Louis Cardinals,0,2.26,Milwaukee Brewers,8,1.69
+775,14:10,Chicago White Sox,5,1.68,Chicago Cubs,4,2.30
+776,20:10,Arizona Diamondbacks,6,2.03,Atlanta Braves,2,1.83
+777,20:05,Texas Rangers,9,2.22,Tampa Bay Rays,5,1.71
+778,19:40,Chicago Cubs,1,2.12,Milwaukee Brewers,3,1.77
+779,19:10,Boston Red Sox,0,1.57,Baltimore Orioles,10,2.52
+780,19:10,New York Mets,13,1.57,Washington Nationals,5,2.51
+781,18:10,Cleveland Guardians,7,1.66,Kansas City Royals,3,2.31
+782,16:10,Colorado Rockies,7,2.32,Miami Marlins,1,1.66
+783,16:07,Oakland Athletics,1,2.39,Houston Astros,5,1.63
+784,16:05,Philadelphia Phillies,4,2.00,San Francisco Giants,5,1.86
+785,14:15,St.Louis Cardinals,6,1.81,San Diego Padres,3,2.07
+786,13:10,Detroit Tigers,7,2.23,Minnesota Twins,5,1.70
+787,13:05,Chicago Cubs,6,2.17,Milwaukee Brewers,7,1.74
+788,19:08,New York Mets,5,2.07,Philadelphia Phillies,4,1.81
+789,16:10,Arizona Diamondbacks,1,2.79,Los Angeles Dodgers,3,1.48
+790,16:10,San Diego Padres,4,1.57,Pittsburgh Pirates,2,2.54
+791,16:10,Seattle Mariners,1,2.25,Houston Astros,2,1.70
+792,16:07,Los Angeles Angels,10,1.64,Toronto Blue Jays,11,2.36
+793,16:07,Oakland Athletics,6,2.02,Texas Rangers,5,1.84
+794,14:15,St.Louis Cardinals,0,2.26,Milwaukee Brewers,8,1.69
+795,14:10,Chicago White Sox,5,1.68,Chicago Cubs,4,2.30
+796,19:05,Baltimore Orioles,3,2.21,Cleveland Guardians,6,1.71
+797,19:05,New York Yankees,13,1.29,Detroit Tigers,0,3.87
+798,19:05,Philadelphia Phillies,10,1.78,Los Angeles Angels,0,2.11
+799,19:05,Pittsburgh Pirates,6,2.01,Arizona Diamondbacks,8,1.86
+800,18:40,Cincinnati Reds,5,1.76,Washington Nationals,8,2.14
+801,18:40,Miami Marlins,6,2.00,San Francisco Giants,15,1.87
+802,14:20,Chicago Cubs,5,1.92,St.Louis Cardinals,14,1.94
+803,22:10,Los Angeles Dodgers,2,1.55,New York Mets,0,2.57
+804,20:40,Colorado Rockies,6,2.34,Atlanta Braves,13,1.65
+805,20:05,Chicago Cubs,7,1.94,St.Louis Cardinals,5,1.92
+806,19:40,Milwaukee Brewers,5,1.92,San Diego Padres,4,1.94
+807,19:05,Baltimore Orioles,6,1.94,Seattle Mariners,7,1.91
+808,19:05,New York Yankees,2,1.66,Los Angeles Angels,1,2.33
+809,18:40,Cincinnati Reds,8,1.75,Washington Nationals,1,2.15
+810,18:40,Miami Marlins,3,1.72,San Francisco Giants,0,2.19
+811,15:07,Toronto Blue Jays,8,1.55,Chicago White Sox,3,2.60
+812,14:05,Texas Rangers,1,2.10,Tampa Bay Rays,3,1.79
+813,13:10,Detroit Tigers,3,2.17,Minnesota Twins,2,1.74
+814,13:05,New York Yankees,6,1.85,Los Angeles Angels,1,2.03
+815,20:10,Los Angeles Dodgers,4,1.39,Pittsburgh Pirates,8,3.16
+816,19:05,Baltimore Orioles,3,2.21,Cleveland Guardians,6,1.71
+817,19:05,New York Yankees,13,1.29,Detroit Tigers,0,3.87
+818,19:05,Philadelphia Phillies,10,1.78,Los Angeles Angels,0,2.11
+819,19:05,Pittsburgh Pirates,6,2.01,Arizona Diamondbacks,8,1.86
+820,18:40,Cincinnati Reds,5,1.76,Washington Nationals,8,2.14
+821,18:40,Miami Marlins,6,2.00,San Francisco Giants,15,1.87
+822,14:20,Chicago Cubs,5,1.92,St.Louis Cardinals,14,1.94
+823,22:10,Los Angeles Dodgers,2,1.55,New York Mets,0,2.57
+824,20:40,Colorado Rockies,6,2.34,Atlanta Braves,13,1.65
+825,20:05,Chicago Cubs,7,1.94,St.Louis Cardinals,5,1.92
+826,19:40,Milwaukee Brewers,5,1.92,San Diego Padres,4,1.94
+827,19:05,Baltimore Orioles,6,1.94,Seattle Mariners,7,1.91
+828,19:05,New York Yankees,2,1.66,Los Angeles Angels,1,2.33
+829,18:40,Cincinnati Reds,8,1.75,Washington Nationals,1,2.15
+830,18:40,Miami Marlins,3,1.72,San Francisco Giants,0,2.19
+831,15:07,Toronto Blue Jays,8,1.55,Chicago White Sox,3,2.60
+832,14:05,Texas Rangers,1,2.10,Tampa Bay Rays,3,1.79
+833,13:10,Detroit Tigers,3,2.17,Minnesota Twins,2,1.74
+834,13:05,New York Yankees,6,1.85,Los Angeles Angels,1,2.03
+835,20:10,Los Angeles Dodgers,4,1.39,Pittsburgh Pirates,8,3.16
+836,19:05,Baltimore Orioles,9,1.98,Chicago Cubs,3,1.89
+837,19:05,Pittsburgh Pirates,3,1.79,Detroit Tigers,5,2.10
+838,18:40,Cincinnati Reds,14,1.67,Arizona Diamondbacks,8,2.29
+839,18:40,Miami Marlins,12,1.56,Washington Nationals,2,2.54
+840,18:10,Cleveland Guardians,3,1.76,Texas Rangers,6,2.14
+841,15:10,Cleveland Guardians,6,1.83,Texas Rangers,3,2.06
+842,21:40,San Diego Padres,5,1.85,New York Mets,11,2.02
+843,21:38,Los Angeles Angels,0,1.82,Boston Red Sox,1,2.07
+844,20:10,Houston Astros,4,1.56,Seattle Mariners,7,2.55
+845,20:10,Kansas City Royals,0,2.69,Toronto Blue Jays,8,1.51
+846,18:40,Cincinnati Reds,7,1.86,Arizona Diamondbacks,0,2.01
+847,19:08,Chicago Cubs,3,2.20,St.Louis Cardinals,5,1.72
+848,16:10,Los Angeles Dodgers,4,1.56,New York Mets,5,2.60
+849,16:07,Oakland Athletics,2,1.88,Boston Red Sox,5,1.98
+850,15:10,Colorado Rockies,7,2.31,Atlanta Braves,8,1.68
+851,14:35,Texas Rangers,5,1.77,Seattle Mariners,6,2.13
+852,14:10,Kansas City Royals,4,2.93,Houston Astros,7,1.44
+853,14:10,Milwaukee Brewers,4,1.80,San Diego Padres,6,2.08
+854,13:40,Cincinnati Reds,4,1.55,Washington Nationals,5,2.56
+855,13:40,Miami Marlins,1,2.07,San Francisco Giants,5,1.81
+856,19:05,Baltimore Orioles,9,1.98,Chicago Cubs,3,1.89
+857,19:05,Pittsburgh Pirates,3,1.79,Detroit Tigers,5,2.10
+858,18:40,Cincinnati Reds,14,1.67,Arizona Diamondbacks,8,2.29
+859,18:40,Miami Marlins,12,1.56,Washington Nationals,2,2.54
+860,18:10,Cleveland Guardians,3,1.76,Texas Rangers,6,2.14
+861,15:10,Cleveland Guardians,6,1.83,Texas Rangers,3,2.06
+862,21:40,San Diego Padres,5,1.85,New York Mets,11,2.02
+863,21:38,Los Angeles Angels,0,1.82,Boston Red Sox,1,2.07
+864,20:10,Houston Astros,4,1.56,Seattle Mariners,7,2.55
+865,20:10,Kansas City Royals,0,2.69,Toronto Blue Jays,8,1.51
+866,18:40,Cincinnati Reds,7,1.86,Arizona Diamondbacks,0,2.01
+867,19:08,Chicago Cubs,3,2.20,St.Louis Cardinals,5,1.72
+868,16:10,Los Angeles Dodgers,4,1.56,New York Mets,5,2.60
+869,16:07,Oakland Athletics,2,1.88,Boston Red Sox,5,1.98
+870,15:10,Colorado Rockies,7,2.31,Atlanta Braves,8,1.68
+871,14:35,Texas Rangers,5,1.77,Seattle Mariners,6,2.13
+872,14:10,Kansas City Royals,4,2.93,Houston Astros,7,1.44
+873,14:10,Milwaukee Brewers,4,1.80,San Diego Padres,6,2.08
+874,13:40,Cincinnati Reds,4,1.55,Washington Nationals,5,2.56
+875,13:40,Miami Marlins,1,2.07,San Francisco Giants,5,1.81
+876,22:15,San Francisco Giants,7,2.35,Los Angeles Dodgers,2,1.64
+877,22:10,Seattle Mariners,3,1.96,Boston Red Sox,4,1.89
+878,21:40,San Diego Padres,9,1.40,Colorado Rockies,0,3.13
+879,21:38,Los Angeles Angels,3,2.15,New York Mets,7,1.75
+880,20:15,St.Louis Cardinals,2,1.69,Cincinnati Reds,0,2.25
+881,20:10,Chicago White Sox,8,1.76,Texas Rangers,3,2.14
+882,20:10,Houston Astros,4,1.63,Miami Marlins,7,2.36
+883,20:10,Kansas City Royals,8,1.96,Baltimore Orioles,1,1.90
+884,20:10,Minnesota Twins,9,1.83,Tampa Bay Rays,4,2.04
+885,19:20,Atlanta Braves,4,1.48,Pittsburgh Pirates,2,2.79
+886,19:10,Cleveland Guardians,3,1.62,Oakland Athletics,2,2.39
+887,19:10,Detroit Tigers,1,2.89,Toronto Blue Jays,10,1.45
+888,19:05,New York Yankees,2,1.40,Chicago Cubs,1,3.12
+889,19:05,Philadelphia Phillies,7,1.69,Arizona Diamondbacks,5,2.26
+890,19:05,Washington Nationals,11,2.54,Milwaukee Brewers,5,1.56
+891,21:38,Los Angeles Angels,5,1.76,Boston Red Sox,2,2.14
+892,20:10,Kansas City Royals,7,1.91,Baltimore Orioles,5,1.95
+893,19:40,Minnesota Twins,7,2.72,New York Yankees,10,1.50
+894,19:20,Atlanta Braves,3,1.34,Pittsburgh Pirates,1,3.44
+895,19:10,Cleveland Guardians,8,1.56,Oakland Athletics,4,2.53
+896,22:15,San Francisco Giants,7,2.35,Los Angeles Dodgers,2,1.64
+897,22:10,Seattle Mariners,3,1.96,Boston Red Sox,4,1.89
+898,21:40,San Diego Padres,9,1.40,Colorado Rockies,0,3.13
+899,21:38,Los Angeles Angels,3,2.15,New York Mets,7,1.75
+900,20:15,St.Louis Cardinals,2,1.69,Cincinnati Reds,0,2.25
+901,20:10,Chicago White Sox,8,1.76,Texas Rangers,3,2.14
+902,20:10,Houston Astros,4,1.63,Miami Marlins,7,2.36
+903,20:10,Kansas City Royals,8,1.96,Baltimore Orioles,1,1.90
+904,20:10,Minnesota Twins,9,1.83,Tampa Bay Rays,4,2.04
+905,19:20,Atlanta Braves,4,1.48,Pittsburgh Pirates,2,2.79
+906,19:10,Cleveland Guardians,3,1.62,Oakland Athletics,2,2.39
+907,19:10,Detroit Tigers,1,2.89,Toronto Blue Jays,10,1.45
+908,19:05,New York Yankees,2,1.40,Chicago Cubs,1,3.12
+909,19:05,Philadelphia Phillies,7,1.69,Arizona Diamondbacks,5,2.26
+910,19:05,Washington Nationals,11,2.54,Milwaukee Brewers,5,1.56
+911,21:38,Los Angeles Angels,5,1.76,Boston Red Sox,2,2.14
+912,20:10,Kansas City Royals,7,1.91,Baltimore Orioles,5,1.95
+913,19:40,Minnesota Twins,7,2.72,New York Yankees,10,1.50
+914,19:20,Atlanta Braves,3,1.34,Pittsburgh Pirates,1,3.44
+915,19:10,Cleveland Guardians,8,1.56,Oakland Athletics,4,2.53
+916,19:45,St.Louis Cardinals,9,1.47,Pittsburgh Pirates,1,2.84
+917,19:10,Boston Red Sox,6,1.42,Oakland Athletics,1,3.04
+918,19:10,Detroit Tigers,1,2.47,Chicago White Sox,5,1.58
+919,19:10,New York Mets,4,1.64,Milwaukee Brewers,0,2.36
+920,19:07,Toronto Blue Jays,5,1.44,Baltimore Orioles,6,2.92
+921,19:05,New York Yankees,2,1.46,Tampa Bay Rays,0,2.86
+922,19:05,Philadelphia Phillies,9,1.70,Miami Marlins,11,2.24
+923,19:05,Washington Nationals,4,3.33,Atlanta Braves,10,1.36
+924,13:15,St.Louis Cardinals,3,1.58,Pittsburgh Pirates,1,2.49
+925,22:10,Seattle Mariners,2,1.87,Minnesota Twins,3,1.99
+926,21:45,San Francisco Giants,6,1.57,Kansas City Royals,2,2.50
+927,21:40,Arizona Diamondbacks,4,1.62,Cincinnati Reds,5,2.38
+928,20:05,Chicago Cubs,1,2.12,San Diego Padres,4,1.78
+929,20:05,Texas Rangers,5,2.36,Houston Astros,3,1.64
+930,19:45,St.Louis Cardinals,7,1.54,Pittsburgh Pirates,5,2.58
+931,19:10,Detroit Tigers,5,2.15,Chicago White Sox,9,1.75
+932,19:07,Toronto Blue Jays,11,1.35,Baltimore Orioles,1,3.39
+933,19:05,Philadelphia Phillies,3,1.80,Miami Marlins,2,2.08
+934,19:05,Washington Nationals,5,2.29,Atlanta Braves,9,1.67
+935,19:08,Los Angeles Angels,1,1.78,New York Mets,4,2.11
+936,19:45,St.Louis Cardinals,9,1.47,Pittsburgh Pirates,1,2.84
+937,19:10,Boston Red Sox,6,1.42,Oakland Athletics,1,3.04
+938,19:10,Detroit Tigers,1,2.47,Chicago White Sox,5,1.58
+939,19:10,New York Mets,4,1.64,Milwaukee Brewers,0,2.36
+940,19:07,Toronto Blue Jays,5,1.44,Baltimore Orioles,6,2.92
+941,19:05,New York Yankees,2,1.46,Tampa Bay Rays,0,2.86
+942,19:05,Philadelphia Phillies,9,1.70,Miami Marlins,11,2.24
+943,19:05,Washington Nationals,4,3.33,Atlanta Braves,10,1.36
+944,13:15,St.Louis Cardinals,3,1.58,Pittsburgh Pirates,1,2.49
+945,22:10,Seattle Mariners,2,1.87,Minnesota Twins,3,1.99
+946,21:45,San Francisco Giants,6,1.57,Kansas City Royals,2,2.50
+947,21:40,Arizona Diamondbacks,4,1.62,Cincinnati Reds,5,2.38
+948,20:05,Chicago Cubs,1,2.12,San Diego Padres,4,1.78
+949,20:05,Texas Rangers,5,2.36,Houston Astros,3,1.64
+950,19:45,St.Louis Cardinals,7,1.54,Pittsburgh Pirates,5,2.58
+951,19:10,Detroit Tigers,5,2.15,Chicago White Sox,9,1.75
+952,19:07,Toronto Blue Jays,11,1.35,Baltimore Orioles,1,3.39
+953,19:05,Philadelphia Phillies,3,1.80,Miami Marlins,2,2.08
+954,19:05,Washington Nationals,5,2.29,Atlanta Braves,9,1.67
+955,19:08,Los Angeles Angels,1,1.78,New York Mets,4,2.11
+956,16:05,Baltimore Orioles,6,2.44,Tampa Bay Rays,7,1.59
+957,15:07,Toronto Blue Jays,0,1.67,New York Yankees,4,2.31
+958,14:20,Chicago Cubs,6,2.70,Atlanta Braves,3,1.50
+959,22:10,Los Angeles Dodgers,1,1.37,Cleveland Guardians,2,3.30
+960,22:10,Seattle Mariners,8,1.72,Los Angeles Angels,1,2.20
+961,21:40,Arizona Diamondbacks,7,2.19,Minnesota Twins,2,1.73
+962,21:40,Oakland Athletics,1,1.63,Kansas City Royals,5,2.38
+963,20:40,Colorado Rockies,10,2.28,San Diego Padres,4,1.68
+964,20:10,Houston Astros,13,1.60,Chicago White Sox,3,2.44
+965,19:10,Boston Red Sox,6,1.86,St.Louis Cardinals,5,2.01
+966,19:10,Detroit Tigers,0,1.82,Texas Rangers,7,2.04
+967,19:10,New York Mets,10,1.67,Miami Marlins,4,2.28
+968,19:07,Toronto Blue Jays,3,1.99,New York Yankees,12,1.88
+969,19:05,Pittsburgh Pirates,0,2.74,San Francisco Giants,2,1.49
+970,19:05,Washington Nationals,7,2.00,Philadelphia Phillies,8,1.86
+971,18:40,Cincinnati Reds,4,1.96,Milwaukee Brewers,5,1.91
+972,18:05,Baltimore Orioles,1,2.24,Tampa Bay Rays,0,1.70
+973,14:20,Chicago Cubs,1,2.57,Atlanta Braves,0,1.55
+974,13:05,Washington Nationals,3,2.56,Philadelphia Phillies,5,1.55
+975,22:10,Seattle Mariners,1,2.21,Los Angeles Angels,4,1.72
+976,16:05,Baltimore Orioles,6,2.44,Tampa Bay Rays,7,1.59
+977,15:07,Toronto Blue Jays,0,1.67,New York Yankees,4,2.31
+978,14:20,Chicago Cubs,6,2.70,Atlanta Braves,3,1.50
+979,22:10,Los Angeles Dodgers,1,1.37,Cleveland Guardians,2,3.30
+980,22:10,Seattle Mariners,8,1.72,Los Angeles Angels,1,2.20
+981,21:40,Arizona Diamondbacks,7,2.19,Minnesota Twins,2,1.73
+982,21:40,Oakland Athletics,1,1.63,Kansas City Royals,5,2.38
+983,20:40,Colorado Rockies,10,2.28,San Diego Padres,4,1.68
+984,20:10,Houston Astros,13,1.60,Chicago White Sox,3,2.44
+985,19:10,Boston Red Sox,6,1.86,St.Louis Cardinals,5,2.01
+986,19:10,Detroit Tigers,0,1.82,Texas Rangers,7,2.04
+987,19:10,New York Mets,10,1.67,Miami Marlins,4,2.28
+988,19:07,Toronto Blue Jays,3,1.99,New York Yankees,12,1.88
+989,19:05,Pittsburgh Pirates,0,2.74,San Francisco Giants,2,1.49
+990,19:05,Washington Nationals,7,2.00,Philadelphia Phillies,8,1.86
+991,18:40,Cincinnati Reds,4,1.96,Milwaukee Brewers,5,1.91
+992,18:05,Baltimore Orioles,1,2.24,Tampa Bay Rays,0,1.70
+993,14:20,Chicago Cubs,1,2.57,Atlanta Braves,0,1.55
+994,13:05,Washington Nationals,3,2.56,Philadelphia Phillies,5,1.55
+995,22:10,Seattle Mariners,1,2.21,Los Angeles Angels,4,1.72
+996,21:38,Los Angeles Angels,11,1.57,Kansas City Royals,12,2.52
+997,20:10,Chicago White Sox,7,2.12,Toronto Blue Jays,6,1.77
+998,20:10,Houston Astros,8,1.70,New York Mets,2,2.25
+999,20:10,Milwaukee Brewers,2,2.08,St.Louis Cardinals,6,1.80
+1000,20:05,Texas Rangers,7,1.77,Philadelphia Phillies,0,2.11
+1001,19:40,Minnesota Twins,5,1.61,Cleveland Guardians,6,2.41
+1002,19:20,Atlanta Braves,10,1.57,San Francisco Giants,12,2.49
+1003,19:10,Boston Red Sox,5,1.51,Detroit Tigers,4,2.70
+1004,19:10,Tampa Bay Rays,5,2.39,New York Yankees,4,1.62
+1005,19:05,Baltimore Orioles,0,1.78,Washington Nationals,3,2.11
+1006,19:05,Pittsburgh Pirates,7,1.67,Chicago Cubs,1,2.28
+1007,18:40,Cincinnati Reds,2,2.59,Los Angeles Dodgers,8,1.54
+1008,18:40,Miami Marlins,9,1.78,Colorado Rockies,8,2.12
+1009,21:40,San Diego Padres,4,1.58,Arizona Diamondbacks,1,2.49
+1010,21:38,Los Angeles Angels,2,1.51,Kansas City Royals,6,2.68
+1011,20:10,Chicago White Sox,8,2.09,Toronto Blue Jays,7,1.80
+1012,20:10,Milwaukee Brewers,2,1.59,St.Louis Cardinals,0,2.47
+1013,19:20,Atlanta Braves,2,1.66,San Francisco Giants,1,2.31
+1014,19:10,Boston Red Sox,5,1.54,Detroit Tigers,2,2.60
+1015,19:10,Tampa Bay Rays,2,2.22,New York Yankees,4,1.71
+1016,21:38,Los Angeles Angels,11,1.57,Kansas City Royals,12,2.52
+1017,20:10,Chicago White Sox,7,2.12,Toronto Blue Jays,6,1.77
+1018,20:10,Houston Astros,8,1.70,New York Mets,2,2.25
+1019,20:10,Milwaukee Brewers,2,2.08,St.Louis Cardinals,6,1.80
+1020,20:05,Texas Rangers,7,1.77,Philadelphia Phillies,0,2.11
+1021,19:40,Minnesota Twins,5,1.61,Cleveland Guardians,6,2.41
+1022,19:20,Atlanta Braves,10,1.57,San Francisco Giants,12,2.49
+1023,19:10,Boston Red Sox,5,1.51,Detroit Tigers,4,2.70
+1024,19:10,Tampa Bay Rays,5,2.39,New York Yankees,4,1.62
+1025,19:05,Baltimore Orioles,0,1.78,Washington Nationals,3,2.11
+1026,19:05,Pittsburgh Pirates,7,1.67,Chicago Cubs,1,2.28
+1027,18:40,Cincinnati Reds,2,2.59,Los Angeles Dodgers,8,1.54
+1028,18:40,Miami Marlins,9,1.78,Colorado Rockies,8,2.12
+1029,21:40,San Diego Padres,4,1.58,Arizona Diamondbacks,1,2.49
+1030,21:38,Los Angeles Angels,2,1.51,Kansas City Royals,6,2.68
+1031,20:10,Chicago White Sox,8,2.09,Toronto Blue Jays,7,1.80
+1032,20:10,Milwaukee Brewers,2,1.59,St.Louis Cardinals,0,2.47
+1033,19:20,Atlanta Braves,2,1.66,San Francisco Giants,1,2.31
+1034,19:10,Boston Red Sox,5,1.54,Detroit Tigers,2,2.60
+1035,19:10,Tampa Bay Rays,2,2.22,New York Yankees,4,1.71
+1036,16:10,Kansas City Royals,7,1.59,Oakland Athletics,9,2.48
+1037,16:10,Miami Marlins,3,2.25,New York Mets,5,1.69
+1038,16:10,Milwaukee Brewers,5,1.54,Toronto Blue Jays,4,2.61
+1039,16:05,Texas Rangers,3,1.69,Washington Nationals,2,2.25
+1040,14:15,St.Louis Cardinals,5,1.47,Chicago Cubs,3,2.83
+1041,14:10,Chicago White Sox,2,1.49,Baltimore Orioles,6,2.76
+1042,13:10,Tampa Bay Rays,6,1.55,Pittsburgh Pirates,5,2.55
+1043,13:05,New York Yankees,0,1.54,Houston Astros,3,2.62
+1044,22:15,San Francisco Giants,2,1.46,Cincinnati Reds,4,2.86
+1045,21:40,Arizona Diamondbacks,1,1.59,Detroit Tigers,5,2.46
+1046,21:40,San Diego Padres,1,2.16,Philadelphia Phillies,0,1.74
+1047,21:38,Los Angeles Angels,3,1.64,Seattle Mariners,4,2.36
+1048,20:15,St.Louis Cardinals,0,1.58,Chicago Cubs,3,2.48
+1049,20:10,Chicago White Sox,1,1.56,Baltimore Orioles,4,2.53
+1050,20:10,Kansas City Royals,3,1.69,Oakland Athletics,1,2.27
+1051,20:10,Milwaukee Brewers,4,2.22,Toronto Blue Jays,9,1.71
+1052,20:10,Minnesota Twins,0,1.65,Colorado Rockies,1,2.32
+1053,20:05,Texas Rangers,1,1.63,Washington Nationals,2,2.38
+1054,19:20,Atlanta Braves,1,2.10,Los Angeles Dodgers,4,1.79
+1055,19:10,Cleveland Guardians,3,1.98,Boston Red Sox,6,1.87
+1056,16:10,Kansas City Royals,7,1.59,Oakland Athletics,9,2.48
+1057,16:10,Miami Marlins,3,2.25,New York Mets,5,1.69
+1058,16:10,Milwaukee Brewers,5,1.54,Toronto Blue Jays,4,2.61
+1059,16:05,Texas Rangers,3,1.69,Washington Nationals,2,2.25
+1060,14:15,St.Louis Cardinals,5,1.47,Chicago Cubs,3,2.83
+1061,14:10,Chicago White Sox,2,1.49,Baltimore Orioles,6,2.76
+1062,13:10,Tampa Bay Rays,6,1.55,Pittsburgh Pirates,5,2.55
+1063,13:05,New York Yankees,0,1.54,Houston Astros,3,2.62
+1064,22:15,San Francisco Giants,2,1.46,Cincinnati Reds,4,2.86
+1065,21:40,Arizona Diamondbacks,1,1.59,Detroit Tigers,5,2.46
+1066,21:40,San Diego Padres,1,2.16,Philadelphia Phillies,0,1.74
+1067,21:38,Los Angeles Angels,3,1.64,Seattle Mariners,4,2.36
+1068,20:15,St.Louis Cardinals,0,1.58,Chicago Cubs,3,2.48
+1069,20:10,Chicago White Sox,1,1.56,Baltimore Orioles,4,2.53
+1070,20:10,Kansas City Royals,3,1.69,Oakland Athletics,1,2.27
+1071,20:10,Milwaukee Brewers,4,2.22,Toronto Blue Jays,9,1.71
+1072,20:10,Minnesota Twins,0,1.65,Colorado Rockies,1,2.32
+1073,20:05,Texas Rangers,1,1.63,Washington Nationals,2,2.38
+1074,19:20,Atlanta Braves,1,2.10,Los Angeles Dodgers,4,1.79
+1075,19:10,Cleveland Guardians,3,1.98,Boston Red Sox,6,1.87
+1076,13:05,New York Yankees,5,1.28,Oakland Athletics,3,3.85
+1077,13:05,Washington Nationals,7,1.68,Pittsburgh Pirates,8,2.27
+1078,12:10,Tampa Bay Rays,3,1.79,Milwaukee Brewers,5,2.11
+1079,22:10,Seattle Mariners,2,1.60,Baltimore Orioles,0,2.44
+1080,21:45,San Francisco Giants,4,1.45,Detroit Tigers,3,2.88
+1081,21:40,Arizona Diamondbacks,7,1.93,San Diego Padres,6,1.92
+1082,21:38,Los Angeles Angels,4,1.80,Chicago White Sox,11,2.07
+1083,20:40,Colorado Rockies,7,2.84,Los Angeles Dodgers,4,1.46
+1084,20:10,Kansas City Royals,3,2.33,Texas Rangers,8,1.65
+1085,20:05,Chicago Cubs,3,1.82,Cincinnati Reds,5,2.05
+1086,19:45,St.Louis Cardinals,5,1.70,Miami Marlins,3,2.24
+1087,19:10,Cleveland Guardians,0,1.97,Minnesota Twins,6,1.89
+1088,19:10,New York Mets,1,2.05,Houston Astros,9,1.82
+1089,19:10,Tampa Bay Rays,3,1.88,Milwaukee Brewers,5,1.99
+1090,19:07,Toronto Blue Jays,6,1.72,Boston Red Sox,5,2.19
+1091,19:05,New York Yankees,2,1.50,Oakland Athletics,1,2.70
+1092,19:05,Philadelphia Phillies,3,1.81,Atlanta Braves,5,2.05
+1093,19:05,Washington Nationals,3,1.79,Pittsburgh Pirates,1,2.10
+1094,13:10,Cleveland Guardians,3,1.89,Minnesota Twins,2,1.97
+1095,22:10,Seattle Mariners,2,1.66,Baltimore Orioles,9,2.31
+1096,13:05,New York Yankees,5,1.28,Oakland Athletics,3,3.85
+1097,13:05,Washington Nationals,7,1.68,Pittsburgh Pirates,8,2.27
+1098,12:10,Tampa Bay Rays,3,1.79,Milwaukee Brewers,5,2.11
+1099,22:10,Seattle Mariners,2,1.60,Baltimore Orioles,0,2.44
+1100,21:45,San Francisco Giants,4,1.45,Detroit Tigers,3,2.88
+1101,21:40,Arizona Diamondbacks,7,1.93,San Diego Padres,6,1.92
+1102,21:38,Los Angeles Angels,4,1.80,Chicago White Sox,11,2.07
+1103,20:40,Colorado Rockies,7,2.84,Los Angeles Dodgers,4,1.46
+1104,20:10,Kansas City Royals,3,2.33,Texas Rangers,8,1.65
+1105,20:05,Chicago Cubs,3,1.82,Cincinnati Reds,5,2.05
+1106,19:45,St.Louis Cardinals,5,1.70,Miami Marlins,3,2.24
+1107,19:10,Cleveland Guardians,0,1.97,Minnesota Twins,6,1.89
+1108,19:10,New York Mets,1,2.05,Houston Astros,9,1.82
+1109,19:10,Tampa Bay Rays,3,1.88,Milwaukee Brewers,5,1.99
+1110,19:07,Toronto Blue Jays,6,1.72,Boston Red Sox,5,2.19
+1111,19:05,New York Yankees,2,1.50,Oakland Athletics,1,2.70
+1112,19:05,Philadelphia Phillies,3,1.81,Atlanta Braves,5,2.05
+1113,19:05,Washington Nationals,3,1.79,Pittsburgh Pirates,1,2.10
+1114,13:10,Cleveland Guardians,3,1.89,Minnesota Twins,2,1.97
+1115,22:10,Seattle Mariners,2,1.66,Baltimore Orioles,9,2.31
+1116,19:15,Chicago Cubs,3,2.27,Boston Red Sox,1,1.68
+1117,19:15,Los Angeles Dodgers,7,1.68,San Diego Padres,2,2.27
+1118,18:10,Cleveland Guardians,1,2.57,New York Yankees,6,1.54
+1119,18:07,Toronto Blue Jays,5,1.77,Tampa Bay Rays,11,2.11
+1120,16:10,Cincinnati Reds,1,2.52,Atlanta Braves,4,1.57
+1121,16:10,Detroit Tigers,4,1.76,Kansas City Royals,3,2.14
+1122,16:10,Houston Astros,9,1.62,Los Angeles Angels,1,2.39
+1123,16:10,New York Mets,3,1.74,Texas Rangers,7,2.17
+1124,16:10,Seattle Mariners,2,1.56,Oakland Athletics,1,2.54
+1125,16:05,Philadelphia Phillies,6,1.81,St.Louis Cardinals,7,2.08
+1126,16:05,Pittsburgh Pirates,7,2.80,Milwaukee Brewers,4,1.48
+1127,16:05,San Francisco Giants,3,1.70,Chicago White Sox,5,2.26
+1128,16:05,Washington Nationals,3,1.96,Miami Marlins,5,1.90
+1129,14:10,Minnesota Twins,4,1.40,Baltimore Orioles,3,3.11
+1130,12:10,Cleveland Guardians,4,3.36,New York Yankees,13,1.35
+1131,12:07,Toronto Blue Jays,2,1.73,Tampa Bay Rays,6,2.19
+1132,22:15,San Francisco Giants,0,1.67,Chicago White Sox,1,2.29
+1133,22:10,Los Angeles Dodgers,5,1.56,San Diego Padres,1,2.54
+1134,22:10,Seattle Mariners,1,1.58,Oakland Athletics,3,2.49
+1135,20:10,Colorado Rockies,3,1.86,Arizona Diamondbacks,9,2.01
+1136,19:15,Chicago Cubs,3,2.27,Boston Red Sox,1,1.68
+1137,19:15,Los Angeles Dodgers,7,1.68,San Diego Padres,2,2.27
+1138,18:10,Cleveland Guardians,1,2.57,New York Yankees,6,1.54
+1139,18:07,Toronto Blue Jays,5,1.77,Tampa Bay Rays,11,2.11
+1140,16:10,Cincinnati Reds,1,2.52,Atlanta Braves,4,1.57
+1141,16:10,Detroit Tigers,4,1.76,Kansas City Royals,3,2.14
+1142,16:10,Houston Astros,9,1.62,Los Angeles Angels,1,2.39
+1143,16:10,New York Mets,3,1.74,Texas Rangers,7,2.17
+1144,16:10,Seattle Mariners,2,1.56,Oakland Athletics,1,2.54
+1145,16:05,Philadelphia Phillies,6,1.81,St.Louis Cardinals,7,2.08
+1146,16:05,Pittsburgh Pirates,7,2.80,Milwaukee Brewers,4,1.48
+1147,16:05,San Francisco Giants,3,1.70,Chicago White Sox,5,2.26
+1148,16:05,Washington Nationals,3,1.96,Miami Marlins,5,1.90
+1149,14:10,Minnesota Twins,4,1.40,Baltimore Orioles,3,3.11
+1150,12:10,Cleveland Guardians,4,3.36,New York Yankees,13,1.35
+1151,12:07,Toronto Blue Jays,2,1.73,Tampa Bay Rays,6,2.19
+1152,22:15,San Francisco Giants,0,1.67,Chicago White Sox,1,2.29
+1153,22:10,Los Angeles Dodgers,5,1.56,San Diego Padres,1,2.54
+1154,22:10,Seattle Mariners,1,1.58,Oakland Athletics,3,2.49
+1155,20:10,Colorado Rockies,3,1.86,Arizona Diamondbacks,9,2.01
+1156,18:40,Miami Marlins,2,2.42,Los Angeles Angels,5,1.61
+1157,15:37,Oakland Athletics,1,2.77,Toronto Blue Jays,2,1.48
+1158,14:10,Chicago White Sox,9,1.83,Minnesota Twins,8,2.04
+1159,14:10,Milwaukee Brewers,1,1.38,Chicago Cubs,2,3.23
+1160,13:10,Detroit Tigers,8,2.41,Cleveland Guardians,2,1.61
+1161,22:10,Los Angeles Dodgers,5,1.44,Colorado Rockies,2,2.91
+1162,21:40,Arizona Diamondbacks,6,2.40,San Francisco Giants,2,1.62
+1163,21:40,Oakland Athletics,5,2.46,Toronto Blue Jays,3,1.59
+1164,20:10,Chicago White Sox,2,1.76,Minnesota Twins,8,2.14
+1165,20:10,Houston Astros,9,1.39,Kansas City Royals,7,3.17
+1166,20:10,Milwaukee Brewers,3,1.71,Chicago Cubs,8,2.20
+1167,19:20,Atlanta Braves,7,1.69,St.Louis Cardinals,1,2.24
+1168,19:10,Boston Red Sox,4,1.80,Tampa Bay Rays,8,2.09
+1169,19:10,Detroit Tigers,11,2.36,Cleveland Guardians,4,1.63
+1170,19:05,Baltimore Orioles,10,1.93,Texas Rangers,9,1.93
+1171,19:05,Philadelphia Phillies,11,1.60,Washington Nationals,0,2.45
+1172,19:05,Pittsburgh Pirates,5,2.64,New York Yankees,2,1.52
+1173,18:40,Cincinnati Reds,1,2.85,New York Mets,0,1.46
+1174,18:40,Miami Marlins,2,1.68,Los Angeles Angels,1,2.26
+1175,16:10,San Diego Padres,2,1.74,Seattle Mariners,6,2.17
+1176,18:40,Miami Marlins,2,2.42,Los Angeles Angels,5,1.61
+1177,15:37,Oakland Athletics,1,2.77,Toronto Blue Jays,2,1.48
+1178,14:10,Chicago White Sox,9,1.83,Minnesota Twins,8,2.04
+1179,14:10,Milwaukee Brewers,1,1.38,Chicago Cubs,2,3.23
+1180,13:10,Detroit Tigers,8,2.41,Cleveland Guardians,2,1.61
+1181,22:10,Los Angeles Dodgers,5,1.44,Colorado Rockies,2,2.91
+1182,21:40,Arizona Diamondbacks,6,2.40,San Francisco Giants,2,1.62
+1183,21:40,Oakland Athletics,5,2.46,Toronto Blue Jays,3,1.59
+1184,20:10,Chicago White Sox,2,1.76,Minnesota Twins,8,2.14
+1185,20:10,Houston Astros,9,1.39,Kansas City Royals,7,3.17
+1186,20:10,Milwaukee Brewers,3,1.71,Chicago Cubs,8,2.20
+1187,19:20,Atlanta Braves,7,1.69,St.Louis Cardinals,1,2.24
+1188,19:10,Boston Red Sox,4,1.80,Tampa Bay Rays,8,2.09
+1189,19:10,Detroit Tigers,11,2.36,Cleveland Guardians,4,1.63
+1190,19:05,Baltimore Orioles,10,1.93,Texas Rangers,9,1.93
+1191,19:05,Philadelphia Phillies,11,1.60,Washington Nationals,0,2.45
+1192,19:05,Pittsburgh Pirates,5,2.64,New York Yankees,2,1.52
+1193,18:40,Cincinnati Reds,1,2.85,New York Mets,0,1.46
+1194,18:40,Miami Marlins,2,1.68,Los Angeles Angels,1,2.26
+1195,16:10,San Diego Padres,2,1.74,Seattle Mariners,6,2.17
+1196,19:15,Boston Red Sox,6,2.42,New York Yankees,5,1.62
+1197,19:15,San Diego Padres,1,1.91,San Francisco Giants,3,1.94
+1198,16:10,Arizona Diamondbacks,9,1.80,Colorado Rockies,2,2.10
+1199,16:10,Atlanta Braves,4,1.43,Washington Nationals,3,2.98
+1200,16:10,Cincinnati Reds,5,2.29,Tampa Bay Rays,4,1.67
+1201,16:10,Kansas City Royals,1,2.22,Cleveland Guardians,13,1.72
+1202,16:10,Milwaukee Brewers,3,1.37,Pittsburgh Pirates,4,3.29
+1203,16:10,New York Mets,5,1.55,Miami Marlins,4,2.56
+1204,16:07,Oakland Athletics,3,3.43,Houston Astros,2,1.35
+1205,16:05,Baltimore Orioles,1,2.03,Los Angeles Angels,0,1.84
+1206,16:05,Texas Rangers,9,1.79,Minnesota Twins,7,2.11
+1207,14:15,St.Louis Cardinals,0,1.82,Philadelphia Phillies,1,2.05
+1208,14:10,Chicago White Sox,8,1.59,Detroit Tigers,0,2.46
+1209,22:10,Los Angeles Dodgers,4,1.49,Chicago Cubs,3,2.76
+1210,22:10,Seattle Mariners,5,1.93,Toronto Blue Jays,2,1.92
+1211,21:40,Arizona Diamondbacks,5,1.60,Colorado Rockies,6,2.42
+1212,21:40,Oakland Athletics,3,2.56,Houston Astros,8,1.55
+1213,21:40,San Diego Padres,6,1.65,San Francisco Giants,3,2.34
+1214,20:15,St.Louis Cardinals,0,2.11,Philadelphia Phillies,2,1.78
+1215,20:10,Chicago White Sox,5,1.55,Detroit Tigers,7,2.54
+1216,19:15,Boston Red Sox,6,2.42,New York Yankees,5,1.62
+1217,19:15,San Diego Padres,1,1.91,San Francisco Giants,3,1.94
+1218,16:10,Arizona Diamondbacks,9,1.80,Colorado Rockies,2,2.10
+1219,16:10,Atlanta Braves,4,1.43,Washington Nationals,3,2.98
+1220,16:10,Cincinnati Reds,5,2.29,Tampa Bay Rays,4,1.67
+1221,16:10,Kansas City Royals,1,2.22,Cleveland Guardians,13,1.72
+1222,16:10,Milwaukee Brewers,3,1.37,Pittsburgh Pirates,4,3.29
+1223,16:10,New York Mets,5,1.55,Miami Marlins,4,2.56
+1224,16:07,Oakland Athletics,3,3.43,Houston Astros,2,1.35
+1225,16:05,Baltimore Orioles,1,2.03,Los Angeles Angels,0,1.84
+1226,16:05,Texas Rangers,9,1.79,Minnesota Twins,7,2.11
+1227,14:15,St.Louis Cardinals,0,1.82,Philadelphia Phillies,1,2.05
+1228,14:10,Chicago White Sox,8,1.59,Detroit Tigers,0,2.46
+1229,22:10,Los Angeles Dodgers,4,1.49,Chicago Cubs,3,2.76
+1230,22:10,Seattle Mariners,5,1.93,Toronto Blue Jays,2,1.92
+1231,21:40,Arizona Diamondbacks,5,1.60,Colorado Rockies,6,2.42
+1232,21:40,Oakland Athletics,3,2.56,Houston Astros,8,1.55
+1233,21:40,San Diego Padres,6,1.65,San Francisco Giants,3,2.34
+1234,20:15,St.Louis Cardinals,0,2.11,Philadelphia Phillies,2,1.78
+1235,20:10,Chicago White Sox,5,1.55,Detroit Tigers,7,2.54
+1236,19:05,New York Yankees,7,1.30,Cincinnati Reds,6,3.79
+1237,18:40,Miami Marlins,5,1.58,Pittsburgh Pirates,4,2.49
+1238,18:05,Washington Nationals,1,2.01,Seattle Mariners,2,1.83
+1239,15:45,San Francisco Giants,4,1.77,Arizona Diamondbacks,3,2.13
+1240,14:10,Kansas City Royals,5,1.83,Detroit Tigers,2,2.04
+1241,13:10,Minnesota Twins,4,1.79,Milwaukee Brewers,1,2.11
+1242,12:20,Atlanta Braves,3,1.65,New York Mets,7,2.33
+1243,12:05,Washington Nationals,4,1.90,Seattle Mariners,6,1.96
+1244,21:45,San Francisco Giants,13,1.45,Arizona Diamondbacks,0,2.90
+1245,21:38,Los Angeles Angels,5,2.04,Houston Astros,6,1.83
+1246,19:05,New York Yankees,7,1.30,Cincinnati Reds,6,3.79
+1247,18:40,Miami Marlins,5,1.58,Pittsburgh Pirates,4,2.49
+1248,18:05,Washington Nationals,1,2.01,Seattle Mariners,2,1.83
+1249,15:45,San Francisco Giants,4,1.77,Arizona Diamondbacks,3,2.13
+1250,14:10,Kansas City Royals,5,1.83,Detroit Tigers,2,2.04
+1251,13:10,Minnesota Twins,4,1.79,Milwaukee Brewers,1,2.11
+1252,12:20,Atlanta Braves,3,1.65,New York Mets,7,2.33
+1253,12:05,Washington Nationals,4,1.90,Seattle Mariners,6,1.96
+1254,21:45,San Francisco Giants,13,1.45,Arizona Diamondbacks,0,2.90
+1255,21:38,Los Angeles Angels,5,2.04,Houston Astros,6,1.83
+1256,20:40,San Diego Padres,4,1.53,Arizona Diamondbacks,3,2.61
+1257,20:05,Chicago Cubs,3,2.00,New York Mets,4,2.00
+1258,19:15,New York Yankees,14,1.61,Boston Red Sox,1,2.43
+1259,19:15,San Francisco Giants,2,1.74,Milwaukee Brewers,1,2.17
+1260,16:10,Cleveland Guardians,10,1.61,Detroit Tigers,0,2.41
+1261,16:10,Houston Astros,5,1.28,Oakland Athletics,0,3.98
+1262,16:10,Miami Marlins,0,1.90,Philadelphia Phillies,10,1.95
+1263,16:10,Tampa Bay Rays,4,1.81,Baltimore Orioles,6,2.06
+1264,16:05,Texas Rangers,2,2.37,Seattle Mariners,3,1.63
+1265,16:05,Washington Nationals,3,3.04,Atlanta Braves,6,1.42
+1266,15:10,Colorado Rockies,2,1.70,Pittsburgh Pirates,0,2.24
+1267,15:07,Toronto Blue Jays,6,1.32,Kansas City Royals,5,3.57
+1268,14:20,Chicago Cubs,1,2.74,New York Mets,2,1.51
+1269,14:15,St.Louis Cardinals,11,1.58,Cincinnati Reds,3,2.49
+1270,14:10,Minnesota Twins,6,1.75,Chicago White Sox,3,2.16
+1271,22:15,San Francisco Giants,8,2.08,Milwaukee Brewers,5,1.81
+1272,21:40,San Diego Padres,5,1.52,Arizona Diamondbacks,3,2.67
+1273,21:38,Los Angeles Angels,1,2.73,Los Angeles Dodgers,9,1.50
+1274,20:40,Colorado Rockies,13,1.65,Pittsburgh Pirates,2,2.32
+1275,20:15,St.Louis Cardinals,7,1.66,Cincinnati Reds,3,2.31
+1276,20:40,San Diego Padres,4,1.53,Arizona Diamondbacks,3,2.61
+1277,20:05,Chicago Cubs,3,2.00,New York Mets,4,2.00
+1278,19:15,New York Yankees,14,1.61,Boston Red Sox,1,2.43
+1279,19:15,San Francisco Giants,2,1.74,Milwaukee Brewers,1,2.17
+1280,16:10,Cleveland Guardians,10,1.61,Detroit Tigers,0,2.41
+1281,16:10,Houston Astros,5,1.28,Oakland Athletics,0,3.98
+1282,16:10,Miami Marlins,0,1.90,Philadelphia Phillies,10,1.95
+1283,16:10,Tampa Bay Rays,4,1.81,Baltimore Orioles,6,2.06
+1284,16:05,Texas Rangers,2,2.37,Seattle Mariners,3,1.63
+1285,16:05,Washington Nationals,3,3.04,Atlanta Braves,6,1.42
+1286,15:10,Colorado Rockies,2,1.70,Pittsburgh Pirates,0,2.24
+1287,15:07,Toronto Blue Jays,6,1.32,Kansas City Royals,5,3.57
+1288,14:20,Chicago Cubs,1,2.74,New York Mets,2,1.51
+1289,14:15,St.Louis Cardinals,11,1.58,Cincinnati Reds,3,2.49
+1290,14:10,Minnesota Twins,6,1.75,Chicago White Sox,3,2.16
+1291,22:15,San Francisco Giants,8,2.08,Milwaukee Brewers,5,1.81
+1292,21:40,San Diego Padres,5,1.52,Arizona Diamondbacks,3,2.67
+1293,21:38,Los Angeles Angels,1,2.73,Los Angeles Dodgers,9,1.50
+1294,20:40,Colorado Rockies,13,1.65,Pittsburgh Pirates,2,2.32
+1295,20:15,St.Louis Cardinals,7,1.66,Cincinnati Reds,3,2.31
+1296,21:07,Oakland Athletics,3,2.15,Texas Rangers,1,1.75
+1297,20:10,Arizona Diamondbacks,7,1.64,Washington Nationals,2,2.36
+1298,19:20,Atlanta Braves,7,1.47,Los Angeles Angels,2,2.84
+1299,19:15,Chicago White Sox,5,1.59,Cleveland Guardians,4,2.47
+1300,19:15,Los Angeles Dodgers,4,1.54,San Francisco Giants,2,2.60
+1301,19:10,Kansas City Royals,6,1.89,Tampa Bay Rays,3,1.96
+1302,19:10,Milwaukee Brewers,9,1.38,Colorado Rockies,4,3.25
+1303,19:10,New York Mets,1,1.70,San Diego Padres,2,2.25
+1304,19:05,Baltimore Orioles,6,2.97,New York Yankees,3,1.43
+1305,19:05,Pittsburgh Pirates,1,2.06,Miami Marlins,0,1.82
+1306,18:40,Cincinnati Reds,3,2.36,St.Louis Cardinals,6,1.64
+1307,18:10,Detroit Tigers,4,2.49,Minnesota Twins,8,1.58
+1308,18:05,Philadelphia Phillies,2,1.60,Chicago Cubs,6,2.45
+1309,16:10,Boston Red Sox,1,2.49,Toronto Blue Jays,4,1.58
+1310,16:10,Seattle Mariners,1,2.38,Houston Astros,3,1.62
+1311,13:10,Chicago White Sox,4,1.87,Cleveland Guardians,7,1.99
+1312,22:10,Los Angeles Dodgers,5,1.64,San Francisco Giants,1,2.36
+1313,22:10,Seattle Mariners,2,2.06,Houston Astros,5,1.81
+1314,21:40,Arizona Diamondbacks,10,1.63,Washington Nationals,1,2.38
+1315,21:40,Oakland Athletics,5,1.99,Texas Rangers,4,1.87
+1316,21:07,Oakland Athletics,3,2.15,Texas Rangers,1,1.75
+1317,20:10,Arizona Diamondbacks,7,1.64,Washington Nationals,2,2.36
+1318,19:20,Atlanta Braves,7,1.47,Los Angeles Angels,2,2.84
+1319,19:15,Chicago White Sox,5,1.59,Cleveland Guardians,4,2.47
+1320,19:15,Los Angeles Dodgers,4,1.54,San Francisco Giants,2,2.60
+1321,19:10,Kansas City Royals,6,1.89,Tampa Bay Rays,3,1.96
+1322,19:10,Milwaukee Brewers,9,1.38,Colorado Rockies,4,3.25
+1323,19:10,New York Mets,1,1.70,San Diego Padres,2,2.25
+1324,19:05,Baltimore Orioles,6,2.97,New York Yankees,3,1.43
+1325,19:05,Pittsburgh Pirates,1,2.06,Miami Marlins,0,1.82
+1326,18:40,Cincinnati Reds,3,2.36,St.Louis Cardinals,6,1.64
+1327,18:10,Detroit Tigers,4,2.49,Minnesota Twins,8,1.58
+1328,18:05,Philadelphia Phillies,2,1.60,Chicago Cubs,6,2.45
+1329,16:10,Boston Red Sox,1,2.49,Toronto Blue Jays,4,1.58
+1330,16:10,Seattle Mariners,1,2.38,Houston Astros,3,1.62
+1331,13:10,Chicago White Sox,4,1.87,Cleveland Guardians,7,1.99
+1332,22:10,Los Angeles Dodgers,5,1.64,San Francisco Giants,1,2.36
+1333,22:10,Seattle Mariners,2,2.06,Houston Astros,5,1.81
+1334,21:40,Arizona Diamondbacks,10,1.63,Washington Nationals,1,2.38
+1335,21:40,Oakland Athletics,5,1.99,Texas Rangers,4,1.87
+1336,15:40,Seattle Mariners,4,2.08,Texas Rangers,2,1.81
+1337,15:37,Oakland Athletics,4,2.84,Houston Astros,2,1.46
+1338,15:10,Colorado Rockies,6,2.11,Chicago White Sox,5,1.78
+1339,15:10,Los Angeles Dodgers,7,1.38,Washington Nationals,1,3.24
+1340,14:10,Kansas City Royals,0,1.76,Los Angeles Angels,4,2.14
+1341,14:10,Milwaukee Brewers,10,1.47,Minnesota Twins,4,2.83
+1342,13:10,Detroit Tigers,4,2.21,San Diego Padres,3,1.71
+1343,12:35,Philadelphia Phillies,7,2.25,Atlanta Braves,2,1.70
+1344,22:10,Los Angeles Dodgers,3,1.39,Washington Nationals,8,3.14
+1345,22:10,Seattle Mariners,5,1.59,Texas Rangers,4,2.47
+1346,21:40,Arizona Diamondbacks,7,2.56,San Francisco Giants,3,1.56
+1347,21:40,Oakland Athletics,5,2.46,Houston Astros,3,1.60
+1348,20:40,Colorado Rockies,1,1.98,Chicago White Sox,2,1.88
+1349,20:10,Kansas City Royals,0,1.77,Los Angeles Angels,6,2.12
+1350,20:10,Milwaukee Brewers,7,1.85,Minnesota Twins,6,2.03
+1351,19:10,Boston Red Sox,3,1.71,Cleveland Guardians,8,2.21
+1352,19:10,Detroit Tigers,4,2.51,San Diego Padres,6,1.57
+1353,19:10,New York Mets,6,1.99,New York Yankees,3,1.88
+1354,19:07,Toronto Blue Jays,10,1.45,St.Louis Cardinals,3,2.90
+1355,19:05,Baltimore Orioles,5,2.61,Tampa Bay Rays,3,1.54
+1356,15:40,Seattle Mariners,4,2.08,Texas Rangers,2,1.81
+1357,15:37,Oakland Athletics,4,2.84,Houston Astros,2,1.46
+1358,15:10,Colorado Rockies,6,2.11,Chicago White Sox,5,1.78
+1359,15:10,Los Angeles Dodgers,7,1.38,Washington Nationals,1,3.24
+1360,14:10,Kansas City Royals,0,1.76,Los Angeles Angels,4,2.14
+1361,14:10,Milwaukee Brewers,10,1.47,Minnesota Twins,4,2.83
+1362,13:10,Detroit Tigers,4,2.21,San Diego Padres,3,1.71
+1363,12:35,Philadelphia Phillies,7,2.25,Atlanta Braves,2,1.70
+1364,22:10,Los Angeles Dodgers,3,1.39,Washington Nationals,8,3.14
+1365,22:10,Seattle Mariners,5,1.59,Texas Rangers,4,2.47
+1366,21:40,Arizona Diamondbacks,7,2.56,San Francisco Giants,3,1.56
+1367,21:40,Oakland Athletics,5,2.46,Houston Astros,3,1.60
+1368,20:40,Colorado Rockies,1,1.98,Chicago White Sox,2,1.88
+1369,20:10,Kansas City Royals,0,1.77,Los Angeles Angels,6,2.12
+1370,20:10,Milwaukee Brewers,7,1.85,Minnesota Twins,6,2.03
+1371,19:10,Boston Red Sox,3,1.71,Cleveland Guardians,8,2.21
+1372,19:10,Detroit Tigers,4,2.51,San Diego Padres,6,1.57
+1373,19:10,New York Mets,6,1.99,New York Yankees,3,1.88
+1374,19:07,Toronto Blue Jays,10,1.45,St.Louis Cardinals,3,2.90
+1375,19:05,Baltimore Orioles,5,2.61,Tampa Bay Rays,3,1.54
+1376,13:35,Atlanta Braves,1,1.44,Arizona Diamondbacks,0,2.93
+1377,13:35,Boston Red Sox,7,2.24,Milwaukee Brewers,2,1.70
+1378,13:35,New York Yankees,6,1.36,Kansas City Royals,8,3.29
+1379,12:05,Toronto Blue Jays,4,1.35,Detroit Tigers,1,3.36
+1380,21:07,Los Angeles Angels,9,1.81,Texas Rangers,7,2.06
+1381,21:05,San Francisco Giants,5,1.70,Chicago Cubs,4,2.21
+1382,20:10,Colorado Rockies,5,2.86,Los Angeles Dodgers,3,1.45
+1383,19:20,Atlanta Braves,6,1.44,Arizona Diamondbacks,2,2.91
+1384,19:15,Chicago White Sox,3,1.55,Oakland Athletics,2,2.55
+1385,19:15,Pittsburgh Pirates,1,2.40,Philadelphia Phillies,2,1.61
+1386,19:15,San Diego Padres,4,1.74,Minnesota Twins,7,2.16
+1387,19:15,Washington Nationals,7,2.17,St.Louis Cardinals,6,1.73
+1388,19:10,Houston Astros,4,1.53,Seattle Mariners,5,2.59
+1389,18:40,Cincinnati Reds,8,1.88,Baltimore Orioles,2,1.97
+1390,18:10,Miami Marlins,0,2.61,New York Mets,4,1.53
+1391,16:10,Boston Red Sox,4,1.97,Milwaukee Brewers,9,1.88
+1392,15:07,Toronto Blue Jays,5,1.35,Detroit Tigers,3,3.37
+1393,14:05,New York Yankees,8,1.33,Kansas City Royals,2,3.50
+1394,13:10,Tampa Bay Rays,6,1.70,Cleveland Guardians,4,2.24
+1395,22:15,San Francisco Giants,2,1.75,Chicago Cubs,4,2.16
+1396,13:35,Atlanta Braves,1,1.44,Arizona Diamondbacks,0,2.93
+1397,13:35,Boston Red Sox,7,2.24,Milwaukee Brewers,2,1.70
+1398,13:35,New York Yankees,6,1.36,Kansas City Royals,8,3.29
+1399,12:05,Toronto Blue Jays,4,1.35,Detroit Tigers,1,3.36
+1400,21:07,Los Angeles Angels,9,1.81,Texas Rangers,7,2.06
+1401,21:05,San Francisco Giants,5,1.70,Chicago Cubs,4,2.21
+1402,20:10,Colorado Rockies,5,2.86,Los Angeles Dodgers,3,1.45
+1403,19:20,Atlanta Braves,6,1.44,Arizona Diamondbacks,2,2.91
+1404,19:15,Chicago White Sox,3,1.55,Oakland Athletics,2,2.55
+1405,19:15,Pittsburgh Pirates,1,2.40,Philadelphia Phillies,2,1.61
+1406,19:15,San Diego Padres,4,1.74,Minnesota Twins,7,2.16
+1407,19:15,Washington Nationals,7,2.17,St.Louis Cardinals,6,1.73
+1408,19:10,Houston Astros,4,1.53,Seattle Mariners,5,2.59
+1409,18:40,Cincinnati Reds,8,1.88,Baltimore Orioles,2,1.97
+1410,18:10,Miami Marlins,0,2.61,New York Mets,4,1.53
+1411,16:10,Boston Red Sox,4,1.97,Milwaukee Brewers,9,1.88
+1412,15:07,Toronto Blue Jays,5,1.35,Detroit Tigers,3,3.37
+1413,14:05,New York Yankees,8,1.33,Kansas City Royals,2,3.50
+1414,13:10,Tampa Bay Rays,6,1.70,Cleveland Guardians,4,2.24
+1415,22:15,San Francisco Giants,2,1.75,Chicago Cubs,4,2.16
+1416,21:40,San Diego Padres,9,1.33,Colorado Rockies,1,3.47
+1417,21:38,Los Angeles Angels,1,1.46,Oakland Athletics,3,2.88
+1418,19:05,Pittsburgh Pirates,8,2.83,Milwaukee Brewers,7,1.46
+1419,18:40,Miami Marlins,3,1.46,Cincinnati Reds,0,2.82
+1420,16:05,Washington Nationals,5,3.45,New York Mets,9,1.33
+1421,14:10,Chicago White Sox,4,1.72,Kansas City Royals,1,2.20
+1422,14:10,Houston Astros,6,1.52,Boston Red Sox,1,2.66
+1423,14:05,Texas Rangers,3,1.63,Baltimore Orioles,6,2.36
+1424,13:10,Cleveland Guardians,7,1.45,Arizona Diamondbacks,4,2.90
+1425,13:10,Minnesota Twins,4,1.46,Detroit Tigers,1,2.83
+1426,13:05,New York Yankees,3,1.57,Seattle Mariners,7,2.50
+1427,12:20,Atlanta Braves,1,1.72,Philadelphia Phillies,3,2.20
+1428,12:10,Tampa Bay Rays,3,2.10,Toronto Blue Jays,2,1.79
+1429,22:10,San Diego Padres,3,1.54,Colorado Rockies,2,2.61
+1430,21:45,San Francisco Giants,5,2.34,Los Angeles Dodgers,9,1.64
+1431,21:38,Los Angeles Angels,3,1.83,Oakland Athletics,1,2.04
+1432,20:10,Chicago White Sox,9,1.58,Kansas City Royals,2,2.48
+1433,20:10,Houston Astros,1,1.47,Boston Red Sox,2,2.81
+1434,20:05,Texas Rangers,2,1.76,Baltimore Orioles,8,2.13
+1435,19:45,St.Louis Cardinals,6,1.58,Chicago Cubs,0,2.46
+1436,21:40,San Diego Padres,9,1.33,Colorado Rockies,1,3.47
+1437,21:38,Los Angeles Angels,1,1.46,Oakland Athletics,3,2.88
+1438,19:05,Pittsburgh Pirates,8,2.83,Milwaukee Brewers,7,1.46
+1439,18:40,Miami Marlins,3,1.46,Cincinnati Reds,0,2.82
+1440,16:05,Washington Nationals,5,3.45,New York Mets,9,1.33
+1441,14:10,Chicago White Sox,4,1.72,Kansas City Royals,1,2.20
+1442,14:10,Houston Astros,6,1.52,Boston Red Sox,1,2.66
+1443,14:05,Texas Rangers,3,1.63,Baltimore Orioles,6,2.36
+1444,13:10,Cleveland Guardians,7,1.45,Arizona Diamondbacks,4,2.90
+1445,13:10,Minnesota Twins,4,1.46,Detroit Tigers,1,2.83
+1446,13:05,New York Yankees,3,1.57,Seattle Mariners,7,2.50
+1447,12:20,Atlanta Braves,1,1.72,Philadelphia Phillies,3,2.20
+1448,12:10,Tampa Bay Rays,3,2.10,Toronto Blue Jays,2,1.79
+1449,22:10,San Diego Padres,3,1.54,Colorado Rockies,2,2.61
+1450,21:45,San Francisco Giants,5,2.34,Los Angeles Dodgers,9,1.64
+1451,21:38,Los Angeles Angels,3,1.83,Oakland Athletics,1,2.04
+1452,20:10,Chicago White Sox,9,1.58,Kansas City Royals,2,2.48
+1453,20:10,Houston Astros,1,1.47,Boston Red Sox,2,2.81
+1454,20:05,Texas Rangers,2,1.76,Baltimore Orioles,8,2.13
+1455,19:45,St.Louis Cardinals,6,1.58,Chicago Cubs,0,2.46
+1456,14:10,Minnesota Twins,2,2.54,Toronto Blue Jays,3,1.56
+1457,13:40,Detroit Tigers,0,2.60,Tampa Bay Rays,7,1.55
+1458,13:35,Baltimore Orioles,1,1.54,Pittsburgh Pirates,8,2.59
+1459,13:35,Philadelphia Phillies,13,1.31,Washington Nationals,1,3.62
+1460,12:05,Cleveland Guardians,1,2.14,Houston Astros,0,1.75
+1461,22:10,Seattle Mariners,1,1.69,Los Angeles Angels,7,2.25
+1462,21:10,Los Angeles Dodgers,8,1.67,San Diego Padres,3,2.29
+1463,20:10,Arizona Diamondbacks,2,1.56,Colorado Rockies,3,2.52
+1464,19:15,Milwaukee Brewers,5,1.53,Cincinnati Reds,7,2.58
+1465,19:15,St.Louis Cardinals,1,1.89,New York Yankees,0,1.96
+1466,19:10,Kansas City Royals,5,2.24,Boston Red Sox,4,1.69
+1467,19:10,Minnesota Twins,7,2.02,Toronto Blue Jays,3,1.83
+1468,19:10,New York Mets,6,1.75,Atlanta Braves,2,2.13
+1469,19:07,Oakland Athletics,3,3.03,San Francisco Giants,7,1.41
+1470,19:05,Texas Rangers,8,2.04,Chicago White Sox,0,1.82
+1471,18:10,Cleveland Guardians,4,2.35,Houston Astros,1,1.63
+1472,18:10,Detroit Tigers,9,3.13,Tampa Bay Rays,1,1.39
+1473,18:05,Philadelphia Phillies,11,1.36,Washington Nationals,5,3.32
+1474,17:05,Baltimore Orioles,6,1.60,Pittsburgh Pirates,3,2.43
+1475,16:10,Seattle Mariners,2,1.47,Los Angeles Angels,1,2.78
+1476,14:10,Minnesota Twins,2,2.54,Toronto Blue Jays,3,1.56
+1477,13:40,Detroit Tigers,0,2.60,Tampa Bay Rays,7,1.55
+1478,13:35,Baltimore Orioles,1,1.54,Pittsburgh Pirates,8,2.59
+1479,13:35,Philadelphia Phillies,13,1.31,Washington Nationals,1,3.62
+1480,12:05,Cleveland Guardians,1,2.14,Houston Astros,0,1.75
+1481,22:10,Seattle Mariners,1,1.69,Los Angeles Angels,7,2.25
+1482,21:10,Los Angeles Dodgers,8,1.67,San Diego Padres,3,2.29
+1483,20:10,Arizona Diamondbacks,2,1.56,Colorado Rockies,3,2.52
+1484,19:15,Milwaukee Brewers,5,1.53,Cincinnati Reds,7,2.58
+1485,19:15,St.Louis Cardinals,1,1.89,New York Yankees,0,1.96
+1486,19:10,Kansas City Royals,5,2.24,Boston Red Sox,4,1.69
+1487,19:10,Minnesota Twins,7,2.02,Toronto Blue Jays,3,1.83
+1488,19:10,New York Mets,6,1.75,Atlanta Braves,2,2.13
+1489,19:07,Oakland Athletics,3,3.03,San Francisco Giants,7,1.41
+1490,19:05,Texas Rangers,8,2.04,Chicago White Sox,0,1.82
+1491,18:10,Cleveland Guardians,4,2.35,Houston Astros,1,1.63
+1492,18:10,Detroit Tigers,9,3.13,Tampa Bay Rays,1,1.39
+1493,18:05,Philadelphia Phillies,11,1.36,Washington Nationals,5,3.32
+1494,17:05,Baltimore Orioles,6,1.60,Pittsburgh Pirates,3,2.43
+1495,16:10,Seattle Mariners,2,1.47,Los Angeles Angels,1,2.78
+1496,14:10,Kansas City Royals,5,2.52,Chicago White Sox,3,1.56
+1497,13:10,Detroit Tigers,3,2.27,Cleveland Guardians,4,1.67
+1498,13:05,Philadelphia Phillies,0,1.63,Miami Marlins,3,2.38
+1499,22:10,Los Angeles Dodgers,8,1.49,Minnesota Twins,5,2.72
+1500,21:40,Arizona Diamondbacks,4,1.65,Pittsburgh Pirates,6,2.32
+1501,20:40,Colorado Rockies,5,2.32,St.Louis Cardinals,9,1.65
+1502,20:10,Houston Astros,4,1.31,Texas Rangers,8,3.61
+1503,20:10,Kansas City Royals,8,2.28,Chicago White Sox,3,1.67
+1504,19:10,Boston Red Sox,4,2.30,Atlanta Braves,8,1.66
+1505,19:10,Detroit Tigers,2,2.44,Cleveland Guardians,3,1.59
+1506,19:05,Philadelphia Phillies,4,1.79,Miami Marlins,3,2.10
+1507,16:10,San Diego Padres,13,1.61,San Francisco Giants,7,2.41
+1508,16:10,Seattle Mariners,4,2.07,New York Yankees,3,1.81
+1509,15:37,Oakland Athletics,4,1.75,Los Angeles Angels,5,2.16
+1510,14:20,Chicago Cubs,4,1.61,Washington Nationals,2,2.41
+1511,14:10,Milwaukee Brewers,4,1.65,Tampa Bay Rays,3,2.33
+1512,13:10,New York Mets,10,1.30,Cincinnati Reds,2,3.74
+1513,22:10,Los Angeles Dodgers,10,1.40,Minnesota Twins,3,3.08
+1514,22:10,Seattle Mariners,1,2.16,New York Yankees,0,1.74
+1515,21:40,Arizona Diamondbacks,6,1.61,Pittsburgh Pirates,4,2.40
+1516,14:10,Kansas City Royals,5,2.52,Chicago White Sox,3,1.56
+1517,13:10,Detroit Tigers,3,2.27,Cleveland Guardians,4,1.67
+1518,13:05,Philadelphia Phillies,0,1.63,Miami Marlins,3,2.38
+1519,22:10,Los Angeles Dodgers,8,1.49,Minnesota Twins,5,2.72
+1520,21:40,Arizona Diamondbacks,4,1.65,Pittsburgh Pirates,6,2.32
+1521,20:40,Colorado Rockies,5,2.32,St.Louis Cardinals,9,1.65
+1522,20:10,Houston Astros,4,1.31,Texas Rangers,8,3.61
+1523,20:10,Kansas City Royals,8,2.28,Chicago White Sox,3,1.67
+1524,19:10,Boston Red Sox,4,2.30,Atlanta Braves,8,1.66
+1525,19:10,Detroit Tigers,2,2.44,Cleveland Guardians,3,1.59
+1526,19:05,Philadelphia Phillies,4,1.79,Miami Marlins,3,2.10
+1527,16:10,San Diego Padres,13,1.61,San Francisco Giants,7,2.41
+1528,16:10,Seattle Mariners,4,2.07,New York Yankees,3,1.81
+1529,15:37,Oakland Athletics,4,1.75,Los Angeles Angels,5,2.16
+1530,14:20,Chicago Cubs,4,1.61,Washington Nationals,2,2.41
+1531,14:10,Milwaukee Brewers,4,1.65,Tampa Bay Rays,3,2.33
+1532,13:10,New York Mets,10,1.30,Cincinnati Reds,2,3.74
+1533,22:10,Los Angeles Dodgers,10,1.40,Minnesota Twins,3,3.08
+1534,22:10,Seattle Mariners,1,2.16,New York Yankees,0,1.74
+1535,21:40,Arizona Diamondbacks,6,1.61,Pittsburgh Pirates,4,2.40
+1536,19:08,Boston Red Sox,3,2.12,New York Yankees,0,1.77
+1537,16:07,Los Angeles Angels,4,2.17,Minnesota Twins,2,1.74
+1538,16:05,San Francisco Giants,8,1.37,Pittsburgh Pirates,7,3.27
+1539,15:10,Colorado Rockies,4,1.80,Arizona Diamondbacks,7,2.08
+1540,14:35,Texas Rangers,5,2.03,Seattle Mariners,3,1.83
+1541,14:15,St.Louis Cardinals,6,1.67,Milwaukee Brewers,3,2.30
+1542,14:10,Chicago White Sox,5,1.49,Detroit Tigers,3,2.77
+1543,14:10,Houston Astros,6,1.36,Oakland Athletics,3,3.30
+1544,14:10,Kansas City Royals,4,2.96,Los Angeles Dodgers,0,1.43
+1545,13:40,Cincinnati Reds,8,2.28,Chicago Cubs,5,1.67
+1546,13:40,Miami Marlins,1,2.07,Atlanta Braves,3,1.81
+1547,13:40,New York Mets,6,1.74,Philadelphia Phillies,0,2.17
+1548,13:40,Tampa Bay Rays,4,1.57,Baltimore Orioles,1,2.50
+1549,13:37,Toronto Blue Jays,2,1.67,Cleveland Guardians,7,2.29
+1550,12:05,Washington Nationals,0,3.34,San Diego Padres,6,1.35
+1551,21:07,Los Angeles Angels,5,1.97,Minnesota Twins,3,1.88
+1552,21:05,San Francisco Giants,2,1.39,Pittsburgh Pirates,0,3.11
+1553,20:10,Colorado Rockies,0,2.21,Arizona Diamondbacks,6,1.72
+1554,19:15,Boston Red Sox,2,2.28,New York Yankees,3,1.67
+1555,19:15,St.Louis Cardinals,2,2.20,Milwaukee Brewers,3,1.72
+1556,19:08,Boston Red Sox,3,2.12,New York Yankees,0,1.77
+1557,16:07,Los Angeles Angels,4,2.17,Minnesota Twins,2,1.74
+1558,16:05,San Francisco Giants,8,1.37,Pittsburgh Pirates,7,3.27
+1559,15:10,Colorado Rockies,4,1.80,Arizona Diamondbacks,7,2.08
+1560,14:35,Texas Rangers,5,2.03,Seattle Mariners,3,1.83
+1561,14:15,St.Louis Cardinals,6,1.67,Milwaukee Brewers,3,2.30
+1562,14:10,Chicago White Sox,5,1.49,Detroit Tigers,3,2.77
+1563,14:10,Houston Astros,6,1.36,Oakland Athletics,3,3.30
+1564,14:10,Kansas City Royals,4,2.96,Los Angeles Dodgers,0,1.43
+1565,13:40,Cincinnati Reds,8,2.28,Chicago Cubs,5,1.67
+1566,13:40,Miami Marlins,1,2.07,Atlanta Braves,3,1.81
+1567,13:40,New York Mets,6,1.74,Philadelphia Phillies,0,2.17
+1568,13:40,Tampa Bay Rays,4,1.57,Baltimore Orioles,1,2.50
+1569,13:37,Toronto Blue Jays,2,1.67,Cleveland Guardians,7,2.29
+1570,12:05,Washington Nationals,0,3.34,San Diego Padres,6,1.35
+1571,21:07,Los Angeles Angels,5,1.97,Minnesota Twins,3,1.88
+1572,21:05,San Francisco Giants,2,1.39,Pittsburgh Pirates,0,3.11
+1573,20:10,Colorado Rockies,0,2.21,Arizona Diamondbacks,6,1.72
+1574,19:15,Boston Red Sox,2,2.28,New York Yankees,3,1.67
+1575,19:15,St.Louis Cardinals,2,2.20,Milwaukee Brewers,3,1.72
+1576,15:45,San Francisco Giants,0,1.66,Arizona Diamondbacks,5,2.31
+1577,15:05,Baltimore Orioles,2,1.62,Chicago Cubs,3,2.39
+1578,14:10,Chicago White Sox,5,2.14,Houston Astros,21,1.76
+1579,14:10,Milwaukee Brewers,5,1.84,Los Angeles Dodgers,3,2.02
+1580,14:05,Texas Rangers,10,1.52,Oakland Athletics,3,2.68
+1581,13:15,St.Louis Cardinals,13,1.42,Colorado Rockies,0,3.03
+1582,21:45,San Francisco Giants,2,1.45,Arizona Diamondbacks,3,2.88
+1583,20:10,Chicago White Sox,2,2.27,Houston Astros,3,1.67
+1584,20:10,Milwaukee Brewers,1,2.37,Los Angeles Dodgers,2,1.63
+1585,20:05,Texas Rangers,2,1.58,Oakland Athletics,7,2.47
+1586,19:45,St.Louis Cardinals,5,1.50,Colorado Rockies,1,2.70
+1587,19:20,Atlanta Braves,7,2.32,New York Mets,9,1.65
+1588,19:10,Cleveland Guardians,8,1.45,Detroit Tigers,4,2.88
+1589,19:05,New York Yankees,8,1.75,Tampa Bay Rays,7,2.16
+1590,19:05,Pittsburgh Pirates,3,2.36,Boston Red Sox,8,1.63
+1591,16:10,Miami Marlins,3,2.34,San Diego Padres,10,1.64
+1592,16:07,Los Angeles Angels,7,2.52,Seattle Mariners,11,1.56
+1593,15:07,Toronto Blue Jays,6,1.58,Baltimore Orioles,1,2.50
+1594,13:10,Minnesota Twins,4,1.48,Kansas City Royals,0,2.76
+1595,13:05,Washington Nationals,2,2.36,Chicago Cubs,3,1.63
+1596,15:45,San Francisco Giants,0,1.66,Arizona Diamondbacks,5,2.31
+1597,15:05,Baltimore Orioles,2,1.62,Chicago Cubs,3,2.39
+1598,14:10,Chicago White Sox,5,2.14,Houston Astros,21,1.76
+1599,14:10,Milwaukee Brewers,5,1.84,Los Angeles Dodgers,3,2.02
+1600,14:05,Texas Rangers,10,1.52,Oakland Athletics,3,2.68
+1601,13:15,St.Louis Cardinals,13,1.42,Colorado Rockies,0,3.03
+1602,21:45,San Francisco Giants,2,1.45,Arizona Diamondbacks,3,2.88
+1603,20:10,Chicago White Sox,2,2.27,Houston Astros,3,1.67
+1604,20:10,Milwaukee Brewers,1,2.37,Los Angeles Dodgers,2,1.63
+1605,20:05,Texas Rangers,2,1.58,Oakland Athletics,7,2.47
+1606,19:45,St.Louis Cardinals,5,1.50,Colorado Rockies,1,2.70
+1607,19:20,Atlanta Braves,7,2.32,New York Mets,9,1.65
+1608,19:10,Cleveland Guardians,8,1.45,Detroit Tigers,4,2.88
+1609,19:05,New York Yankees,8,1.75,Tampa Bay Rays,7,2.16
+1610,19:05,Pittsburgh Pirates,3,2.36,Boston Red Sox,8,1.63
+1611,16:10,Miami Marlins,3,2.34,San Diego Padres,10,1.64
+1612,16:07,Los Angeles Angels,7,2.52,Seattle Mariners,11,1.56
+1613,15:07,Toronto Blue Jays,6,1.58,Baltimore Orioles,1,2.50
+1614,13:10,Minnesota Twins,4,1.48,Kansas City Royals,0,2.76
+1615,13:05,Washington Nationals,2,2.36,Chicago Cubs,3,1.63
+1616,19:10,Baltimore Orioles,5,1.99,Boston Red Sox,3,1.87
+1617,16:10,Arizona Diamondbacks,4,2.12,St.Louis Cardinals,6,1.77
+1618,16:10,Los Angeles Dodgers,10,1.60,Miami Marlins,3,2.44
+1619,16:10,San Diego Padres,2,1.34,Washington Nationals,1,3.43
+1620,16:07,Oakland Athletics,5,2.84,Seattle Mariners,3,1.46
+1621,15:10,Colorado Rockies,8,2.14,San Francisco Giants,9,1.77
+1622,14:20,Chicago Cubs,2,2.29,Milwaukee Brewers,5,1.67
+1623,14:10,Minnesota Twins,0,1.55,Texas Rangers,7,2.56
+1624,13:40,Detroit Tigers,4,2.59,Los Angeles Angels,0,1.54
+1625,13:40,Tampa Bay Rays,3,1.55,Kansas City Royals,2,2.56
+1626,13:35,Atlanta Braves,4,1.63,Houston Astros,5,2.38
+1627,13:35,New York Yankees,4,1.84,Toronto Blue Jays,2,2.03
+1628,13:35,Philadelphia Phillies,9,1.81,New York Mets,10,2.06
+1629,13:35,Pittsburgh Pirates,5,1.84,Cincinnati Reds,9,2.03
+1630,21:10,Los Angeles Dodgers,7,1.32,Miami Marlins,0,3.67
+1631,20:40,San Diego Padres,2,1.32,Washington Nationals,1,3.59
+1632,20:10,Arizona Diamondbacks,7,2.29,St.Louis Cardinals,16,1.66
+1633,20:10,Colorado Rockies,4,2.50,San Francisco Giants,3,1.57
+1634,19:15,Atlanta Braves,5,1.61,Houston Astros,4,2.40
+1635,19:15,Oakland Athletics,4,2.63,Seattle Mariners,3,1.52
+1636,19:10,Baltimore Orioles,5,1.99,Boston Red Sox,3,1.87
+1637,16:10,Arizona Diamondbacks,4,2.12,St.Louis Cardinals,6,1.77
+1638,16:10,Los Angeles Dodgers,10,1.60,Miami Marlins,3,2.44
+1639,16:10,San Diego Padres,2,1.34,Washington Nationals,1,3.43
+1640,16:07,Oakland Athletics,5,2.84,Seattle Mariners,3,1.46
+1641,15:10,Colorado Rockies,8,2.14,San Francisco Giants,9,1.77
+1642,14:20,Chicago Cubs,2,2.29,Milwaukee Brewers,5,1.67
+1643,14:10,Minnesota Twins,0,1.55,Texas Rangers,7,2.56
+1644,13:40,Detroit Tigers,4,2.59,Los Angeles Angels,0,1.54
+1645,13:40,Tampa Bay Rays,3,1.55,Kansas City Royals,2,2.56
+1646,13:35,Atlanta Braves,4,1.63,Houston Astros,5,2.38
+1647,13:35,New York Yankees,4,1.84,Toronto Blue Jays,2,2.03
+1648,13:35,Philadelphia Phillies,9,1.81,New York Mets,10,2.06
+1649,13:35,Pittsburgh Pirates,5,1.84,Cincinnati Reds,9,2.03
+1650,21:10,Los Angeles Dodgers,7,1.32,Miami Marlins,0,3.67
+1651,20:40,San Diego Padres,2,1.32,Washington Nationals,1,3.59
+1652,20:10,Arizona Diamondbacks,7,2.29,St.Louis Cardinals,16,1.66
+1653,20:10,Colorado Rockies,4,2.50,San Francisco Giants,3,1.57
+1654,19:15,Atlanta Braves,5,1.61,Houston Astros,4,2.40
+1655,19:15,Oakland Athletics,4,2.63,Seattle Mariners,3,1.52
+1656,19:05,Washington Nationals,3,1.67,Cincinnati Reds,7,2.28
+1657,18:40,Miami Marlins,6,3.31,Los Angeles Dodgers,10,1.37
+1658,21:40,Oakland Athletics,4,2.82,New York Yankees,13,1.46
+1659,20:10,Houston Astros,6,1.61,Minnesota Twins,3,2.38
+1660,19:10,Boston Red Sox,5,2.52,Toronto Blue Jays,6,1.56
+1661,19:10,New York Mets,3,1.23,Colorado Rockies,1,4.42
+1662,19:05,Baltimore Orioles,4,2.04,Chicago White Sox,3,1.82
+1663,19:05,Philadelphia Phillies,4,1.28,Cincinnati Reds,0,3.92
+1664,16:10,Seattle Mariners,3,2.02,Cleveland Guardians,1,1.84
+1665,14:20,Chicago Cubs,3,1.87,St.Louis Cardinals,8,1.99
+1666,13:10,Tampa Bay Rays,8,1.48,Los Angeles Angels,3,2.76
+1667,21:00,Los Angeles Dodgers,12,1.38,Milwaukee Brewers,6,3.18
+1668,20:10,Houston Astros,5,1.44,Minnesota Twins,3,2.92
+1669,20:10,Kansas City Royals,5,2.09,Arizona Diamondbacks,3,1.79
+1670,20:05,Chicago Cubs,7,2.55,St.Louis Cardinals,1,1.55
+1671,19:10,Boston Red Sox,2,2.33,Toronto Blue Jays,3,1.65
+1672,19:10,Tampa Bay Rays,4,1.38,Los Angeles Angels,3,3.24
+1673,19:05,Baltimore Orioles,3,1.98,Chicago White Sox,5,1.87
+1674,19:05,Philadelphia Phillies,7,1.39,Cincinnati Reds,5,3.15
+1675,16:10,San Diego Padres,0,1.60,Cleveland Guardians,7,2.45
+1676,19:05,Washington Nationals,3,1.67,Cincinnati Reds,7,2.28
+1677,18:40,Miami Marlins,6,3.31,Los Angeles Dodgers,10,1.37
+1678,21:40,Oakland Athletics,4,2.82,New York Yankees,13,1.46
+1679,20:10,Houston Astros,6,1.61,Minnesota Twins,3,2.38
+1680,19:10,Boston Red Sox,5,2.52,Toronto Blue Jays,6,1.56
+1681,19:10,New York Mets,3,1.23,Colorado Rockies,1,4.42
+1682,19:05,Baltimore Orioles,4,2.04,Chicago White Sox,3,1.82
+1683,19:05,Philadelphia Phillies,4,1.28,Cincinnati Reds,0,3.92
+1684,16:10,Seattle Mariners,3,2.02,Cleveland Guardians,1,1.84
+1685,14:20,Chicago Cubs,3,1.87,St.Louis Cardinals,8,1.99
+1686,13:10,Tampa Bay Rays,8,1.48,Los Angeles Angels,3,2.76
+1687,21:00,Los Angeles Dodgers,12,1.38,Milwaukee Brewers,6,3.18
+1688,20:10,Houston Astros,5,1.44,Minnesota Twins,3,2.92
+1689,20:10,Kansas City Royals,5,2.09,Arizona Diamondbacks,3,1.79
+1690,20:05,Chicago Cubs,7,2.55,St.Louis Cardinals,1,1.55
+1691,19:10,Boston Red Sox,2,2.33,Toronto Blue Jays,3,1.65
+1692,19:10,Tampa Bay Rays,4,1.38,Los Angeles Angels,3,3.24
+1693,19:05,Baltimore Orioles,3,1.98,Chicago White Sox,5,1.87
+1694,19:05,Philadelphia Phillies,7,1.39,Cincinnati Reds,5,3.15
+1695,16:10,San Diego Padres,0,1.60,Cleveland Guardians,7,2.45
+1696,21:40,Arizona Diamondbacks,13,2.49,Philadelphia Phillies,7,1.57
+1697,21:38,Los Angeles Angels,4,2.47,New York Yankees,3,1.58
+1698,20:10,Milwaukee Brewers,7,1.30,Pittsburgh Pirates,5,3.78
+1699,19:40,Minnesota Twins,4,1.85,Boston Red Sox,2,2.01
+1700,19:07,Toronto Blue Jays,5,1.41,Chicago Cubs,4,3.03
+1701,18:40,Cincinnati Reds,4,2.83,St.Louis Cardinals,13,1.46
+1702,18:40,Miami Marlins,2,2.43,Los Angeles Dodgers,3,1.61
+1703,19:08,St.Louis Cardinals,6,1.69,Atlanta Braves,3,2.23
+1704,16:10,Seattle Mariners,4,1.66,Cleveland Guardians,0,2.29
+1705,16:07,Oakland Athletics,4,2.76,New York Yankees,1,1.48
+1706,14:35,Texas Rangers,8,1.61,Detroit Tigers,9,2.43
+1707,14:10,Chicago White Sox,2,1.55,Arizona Diamondbacks,3,2.58
+1708,14:10,Houston Astros,3,1.43,Baltimore Orioles,1,2.97
+1709,14:10,Kansas City Royals,15,2.68,San Diego Padres,7,1.51
+1710,14:10,Milwaukee Brewers,9,1.58,Chicago Cubs,7,2.49
+1711,14:10,Minnesota Twins,8,1.90,San Francisco Giants,3,1.95
+1712,13:40,New York Mets,0,1.30,Colorado Rockies,1,3.76
+1713,13:37,Toronto Blue Jays,3,1.38,Los Angeles Angels,8,3.20
+1714,13:35,Boston Red Sox,4,1.90,Tampa Bay Rays,12,1.95
+1715,13:35,Philadelphia Phillies,0,1.40,Pittsburgh Pirates,5,3.13
+1716,21:40,Arizona Diamondbacks,13,2.49,Philadelphia Phillies,7,1.57
+1717,21:38,Los Angeles Angels,4,2.47,New York Yankees,3,1.58
+1718,20:10,Milwaukee Brewers,7,1.30,Pittsburgh Pirates,5,3.78
+1719,19:40,Minnesota Twins,4,1.85,Boston Red Sox,2,2.01
+1720,19:07,Toronto Blue Jays,5,1.41,Chicago Cubs,4,3.03
+1721,18:40,Cincinnati Reds,4,2.83,St.Louis Cardinals,13,1.46
+1722,18:40,Miami Marlins,2,2.43,Los Angeles Dodgers,3,1.61
+1723,19:08,St.Louis Cardinals,6,1.69,Atlanta Braves,3,2.23
+1724,16:10,Seattle Mariners,4,1.66,Cleveland Guardians,0,2.29
+1725,16:07,Oakland Athletics,4,2.76,New York Yankees,1,1.48
+1726,14:35,Texas Rangers,8,1.61,Detroit Tigers,9,2.43
+1727,14:10,Chicago White Sox,2,1.55,Arizona Diamondbacks,3,2.58
+1728,14:10,Houston Astros,3,1.43,Baltimore Orioles,1,2.97
+1729,14:10,Kansas City Royals,15,2.68,San Diego Padres,7,1.51
+1730,14:10,Milwaukee Brewers,9,1.58,Chicago Cubs,7,2.49
+1731,14:10,Minnesota Twins,8,1.90,San Francisco Giants,3,1.95
+1732,13:40,New York Mets,0,1.30,Colorado Rockies,1,3.76
+1733,13:37,Toronto Blue Jays,3,1.38,Los Angeles Angels,8,3.20
+1734,13:35,Boston Red Sox,4,1.90,Tampa Bay Rays,12,1.95
+1735,13:35,Philadelphia Phillies,0,1.40,Pittsburgh Pirates,5,3.13
+1736,20:15,St.Louis Cardinals,8,1.40,Chicago Cubs,0,3.06
+1737,20:10,Chicago White Sox,4,2.13,Minnesota Twins,3,1.77
+1738,19:20,Atlanta Braves,8,1.54,Miami Marlins,1,2.57
+1739,19:10,Boston Red Sox,9,1.52,Texas Rangers,1,2.65
+1740,19:10,Cleveland Guardians,1,2.15,Seattle Mariners,6,1.74
+1741,19:10,Detroit Tigers,5,1.90,Kansas City Royals,4,1.95
+1742,19:10,New York Mets,7,1.35,Washington Nationals,3,3.37
+1743,19:10,Tampa Bay Rays,9,1.77,New York Yankees,0,2.13
+1744,19:05,Baltimore Orioles,5,1.61,Oakland Athletics,2,2.40
+1745,18:40,Cincinnati Reds,3,1.79,Colorado Rockies,2,2.08
+1746,18:35,Pittsburgh Pirates,0,2.95,Toronto Blue Jays,4,1.43
+1747,21:40,Arizona Diamondbacks,5,2.15,Milwaukee Brewers,0,1.74
+1748,19:20,Atlanta Braves,3,1.25,Colorado Rockies,0,4.23
+1749,19:10,Boston Red Sox,9,1.58,Texas Rangers,8,2.47
+1750,18:10,Cleveland Guardians,0,1.55,Baltimore Orioles,3,2.56
+1751,16:10,New York Mets,5,2.18,Los Angeles Dodgers,3,1.73
+1752,16:05,Washington Nationals,7,1.89,Oakland Athletics,5,1.96
+1753,14:10,Chicago White Sox,7,1.53,Kansas City Royals,1,2.61
+1754,13:10,Detroit Tigers,0,2.32,Seattle Mariners,7,1.65
+1755,21:40,Arizona Diamondbacks,2,2.16,Philadelphia Phillies,18,1.74
+1756,20:15,St.Louis Cardinals,8,1.40,Chicago Cubs,0,3.06
+1757,20:10,Chicago White Sox,4,2.13,Minnesota Twins,3,1.77
+1758,19:20,Atlanta Braves,8,1.54,Miami Marlins,1,2.57
+1759,19:10,Boston Red Sox,9,1.52,Texas Rangers,1,2.65
+1760,19:10,Cleveland Guardians,1,2.15,Seattle Mariners,6,1.74
+1761,19:10,Detroit Tigers,5,1.90,Kansas City Royals,4,1.95
+1762,19:10,New York Mets,7,1.35,Washington Nationals,3,3.37
+1763,19:10,Tampa Bay Rays,9,1.77,New York Yankees,0,2.13
+1764,19:05,Baltimore Orioles,5,1.61,Oakland Athletics,2,2.40
+1765,18:40,Cincinnati Reds,3,1.79,Colorado Rockies,2,2.08
+1766,18:35,Pittsburgh Pirates,0,2.95,Toronto Blue Jays,4,1.43
+1767,21:40,Arizona Diamondbacks,5,2.15,Milwaukee Brewers,0,1.74
+1768,19:20,Atlanta Braves,3,1.25,Colorado Rockies,0,4.23
+1769,19:10,Boston Red Sox,9,1.58,Texas Rangers,8,2.47
+1770,18:10,Cleveland Guardians,0,1.55,Baltimore Orioles,3,2.56
+1771,16:10,New York Mets,5,2.18,Los Angeles Dodgers,3,1.73
+1772,16:05,Washington Nationals,7,1.89,Oakland Athletics,5,1.96
+1773,14:10,Chicago White Sox,7,1.53,Kansas City Royals,1,2.61
+1774,13:10,Detroit Tigers,0,2.32,Seattle Mariners,7,1.65
+1775,21:40,Arizona Diamondbacks,2,2.16,Philadelphia Phillies,18,1.74
+1776,19:05,Baltimore Orioles,9,1.92,Toronto Blue Jays,6,1.93
+1777,18:45,Philadelphia Phillies,3,1.44,Miami Marlins,2,2.92
+1778,18:40,Tampa Bay Rays,8,1.72,Boston Red Sox,4,2.20
+1779,18:35,Pittsburgh Pirates,8,2.84,New York Mets,2,1.46
+1780,22:10,Los Angeles Dodgers,4,1.43,San Francisco Giants,7,2.96
+1781,21:38,Los Angeles Angels,10,1.54,Detroit Tigers,0,2.59
+1782,20:10,Kansas City Royals,5,2.18,Cleveland Guardians,6,1.73
+1783,19:10,Houston Astros,1,1.53,Texas Rangers,0,2.62
+1784,18:40,San Diego Padres,0,1.45,Arizona Diamondbacks,5,2.89
+1785,18:40,Seattle Mariners,2,2.01,Chicago White Sox,3,1.86
+1786,16:15,St.Louis Cardinals,0,1.37,Washington Nationals,6,3.25
+1787,16:10,Colorado Rockies,4,2.19,Milwaukee Brewers,6,1.72
+1788,16:10,Tampa Bay Rays,4,1.91,Boston Red Sox,3,1.94
+1789,16:05,Baltimore Orioles,4,2.11,Toronto Blue Jays,8,1.78
+1790,13:05,Baltimore Orioles,3,2.29,Toronto Blue Jays,7,1.68
+1791,13:05,New York Yankees,5,1.61,Minnesota Twins,2,2.42
+1792,19:08,Los Angeles Dodgers,9,1.62,San Diego Padres,4,2.38
+1793,16:10,Arizona Diamondbacks,5,1.59,Milwaukee Brewers,1,2.47
+1794,16:07,Los Angeles Angels,1,2.59,Houston Astros,9,1.54
+1795,16:05,San Francisco Giants,5,1.86,Philadelphia Phillies,3,1.99
+1796,19:05,Baltimore Orioles,9,1.92,Toronto Blue Jays,6,1.93
+1797,18:45,Philadelphia Phillies,3,1.44,Miami Marlins,2,2.92
+1798,18:40,Tampa Bay Rays,8,1.72,Boston Red Sox,4,2.20
+1799,18:35,Pittsburgh Pirates,8,2.84,New York Mets,2,1.46
+1800,22:10,Los Angeles Dodgers,4,1.43,San Francisco Giants,7,2.96
+1801,21:38,Los Angeles Angels,10,1.54,Detroit Tigers,0,2.59
+1802,20:10,Kansas City Royals,5,2.18,Cleveland Guardians,6,1.73
+1803,19:10,Houston Astros,1,1.53,Texas Rangers,0,2.62
+1804,18:40,San Diego Padres,0,1.45,Arizona Diamondbacks,5,2.89
+1805,18:40,Seattle Mariners,2,2.01,Chicago White Sox,3,1.86
+1806,16:15,St.Louis Cardinals,0,1.37,Washington Nationals,6,3.25
+1807,16:10,Colorado Rockies,4,2.19,Milwaukee Brewers,6,1.72
+1808,16:10,Tampa Bay Rays,4,1.91,Boston Red Sox,3,1.94
+1809,16:05,Baltimore Orioles,4,2.11,Toronto Blue Jays,8,1.78
+1810,13:05,Baltimore Orioles,3,2.29,Toronto Blue Jays,7,1.68
+1811,13:05,New York Yankees,5,1.61,Minnesota Twins,2,2.42
+1812,19:08,Los Angeles Dodgers,9,1.62,San Diego Padres,4,2.38
+1813,16:10,Arizona Diamondbacks,5,1.59,Milwaukee Brewers,1,2.47
+1814,16:07,Los Angeles Angels,1,2.59,Houston Astros,9,1.54
+1815,16:05,San Francisco Giants,5,1.86,Philadelphia Phillies,3,1.99
+1816,13:05,New York Yankees,10,1.95,Tampa Bay Rays,3,1.91
+1817,21:40,Oakland Athletics,3,2.50,Chicago White Sox,5,1.57
+1818,21:40,San Diego Padres,5,2.35,Los Angeles Dodgers,4,1.64
+1819,21:40,Seattle Mariners,4,2.03,Atlanta Braves,6,1.83
+1820,20:40,Colorado Rockies,13,1.86,Arizona Diamondbacks,10,1.99
+1821,20:10,Houston Astros,4,1.49,Los Angeles Angels,3,2.75
+1822,20:10,Kansas City Royals,2,1.75,Detroit Tigers,10,2.15
+1823,20:10,Milwaukee Brewers,2,1.65,Cincinnati Reds,8,2.32
+1824,20:10,Minnesota Twins,6,1.91,Cleveland Guardians,7,1.94
+1825,20:05,Texas Rangers,3,2.35,Toronto Blue Jays,4,1.63
+1826,19:05,Baltimore Orioles,3,1.82,Boston Red Sox,2,2.04
+1827,19:05,New York Yankees,2,1.93,Tampa Bay Rays,4,1.91
+1828,19:05,Philadelphia Phillies,5,1.49,Washington Nationals,3,2.74
+1829,18:40,Miami Marlins,6,2.37,New York Mets,3,1.62
+1830,18:35,Pittsburgh Pirates,8,2.66,St.Louis Cardinals,2,1.51
+1831,16:05,Chicago Cubs,4,2.26,San Francisco Giants,2,1.68
+1832,21:40,Oakland Athletics,2,2.72,Chicago White Sox,14,1.50
+1833,19:10,Milwaukee Brewers,4,1.54,San Francisco Giants,2,2.56
+1834,19:05,New York Yankees,3,1.69,Minnesota Twins,4,2.24
+1835,18:45,Philadelphia Phillies,5,1.75,Miami Marlins,6,2.15
+1836,13:05,New York Yankees,10,1.95,Tampa Bay Rays,3,1.91
+1837,21:40,Oakland Athletics,3,2.50,Chicago White Sox,5,1.57
+1838,21:40,San Diego Padres,5,2.35,Los Angeles Dodgers,4,1.64
+1839,21:40,Seattle Mariners,4,2.03,Atlanta Braves,6,1.83
+1840,20:40,Colorado Rockies,13,1.86,Arizona Diamondbacks,10,1.99
+1841,20:10,Houston Astros,4,1.49,Los Angeles Angels,3,2.75
+1842,20:10,Kansas City Royals,2,1.75,Detroit Tigers,10,2.15
+1843,20:10,Milwaukee Brewers,2,1.65,Cincinnati Reds,8,2.32
+1844,20:10,Minnesota Twins,6,1.91,Cleveland Guardians,7,1.94
+1845,20:05,Texas Rangers,3,2.35,Toronto Blue Jays,4,1.63
+1846,19:05,Baltimore Orioles,3,1.82,Boston Red Sox,2,2.04
+1847,19:05,New York Yankees,2,1.93,Tampa Bay Rays,4,1.91
+1848,19:05,Philadelphia Phillies,5,1.49,Washington Nationals,3,2.74
+1849,18:40,Miami Marlins,6,2.37,New York Mets,3,1.62
+1850,18:35,Pittsburgh Pirates,8,2.66,St.Louis Cardinals,2,1.51
+1851,16:05,Chicago Cubs,4,2.26,San Francisco Giants,2,1.68
+1852,21:40,Oakland Athletics,2,2.72,Chicago White Sox,14,1.50
+1853,19:10,Milwaukee Brewers,4,1.54,San Francisco Giants,2,2.56
+1854,19:05,New York Yankees,3,1.69,Minnesota Twins,4,2.24
+1855,18:45,Philadelphia Phillies,5,1.75,Miami Marlins,6,2.15
+1856,19:45,St.Louis Cardinals,4,1.57,Milwaukee Brewers,8,2.52
+1857,19:40,Minnesota Twins,6,1.54,Kansas City Royals,3,2.58
+1858,19:10,Boston Red Sox,6,2.35,New York Yankees,7,1.64
+1859,19:10,New York Mets,1,1.23,Chicago Cubs,4,4.46
+1860,19:07,Toronto Blue Jays,7,1.60,Tampa Bay Rays,2,2.52
+1861,19:05,Washington Nationals,3,2.37,Baltimore Orioles,4,1.63
+1862,18:40,Cincinnati Reds,0,1.73,Pittsburgh Pirates,1,2.16
+1863,18:40,Detroit Tigers,3,2.99,Houston Astros,6,1.42
+1864,18:40,Miami Marlins,1,1.82,Philadelphia Phillies,2,2.04
+1865,18:10,Cleveland Guardians,3,1.77,Los Angeles Angels,1,2.11
+1866,13:07,Toronto Blue Jays,2,1.87,Tampa Bay Rays,4,1.97
+1867,12:35,Cincinnati Reds,1,1.72,Pittsburgh Pirates,6,2.18
+1868,21:45,San Francisco Giants,3,2.59,Atlanta Braves,2,1.54
+1869,21:40,Arizona Diamondbacks,0,2.82,Los Angeles Dodgers,6,1.46
+1870,19:10,Miami Marlins,10,2.03,Texas Rangers,6,1.80
+1871,19:10,New York Mets,2,1.32,Chicago Cubs,5,3.52
+1872,19:07,Toronto Blue Jays,3,1.59,Tampa Bay Rays,2,2.44
+1873,18:40,Cincinnati Reds,3,1.75,Pittsburgh Pirates,6,2.15
+1874,18:40,Detroit Tigers,0,2.97,Houston Astros,7,1.42
+1875,18:10,Cleveland Guardians,5,1.83,Los Angeles Angels,4,2.03
+1876,19:45,St.Louis Cardinals,4,1.57,Milwaukee Brewers,8,2.52
+1877,19:40,Minnesota Twins,6,1.54,Kansas City Royals,3,2.58
+1878,19:10,Boston Red Sox,6,2.35,New York Yankees,7,1.64
+1879,19:10,New York Mets,1,1.23,Chicago Cubs,4,4.46
+1880,19:07,Toronto Blue Jays,7,1.60,Tampa Bay Rays,2,2.52
+1881,19:05,Washington Nationals,3,2.37,Baltimore Orioles,4,1.63
+1882,18:40,Cincinnati Reds,0,1.73,Pittsburgh Pirates,1,2.16
+1883,18:40,Detroit Tigers,3,2.99,Houston Astros,6,1.42
+1884,18:40,Miami Marlins,1,1.82,Philadelphia Phillies,2,2.04
+1885,18:10,Cleveland Guardians,3,1.77,Los Angeles Angels,1,2.11
+1886,13:07,Toronto Blue Jays,2,1.87,Tampa Bay Rays,4,1.97
+1887,12:35,Cincinnati Reds,1,1.72,Pittsburgh Pirates,6,2.18
+1888,21:45,San Francisco Giants,3,2.59,Atlanta Braves,2,1.54
+1889,21:40,Arizona Diamondbacks,0,2.82,Los Angeles Dodgers,6,1.46
+1890,19:10,Miami Marlins,10,2.03,Texas Rangers,6,1.80
+1891,19:10,New York Mets,2,1.32,Chicago Cubs,5,3.52
+1892,19:07,Toronto Blue Jays,3,1.59,Tampa Bay Rays,2,2.44
+1893,18:40,Cincinnati Reds,3,1.75,Pittsburgh Pirates,6,2.15
+1894,18:40,Detroit Tigers,0,2.97,Houston Astros,7,1.42
+1895,18:10,Cleveland Guardians,5,1.83,Los Angeles Angels,4,2.03
+1896,18:10,Tampa Bay Rays,5,1.74,Texas Rangers,1,2.17
+1897,16:10,Boston Red Sox,0,1.71,Kansas City Royals,9,2.20
+1898,16:05,Washington Nationals,5,2.11,Miami Marlins,3,1.77
+1899,15:07,Toronto Blue Jays,6,1.61,Baltimore Orioles,3,2.42
+1900,14:20,Chicago Cubs,1,1.70,Colorado Rockies,3,2.22
+1901,13:15,St.Louis Cardinals,5,1.40,Cincinnati Reds,1,3.12
+1902,13:10,Cleveland Guardians,5,1.53,Minnesota Twins,1,2.58
+1903,22:15,San Francisco Giants,0,2.39,Los Angeles Dodgers,5,1.62
+1904,21:40,Arizona Diamondbacks,3,2.56,San Diego Padres,12,1.56
+1905,21:38,Los Angeles Angels,8,2.35,Seattle Mariners,7,1.64
+1906,20:15,St.Louis Cardinals,6,1.36,Cincinnati Reds,5,3.34
+1907,20:10,Houston Astros,5,1.29,Oakland Athletics,0,3.81
+1908,20:10,Milwaukee Brewers,7,1.99,New York Yankees,6,1.87
+1909,19:20,Atlanta Braves,7,1.51,Philadelphia Phillies,2,2.71
+1910,19:10,Boston Red Sox,2,1.46,Kansas City Royals,1,2.83
+1911,19:10,Cleveland Guardians,4,1.64,Minnesota Twins,3,2.35
+1912,19:10,Detroit Tigers,3,2.28,Chicago White Sox,2,1.67
+1913,19:10,New York Mets,4,1.38,Pittsburgh Pirates,3,3.17
+1914,19:10,Tampa Bay Rays,3,1.65,Texas Rangers,4,2.31
+1915,19:07,Toronto Blue Jays,6,1.61,Baltimore Orioles,3,2.41
+1916,18:10,Tampa Bay Rays,5,1.74,Texas Rangers,1,2.17
+1917,16:10,Boston Red Sox,0,1.71,Kansas City Royals,9,2.20
+1918,16:05,Washington Nationals,5,2.11,Miami Marlins,3,1.77
+1919,15:07,Toronto Blue Jays,6,1.61,Baltimore Orioles,3,2.42
+1920,14:20,Chicago Cubs,1,1.70,Colorado Rockies,3,2.22
+1921,13:15,St.Louis Cardinals,5,1.40,Cincinnati Reds,1,3.12
+1922,13:10,Cleveland Guardians,5,1.53,Minnesota Twins,1,2.58
+1923,22:15,San Francisco Giants,0,2.39,Los Angeles Dodgers,5,1.62
+1924,21:40,Arizona Diamondbacks,3,2.56,San Diego Padres,12,1.56
+1925,21:38,Los Angeles Angels,8,2.35,Seattle Mariners,7,1.64
+1926,20:15,St.Louis Cardinals,6,1.36,Cincinnati Reds,5,3.34
+1927,20:10,Houston Astros,5,1.29,Oakland Athletics,0,3.81
+1928,20:10,Milwaukee Brewers,7,1.99,New York Yankees,6,1.87
+1929,19:20,Atlanta Braves,7,1.51,Philadelphia Phillies,2,2.71
+1930,19:10,Boston Red Sox,2,1.46,Kansas City Royals,1,2.83
+1931,19:10,Cleveland Guardians,4,1.64,Minnesota Twins,3,2.35
+1932,19:10,Detroit Tigers,3,2.28,Chicago White Sox,2,1.67
+1933,19:10,New York Mets,4,1.38,Pittsburgh Pirates,3,3.17
+1934,19:10,Tampa Bay Rays,3,1.65,Texas Rangers,4,2.31
+1935,19:07,Toronto Blue Jays,6,1.61,Baltimore Orioles,3,2.41
+1936,22:10,Los Angeles Dodgers,2,1.33,Arizona Diamondbacks,5,3.44
+1937,21:40,Oakland Athletics,4,2.96,Seattle Mariners,1,1.43
+1938,21:40,San Diego Padres,5,1.85,St.Louis Cardinals,0,2.00
+1939,20:40,Colorado Rockies,3,1.89,San Francisco Giants,6,1.97
+1940,20:10,Chicago White Sox,7,1.57,Cleveland Guardians,10,2.49
+1941,20:10,Kansas City Royals,5,1.99,Minnesota Twins,4,1.86
+1942,20:05,Texas Rangers,2,2.05,Los Angeles Angels,5,1.83
+1943,19:40,Milwaukee Brewers,5,2.02,New York Mets,7,1.84
+1944,19:20,Atlanta Braves,3,1.29,Washington Nationals,2,3.77
+1945,19:05,Baltimore Orioles,2,1.54,Detroit Tigers,3,2.56
+1946,19:05,New York Yankees,9,1.31,Pittsburgh Pirates,8,3.65
+1947,18:45,Philadelphia Phillies,11,2.00,Toronto Blue Jays,18,1.85
+1948,18:40,Cincinnati Reds,3,2.05,Boston Red Sox,5,1.81
+1949,18:40,Miami Marlins,1,1.61,Chicago Cubs,2,2.41
+1950,18:40,Tampa Bay Rays,0,1.72,Houston Astros,5,2.22
+1951,15:10,Los Angeles Dodgers,6,1.48,Arizona Diamondbacks,5,2.77
+1952,22:10,Los Angeles Dodgers,5,1.35,Arizona Diamondbacks,2,3.33
+1953,20:40,Colorado Rockies,7,2.06,San Francisco Giants,10,1.80
+1954,19:40,Milwaukee Brewers,2,1.84,New York Mets,7,2.02
+1955,19:20,Atlanta Braves,5,1.28,Washington Nationals,2,3.90
+1956,22:10,Los Angeles Dodgers,2,1.33,Arizona Diamondbacks,5,3.44
+1957,21:40,Oakland Athletics,4,2.96,Seattle Mariners,1,1.43
+1958,21:40,San Diego Padres,5,1.85,St.Louis Cardinals,0,2.00
+1959,20:40,Colorado Rockies,3,1.89,San Francisco Giants,6,1.97
+1960,20:10,Chicago White Sox,7,1.57,Cleveland Guardians,10,2.49
+1961,20:10,Kansas City Royals,5,1.99,Minnesota Twins,4,1.86
+1962,20:05,Texas Rangers,2,2.05,Los Angeles Angels,5,1.83
+1963,19:40,Milwaukee Brewers,5,2.02,New York Mets,7,1.84
+1964,19:20,Atlanta Braves,3,1.29,Washington Nationals,2,3.77
+1965,19:05,Baltimore Orioles,2,1.54,Detroit Tigers,3,2.56
+1966,19:05,New York Yankees,9,1.31,Pittsburgh Pirates,8,3.65
+1967,18:45,Philadelphia Phillies,11,2.00,Toronto Blue Jays,18,1.85
+1968,18:40,Cincinnati Reds,3,2.05,Boston Red Sox,5,1.81
+1969,18:40,Miami Marlins,1,1.61,Chicago Cubs,2,2.41
+1970,18:40,Tampa Bay Rays,0,1.72,Houston Astros,5,2.22
+1971,15:10,Los Angeles Dodgers,6,1.48,Arizona Diamondbacks,5,2.77
+1972,22:10,Los Angeles Dodgers,5,1.35,Arizona Diamondbacks,2,3.33
+1973,20:40,Colorado Rockies,7,2.06,San Francisco Giants,10,1.80
+1974,19:40,Milwaukee Brewers,2,1.84,New York Mets,7,2.02
+1975,19:20,Atlanta Braves,5,1.28,Washington Nationals,2,3.90
+1976,18:40,Cincinnati Reds,2,2.76,Milwaukee Brewers,10,1.48
+1977,18:35,Pittsburgh Pirates,6,1.92,Chicago Cubs,0,1.93
+1978,18:10,Miami Marlins,4,1.48,Washington Nationals,1,2.77
+1979,18:10,Tampa Bay Rays,1,1.90,Toronto Blue Jays,3,1.97
+1980,16:07,Oakland Athletics,10,4.09,New York Mets,4,1.26
+1981,16:05,Philadelphia Phillies,3,2.05,Atlanta Braves,6,1.81
+1982,13:05,New York Yankees,7,1.63,Boston Red Sox,5,2.37
+1983,22:10,Los Angeles Dodgers,0,1.60,St.Louis Cardinals,11,2.44
+1984,21:40,Arizona Diamondbacks,5,2.42,San Francisco Giants,6,1.61
+1985,21:40,Oakland Athletics,2,2.90,New York Mets,9,1.43
+1986,20:10,Chicago White Sox,3,1.55,Detroit Tigers,5,2.56
+1987,20:10,Colorado Rockies,4,2.46,San Diego Padres,3,1.59
+1988,20:10,Kansas City Royals,5,1.77,Seattle Mariners,1,2.07
+1989,20:10,Minnesota Twins,2,2.44,Los Angeles Angels,4,1.61
+1990,20:05,Texas Rangers,3,1.81,Cleveland Guardians,6,2.06
+1991,19:10,Tampa Bay Rays,10,1.70,Toronto Blue Jays,6,2.22
+1992,19:05,Baltimore Orioles,6,2.21,Houston Astros,0,1.71
+1993,19:05,New York Yankees,5,1.43,Boston Red Sox,4,2.97
+1994,19:05,Philadelphia Phillies,9,1.65,Atlanta Braves,1,2.36
+1995,18:40,Cincinnati Reds,3,2.43,Milwaukee Brewers,5,1.60
+1996,18:40,Cincinnati Reds,2,2.76,Milwaukee Brewers,10,1.48
+1997,18:35,Pittsburgh Pirates,6,1.92,Chicago Cubs,0,1.93
+1998,18:10,Miami Marlins,4,1.48,Washington Nationals,1,2.77
+1999,18:10,Tampa Bay Rays,1,1.90,Toronto Blue Jays,3,1.97
+2000,16:07,Oakland Athletics,10,4.09,New York Mets,4,1.26
+2001,16:05,Philadelphia Phillies,3,2.05,Atlanta Braves,6,1.81
+2002,13:05,New York Yankees,7,1.63,Boston Red Sox,5,2.37
+2003,22:10,Los Angeles Dodgers,0,1.60,St.Louis Cardinals,11,2.44
+2004,21:40,Arizona Diamondbacks,5,2.42,San Francisco Giants,6,1.61
+2005,21:40,Oakland Athletics,2,2.90,New York Mets,9,1.43
+2006,20:10,Chicago White Sox,3,1.55,Detroit Tigers,5,2.56
+2007,20:10,Colorado Rockies,4,2.46,San Diego Padres,3,1.59
+2008,20:10,Kansas City Royals,5,1.77,Seattle Mariners,1,2.07
+2009,20:10,Minnesota Twins,2,2.44,Los Angeles Angels,4,1.61
+2010,20:05,Texas Rangers,3,1.81,Cleveland Guardians,6,2.06
+2011,19:10,Tampa Bay Rays,10,1.70,Toronto Blue Jays,6,2.22
+2012,19:05,Baltimore Orioles,6,2.21,Houston Astros,0,1.71
+2013,19:05,New York Yankees,5,1.43,Boston Red Sox,4,2.97
+2014,19:05,Philadelphia Phillies,9,1.65,Atlanta Braves,1,2.36
+2015,18:40,Cincinnati Reds,3,2.43,Milwaukee Brewers,5,1.60
+2016,19:40,Chicago Cubs,4,2.61,Philadelphia Phillies,2,1.53
+2017,19:10,Boston Red Sox,3,1.73,Baltimore Orioles,1,2.18
+2018,19:10,New York Mets,5,1.52,Miami Marlins,4,2.63
+2019,19:07,Toronto Blue Jays,3,2.09,New York Yankees,8,1.79
+2020,19:05,Washington Nationals,3,2.76,Atlanta Braves,2,1.48
+2021,18:40,Detroit Tigers,2,1.75,Kansas City Royals,1,2.14
+2022,18:10,Cleveland Guardians,2,1.79,Tampa Bay Rays,1,2.09
+2023,12:35,Pittsburgh Pirates,4,1.84,Cincinnati Reds,3,2.02
+2024,21:45,San Francisco Giants,5,1.50,Colorado Rockies,2,2.71
+2025,21:40,San Diego Padres,4,1.92,Los Angeles Dodgers,3,1.92
+2026,21:40,Seattle Mariners,0,1.49,Texas Rangers,5,2.70
+2027,21:38,Los Angeles Angels,4,1.49,Oakland Athletics,3,2.74
+2028,20:10,Houston Astros,10,1.48,Arizona Diamondbacks,2,2.78
+2029,19:40,Chicago Cubs,2,2.46,Philadelphia Phillies,1,1.59
+2030,19:40,Milwaukee Brewers,2,1.97,St.Louis Cardinals,6,1.87
+2031,19:40,Minnesota Twins,4,2.04,Chicago White Sox,0,1.82
+2032,19:10,Boston Red Sox,13,1.79,Baltimore Orioles,9,2.05
+2033,19:10,New York Mets,4,1.47,Miami Marlins,6,2.78
+2034,19:07,Toronto Blue Jays,2,1.93,New York Yankees,5,1.93
+2035,19:05,Washington Nationals,2,2.82,Atlanta Braves,8,1.46
+2036,19:40,Chicago Cubs,4,2.61,Philadelphia Phillies,2,1.53
+2037,19:10,Boston Red Sox,3,1.73,Baltimore Orioles,1,2.18
+2038,19:10,New York Mets,5,1.52,Miami Marlins,4,2.63
+2039,19:07,Toronto Blue Jays,3,2.09,New York Yankees,8,1.79
+2040,19:05,Washington Nationals,3,2.76,Atlanta Braves,2,1.48
+2041,18:40,Detroit Tigers,2,1.75,Kansas City Royals,1,2.14
+2042,18:10,Cleveland Guardians,2,1.79,Tampa Bay Rays,1,2.09
+2043,12:35,Pittsburgh Pirates,4,1.84,Cincinnati Reds,3,2.02
+2044,21:45,San Francisco Giants,5,1.50,Colorado Rockies,2,2.71
+2045,21:40,San Diego Padres,4,1.92,Los Angeles Dodgers,3,1.92
+2046,21:40,Seattle Mariners,0,1.49,Texas Rangers,5,2.70
+2047,21:38,Los Angeles Angels,4,1.49,Oakland Athletics,3,2.74
+2048,20:10,Houston Astros,10,1.48,Arizona Diamondbacks,2,2.78
+2049,19:40,Chicago Cubs,2,2.46,Philadelphia Phillies,1,1.59
+2050,19:40,Milwaukee Brewers,2,1.97,St.Louis Cardinals,6,1.87
+2051,19:40,Minnesota Twins,4,2.04,Chicago White Sox,0,1.82
+2052,19:10,Boston Red Sox,13,1.79,Baltimore Orioles,9,2.05
+2053,19:10,New York Mets,4,1.47,Miami Marlins,6,2.78
+2054,19:07,Toronto Blue Jays,2,1.93,New York Yankees,5,1.93
+2055,19:05,Washington Nationals,2,2.82,Atlanta Braves,8,1.46
+2056,13:35,New York Yankees,1,1.77,Baltimore Orioles,3,2.12
+2057,12:10,Detroit Tigers,5,1.96,Minnesota Twins,2,1.89
+2058,21:10,Los Angeles Dodgers,6,1.37,Colorado Rockies,4,3.22
+2059,21:07,Los Angeles Angels,3,1.73,Texas Rangers,2,2.17
+2060,20:40,San Diego Padres,5,1.86,Chicago White Sox,2,2.01
+2061,19:20,Atlanta Braves,4,2.00,New York Mets,2,1.86
+2062,19:20,Houston Astros,2,1.66,Tampa Bay Rays,1,2.30
+2063,19:15,St.Louis Cardinals,13,1.44,Pittsburgh Pirates,3,2.91
+2064,19:10,Milwaukee Brewers,3,1.55,Miami Marlins,4,2.54
+2065,19:05,Washington Nationals,2,2.67,Philadelphia Phillies,8,1.50
+2066,18:10,Cleveland Guardians,1,1.55,Kansas City Royals,7,2.55
+2067,18:10,Detroit Tigers,3,2.11,Minnesota Twins,2,1.77
+2068,16:10,Seattle Mariners,5,1.43,Oakland Athletics,1,2.96
+2069,16:05,San Francisco Giants,4,1.82,Arizona Diamondbacks,8,2.05
+2070,15:07,Toronto Blue Jays,10,1.62,Boston Red Sox,0,2.37
+2071,14:20,Chicago Cubs,2,1.73,Cincinnati Reds,1,2.17
+2072,13:05,New York Yankees,8,1.42,Baltimore Orioles,0,3.02
+2073,13:05,Washington Nationals,13,2.67,Philadelphia Phillies,4,1.51
+2074,22:15,San Francisco Giants,10,1.75,Arizona Diamondbacks,4,2.14
+2075,22:10,Los Angeles Dodgers,10,1.25,Colorado Rockies,1,4.23
+2076,13:35,New York Yankees,1,1.77,Baltimore Orioles,3,2.12
+2077,12:10,Detroit Tigers,5,1.96,Minnesota Twins,2,1.89
+2078,21:10,Los Angeles Dodgers,6,1.37,Colorado Rockies,4,3.22
+2079,21:07,Los Angeles Angels,3,1.73,Texas Rangers,2,2.17
+2080,20:40,San Diego Padres,5,1.86,Chicago White Sox,2,2.01
+2081,19:20,Atlanta Braves,4,2.00,New York Mets,2,1.86
+2082,19:20,Houston Astros,2,1.66,Tampa Bay Rays,1,2.30
+2083,19:15,St.Louis Cardinals,13,1.44,Pittsburgh Pirates,3,2.91
+2084,19:10,Milwaukee Brewers,3,1.55,Miami Marlins,4,2.54
+2085,19:05,Washington Nationals,2,2.67,Philadelphia Phillies,8,1.50
+2086,18:10,Cleveland Guardians,1,1.55,Kansas City Royals,7,2.55
+2087,18:10,Detroit Tigers,3,2.11,Minnesota Twins,2,1.77
+2088,16:10,Seattle Mariners,5,1.43,Oakland Athletics,1,2.96
+2089,16:05,San Francisco Giants,4,1.82,Arizona Diamondbacks,8,2.05
+2090,15:07,Toronto Blue Jays,10,1.62,Boston Red Sox,0,2.37
+2091,14:20,Chicago Cubs,2,1.73,Cincinnati Reds,1,2.17
+2092,13:05,New York Yankees,8,1.42,Baltimore Orioles,0,3.02
+2093,13:05,Washington Nationals,13,2.67,Philadelphia Phillies,4,1.51
+2094,22:15,San Francisco Giants,10,1.75,Arizona Diamondbacks,4,2.14
+2095,22:10,Los Angeles Dodgers,10,1.25,Colorado Rockies,1,4.23
+2096,16:10,Milwaukee Brewers,2,1.58,Arizona Diamondbacks,4,2.46
+2097,16:05,Baltimore Orioles,1,1.64,Toronto Blue Jays,5,2.27
+2098,16:05,Pittsburgh Pirates,5,1.77,St.Louis Cardinals,3,2.11
+2099,16:05,Texas Rangers,4,1.94,New York Yankees,2,1.92
+2100,16:00,Oakland Athletics,3,2.91,Los Angeles Angels,2,1.44
+2101,12:35,Baltimore Orioles,5,1.63,Toronto Blue Jays,4,2.36
+2102,22:10,Los Angeles Dodgers,2,1.27,Colorado Rockies,5,3.97
+2103,21:40,Oakland Athletics,2,2.33,Los Angeles Angels,1,1.65
+2104,21:40,San Diego Padres,6,1.68,San Francisco Giants,2,2.26
+2105,21:10,Seattle Mariners,9,1.58,Detroit Tigers,6,2.57
+2106,20:10,Chicago White Sox,8,1.72,Minnesota Twins,3,2.18
+2107,20:10,Houston Astros,10,1.45,Philadelphia Phillies,0,2.90
+2108,20:05,Texas Rangers,3,2.77,New York Yankees,2,1.48
+2109,19:40,Milwaukee Brewers,3,1.96,Arizona Diamondbacks,0,1.84
+2110,19:10,Boston Red Sox,6,1.99,Tampa Bay Rays,0,1.86
+2111,19:10,New York Mets,8,1.36,Washington Nationals,0,3.24
+2112,18:40,Cincinnati Reds,3,1.96,Chicago Cubs,2,1.88
+2113,18:40,Miami Marlins,1,2.45,Atlanta Braves,2,1.59
+2114,18:35,Pittsburgh Pirates,7,2.00,St.Louis Cardinals,8,1.85
+2115,18:10,Cleveland Guardians,5,1.53,Kansas City Royals,3,2.61
+2116,16:10,Milwaukee Brewers,2,1.58,Arizona Diamondbacks,4,2.46
+2117,16:05,Baltimore Orioles,1,1.64,Toronto Blue Jays,5,2.27
+2118,16:05,Pittsburgh Pirates,5,1.77,St.Louis Cardinals,3,2.11
+2119,16:05,Texas Rangers,4,1.94,New York Yankees,2,1.92
+2120,16:00,Oakland Athletics,3,2.91,Los Angeles Angels,2,1.44
+2121,12:35,Baltimore Orioles,5,1.63,Toronto Blue Jays,4,2.36
+2122,22:10,Los Angeles Dodgers,2,1.27,Colorado Rockies,5,3.97
+2123,21:40,Oakland Athletics,2,2.33,Los Angeles Angels,1,1.65
+2124,21:40,San Diego Padres,6,1.68,San Francisco Giants,2,2.26
+2125,21:10,Seattle Mariners,9,1.58,Detroit Tigers,6,2.57
+2126,20:10,Chicago White Sox,8,1.72,Minnesota Twins,3,2.18
+2127,20:10,Houston Astros,10,1.45,Philadelphia Phillies,0,2.90
+2128,20:05,Texas Rangers,3,2.77,New York Yankees,2,1.48
+2129,19:40,Milwaukee Brewers,3,1.96,Arizona Diamondbacks,0,1.84
+2130,19:10,Boston Red Sox,6,1.99,Tampa Bay Rays,0,1.86
+2131,19:10,New York Mets,8,1.36,Washington Nationals,0,3.24
+2132,18:40,Cincinnati Reds,3,1.96,Chicago Cubs,2,1.88
+2133,18:40,Miami Marlins,1,2.45,Atlanta Braves,2,1.59
+2134,18:35,Pittsburgh Pirates,7,2.00,St.Louis Cardinals,8,1.85
+2135,18:10,Cleveland Guardians,5,1.53,Kansas City Royals,3,2.61
+2136,20:03,Houston Astros,4,1.67,Philadelphia Phillies,1,2.28
+2137,20:03,Philadelphia Phillies,2,2.32,Houston Astros,3,1.66
+2138,20:03,Philadelphia Phillies,0,1.87,Houston Astros,5,1.98
+2139,20:03,Philadelphia Phillies,7,2.06,Houston Astros,0,1.81
+2140,20:03,Houston Astros,5,1.68,Philadelphia Phillies,2,2.23
+2141,20:03,Houston Astros,5,1.61,Philadelphia Phillies,6,2.42
+2142,19:07,New York Yankees,5,1.83,Houston Astros,6,2.05
+2143,14:37,Philadelphia Phillies,4,1.72,San Diego Padres,3,2.20
+2144,19:45,Philadelphia Phillies,10,1.89,San Diego Padres,6,1.96
+2145,17:07,New York Yankees,0,1.69,Houston Astros,5,2.26
+2146,20:03,Houston Astros,4,1.67,Philadelphia Phillies,1,2.28
+2147,20:03,Philadelphia Phillies,2,2.32,Houston Astros,3,1.66
+2148,20:03,Philadelphia Phillies,0,1.87,Houston Astros,5,1.98
+2149,20:03,Philadelphia Phillies,7,2.06,Houston Astros,0,1.81
+2150,20:03,Houston Astros,5,1.68,Philadelphia Phillies,2,2.23
+2151,20:03,Houston Astros,5,1.61,Philadelphia Phillies,6,2.42
+2152,19:07,New York Yankees,5,1.83,Houston Astros,6,2.05
+2153,14:37,Philadelphia Phillies,4,1.72,San Diego Padres,3,2.20
+2154,19:45,Philadelphia Phillies,10,1.89,San Diego Padres,6,1.96
+2155,17:07,New York Yankees,0,1.69,Houston Astros,5,2.26
